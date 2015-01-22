@@ -1,0 +1,5312 @@
+[
+    {
+        "sound": "431\\1\\1_0.mp3", 
+        "sound_mark": "[əb'hɔ:]", 
+        "chinese": "vt. 憎恶，厌恶，痛恨", 
+        "english": "abhor"
+    }, 
+    {
+        "sound": "431\\1\\1_1.mp3", 
+        "sound_mark": "[əb'dʒuə]", 
+        "chinese": "vt. 责令，恳请", 
+        "english": "abjure"
+    }, 
+    {
+        "sound": "431\\1\\1_2.mp3", 
+        "sound_mark": "[ə'bɔ:tiv]", 
+        "chinese": "adj. 早产的，失败的，落空的，[生]发育不全的", 
+        "english": "abortive"
+    }, 
+    {
+        "sound": "431\\1\\1_3.mp3", 
+        "sound_mark": "[ə'baund]", 
+        "chinese": "v. 富于，充满", 
+        "english": "abound"
+    }, 
+    {
+        "sound": "431\\1\\1_4.mp3", 
+        "sound_mark": "['æbrəugeit]", 
+        "chinese": "vt. 废除，废止", 
+        "english": "abrogate"
+    }, 
+    {
+        "sound": "431\\1\\1_5.mp3", 
+        "sound_mark": "[æb'sti:miəs]", 
+        "chinese": "adj. 节制的", 
+        "english": "abstemious"
+    }, 
+    {
+        "sound": "431\\1\\1_6.mp3", 
+        "sound_mark": "[əb'sə:d]", 
+        "chinese": "adj. 荒唐的n. 荒唐", 
+        "english": "absurd"
+    }, 
+    {
+        "sound": "431\\1\\1_7.mp3", 
+        "sound_mark": "['ækses]", 
+        "chinese": "n. 通道，入口n. 进入，接近(的机会), 使用之权vt. (电脑)存取，进入", 
+        "english": "access"
+    }, 
+    {
+        "sound": "431\\1\\1_8.mp3", 
+        "sound_mark": "[ə'kɔmədeit]", 
+        "chinese": "vi. 使自己适应vt. 使一致，和解；提供方便；容纳；顾及", 
+        "english": "accommodate"
+    }, 
+    {
+        "sound": "431\\1\\1_9.mp3", 
+        "sound_mark": "[ə'kɔmplis]", 
+        "chinese": "n. 共犯，同谋，帮凶", 
+        "english": "accomplice"
+    }, 
+    {
+        "sound": "431\\1\\1_10.mp3", 
+        "sound_mark": "[ə'kɔst]", 
+        "chinese": "vt. 勾引；引诱；对…说话；搭讪", 
+        "english": "accost"
+    }, 
+    {
+        "sound": "431\\1\\1_11.mp3", 
+        "sound_mark": "[ək'nɔlidʒ]", 
+        "chinese": "vt. 承认，公认，告知收到，表示感谢，注意到", 
+        "english": "acknowledge"
+    }, 
+    {
+        "sound": "431\\1\\1_12.mp3", 
+        "sound_mark": "['ækmi]", 
+        "chinese": "n. 顶点，极点", 
+        "english": "acme"
+    }, 
+    {
+        "sound": "431\\1\\1_13.mp3", 
+        "sound_mark": "[.ækri'məunjəs]", 
+        "chinese": "adj. 尖刻的", 
+        "english": "acrimonious"
+    }, 
+    {
+        "sound": "431\\1\\1_14.mp3", 
+        "sound_mark": "[ə'kju:t]", 
+        "chinese": "adj. 敏锐的，剧烈的", 
+        "english": "acute"
+    }, 
+    {
+        "sound": "431\\2\\2_0.mp3", 
+        "sound_mark": "['ædəmənt]", 
+        "chinese": "adj. 非常坚硬的，强硬的，固执的n. 坚硬无比之物，硬石", 
+        "english": "adamant"
+    }, 
+    {
+        "sound": "431\\2\\2_1.mp3", 
+        "sound_mark": "[əd'hiərənt]", 
+        "chinese": "n. 信徒，追随者，拥护者adj. 附着的，粘连的", 
+        "english": "adherent"
+    }, 
+    {
+        "sound": "431\\2\\2_2.mp3", 
+        "sound_mark": "[əd'mɔniʃ]", 
+        "chinese": "vt. 劝告，训诫，告诫，提醒，敦促", 
+        "english": "admonish"
+    }, 
+    {
+        "sound": "431\\2\\2_3.mp3", 
+        "sound_mark": "[ə'drɔit]", 
+        "chinese": "adj. 熟练的，灵巧的，机敏的", 
+        "english": "adroit"
+    }, 
+    {
+        "sound": "431\\2\\2_4.mp3", 
+        "sound_mark": "['ædvənt]", 
+        "chinese": "n. 出现，到来", 
+        "english": "advent"
+    }, 
+    {
+        "sound": "431\\2\\2_5.mp3", 
+        "sound_mark": "['ædvəsəri]", 
+        "chinese": "n. 敌手，对手", 
+        "english": "adversary"
+    }, 
+    {
+        "sound": "431\\2\\2_6.mp3", 
+        "sound_mark": "['ædvə:s]", 
+        "chinese": "adj. 不利的", 
+        "english": "adverse"
+    }, 
+    {
+        "sound": "431\\2\\2_7.mp3", 
+        "sound_mark": "['ædvəkeit,'ædvəkit]", 
+        "chinese": "n. 提倡者，拥护者，辩护者，律师v. 主张，提倡", 
+        "english": "advocate"
+    }, 
+    {
+        "sound": "431\\2\\2_8.mp3", 
+        "sound_mark": "['i:dʒis]", 
+        "chinese": "n. 宙斯盾，保护，庇护，资助", 
+        "english": "aegis"
+    }, 
+    {
+        "sound": "431\\2\\2_9.mp3", 
+        "sound_mark": "[ə'flikt]", 
+        "chinese": "vt. 使苦恼，折磨", 
+        "english": "afflict"
+    }, 
+    {
+        "sound": "431\\2\\2_10.mp3", 
+        "sound_mark": "[ə'lei]", 
+        "chinese": "v. 使 ... 镇静，使 ... 缓和", 
+        "english": "allay"
+    }, 
+    {
+        "sound": "431\\2\\2_11.mp3", 
+        "sound_mark": "[ə'lədʒd]", 
+        "chinese": "adj. 被说成的，声称的，有嫌疑的", 
+        "english": "alleged"
+    }, 
+    {
+        "sound": "431\\2\\2_12.mp3", 
+        "sound_mark": "[ə'li:vieit]", 
+        "chinese": "vt. 减轻，使 ... 缓和", 
+        "english": "alleviate"
+    }, 
+    {
+        "sound": "431\\2\\2_13.mp3", 
+        "sound_mark": "[ə'lu:d]", 
+        "chinese": "vi. 暗示，暗指", 
+        "english": "allude"
+    }, 
+    {
+        "sound": "431\\2\\2_14.mp3", 
+        "sound_mark": "[ə'lu:f]", 
+        "chinese": "adj. 疏远的，冷淡的adv. 远离地", 
+        "english": "aloof"
+    }, 
+    {
+        "sound": "431\\3\\3_0.mp3", 
+        "sound_mark": "[,æltru'istik]", 
+        "chinese": "adj. 利他的；无私心的", 
+        "english": "altruistic"
+    }, 
+    {
+        "sound": "431\\3\\3_1.mp3", 
+        "sound_mark": "[ə'mi:ljəreit]", 
+        "chinese": "vt. 使 ... 改善，改良vi. 改善，变好", 
+        "english": "ameliorate"
+    }, 
+    {
+        "sound": "431\\3\\3_2.mp3", 
+        "sound_mark": "['æmikəbl]", 
+        "chinese": "adj. 友好的，和睦的", 
+        "english": "amicable"
+    }, 
+    {
+        "sound": "431\\3\\3_3.mp3", 
+        "sound_mark": "['æmnesti]", 
+        "chinese": "n. 大赦，特赦", 
+        "english": "amnesty"
+    }, 
+    {
+        "sound": "431\\3\\3_4.mp3", 
+        "sound_mark": "['æmərəs]", 
+        "chinese": "adj. 多情的，表示爱情的，恋爱的", 
+        "english": "amorous"
+    }, 
+    {
+        "sound": "431\\3\\3_5.mp3", 
+        "sound_mark": "[ə'næləgəs]", 
+        "chinese": "adj. 类似的", 
+        "english": "analogous"
+    }, 
+    {
+        "sound": "431\\3\\3_6.mp3", 
+        "sound_mark": "[ə'næθimə]", 
+        "chinese": "n. 咒逐，革出教门，被咒逐的人(物)n. 令人极其讨厌的事", 
+        "english": "anathema"
+    }, 
+    {
+        "sound": "431\\3\\3_7.mp3", 
+        "sound_mark": "['ænəlz]", 
+        "chinese": "n. 纪年表，年鉴，年报名词annal的名词形式", 
+        "english": "annals"
+    }, 
+    {
+        "sound": "431\\3\\3_8.mp3", 
+        "sound_mark": "[ə'nɔməli]", 
+        "chinese": "n. 异常，反常", 
+        "english": "anomaly"
+    }, 
+    {
+        "sound": "431\\3\\3_9.mp3", 
+        "sound_mark": "[æn'tipəθi]", 
+        "chinese": "n. 憎恶，反感", 
+        "english": "antipathy"
+    }, 
+    {
+        "sound": "431\\3\\3_10.mp3", 
+        "sound_mark": "['æntikweitid]", 
+        "chinese": "adj. 陈旧的，过时的，年老的动词antiquate的过去式和过去分词", 
+        "english": "antiquated"
+    }, 
+    {
+        "sound": "431\\3\\3_11.mp3", 
+        "sound_mark": "[æn'tiθisis]", 
+        "chinese": "n. 对照，正相反，对比法", 
+        "english": "antithesis"
+    }, 
+    {
+        "sound": "431\\3\\3_12.mp3", 
+        "sound_mark": "['æpəθi]", 
+        "chinese": "n. 缺乏感情或兴趣，冷漠", 
+        "english": "apathy"
+    }, 
+    {
+        "sound": "431\\3\\3_13.mp3", 
+        "sound_mark": "[ə'pɔ:l]", 
+        "chinese": "v. 使 ... 胆寒，使 ... 惊骇", 
+        "english": "appall"
+    }, 
+    {
+        "sound": "431\\3\\3_14.mp3", 
+        "sound_mark": "[.æpə'leiʃən]", 
+        "chinese": "n. 名称，称呼", 
+        "english": "appellation"
+    }, 
+    {
+        "sound": "431\\4\\4_0.mp3", 
+        "sound_mark": "['ɑ:bitə]", 
+        "chinese": "n. 仲裁人，裁决者", 
+        "english": "arbiter"
+    }, 
+    {
+        "sound": "431\\4\\4_1.mp3", 
+        "sound_mark": "[ɑ:'keiik]", 
+        "chinese": "adj. 已不通用的，古老的，古代的", 
+        "english": "archaic"
+    }, 
+    {
+        "sound": "431\\4\\4_2.mp3", 
+        "sound_mark": "['ɑ:dənt]", 
+        "chinese": "adj. 热心的，激烈的，热情的", 
+        "english": "ardent"
+    }, 
+    {
+        "sound": "431\\4\\4_3.mp3", 
+        "sound_mark": "[ə'rei]", 
+        "chinese": "n. 数组，(陈)排列，大批，一系列vt. 排列，布署，打扮", 
+        "english": "array"
+    }, 
+    {
+        "sound": "431\\4\\4_4.mp3", 
+        "sound_mark": "['ɑ:tifækt]", 
+        "chinese": "n. 人工制品，典型产物", 
+        "english": "artifact"
+    }, 
+    {
+        "sound": "431\\4\\4_5.mp3", 
+        "sound_mark": "['ɑ:tifis]", 
+        "chinese": "n. 技巧，巧妙，诡计", 
+        "english": "artifice"
+    }, 
+    {
+        "sound": "431\\4\\4_6.mp3", 
+        "sound_mark": "['ɑ:tlis]", 
+        "chinese": "adj. 单纯自然的，不造作的，质朴的", 
+        "english": "artless"
+    }, 
+    {
+        "sound": "431\\4\\4_7.mp3", 
+        "sound_mark": "[ə'send]", 
+        "chinese": "v. 上升，攀登", 
+        "english": "ascend"
+    }, 
+    {
+        "sound": "431\\4\\4_8.mp3", 
+        "sound_mark": "[.æsə'tein]", 
+        "chinese": "vt. 确定，探知，查明", 
+        "english": "ascertain"
+    }, 
+    {
+        "sound": "431\\4\\4_9.mp3", 
+        "sound_mark": "[ə'setik]", 
+        "chinese": "adj. 禁欲的n. 苦行者", 
+        "english": "ascetic"
+    }, 
+    {
+        "sound": "431\\4\\4_10.mp3", 
+        "sound_mark": "['æsinain]", 
+        "chinese": "adj. 驴的，像驴的，愚蠢的", 
+        "english": "asinine"
+    }, 
+    {
+        "sound": "431\\4\\4_11.mp3", 
+        "sound_mark": "[æs'periti]", 
+        "chinese": "n. 严酷，严厉，粗暴", 
+        "english": "asperity"
+    }, 
+    {
+        "sound": "431\\4\\4_12.mp3", 
+        "sound_mark": "[ə'spaiərənt]", 
+        "chinese": "n. 怀抱大志者，野心家adj. 有抱负的，有野心的", 
+        "english": "aspirant"
+    }, 
+    {
+        "sound": "431\\4\\4_13.mp3", 
+        "sound_mark": "[əs'paiə]", 
+        "chinese": "v. 热望，立志", 
+        "english": "aspire"
+    }, 
+    {
+        "sound": "431\\4\\4_14.mp3", 
+        "sound_mark": "['æset]", 
+        "chinese": "n. 资产，有用的东西，优点", 
+        "english": "asset"
+    }, 
+    {
+        "sound": "431\\5\\5_0.mp3", 
+        "sound_mark": "[ə'sidjuəs]", 
+        "chinese": "adj. 勤勉的，刻苦的", 
+        "english": "assiduous"
+    }, 
+    {
+        "sound": "431\\5\\5_1.mp3", 
+        "sound_mark": "[əs'tju:t]", 
+        "chinese": "adj. 机敏的，精明的，狡猾的", 
+        "english": "astute"
+    }, 
+    {
+        "sound": "431\\5\\5_2.mp3", 
+        "sound_mark": "['ætrəfi]", 
+        "chinese": "n. 萎缩，萎缩症v. (使）萎缩", 
+        "english": "atrophy"
+    }, 
+    {
+        "sound": "431\\5\\5_3.mp3", 
+        "sound_mark": "[ə'tenjueit]", 
+        "chinese": "v. 变细，变薄，稀释，变弱，衰减adj. 细的，薄的，减少的", 
+        "english": "attenuate"
+    }, 
+    {
+        "sound": "431\\5\\5_4.mp3", 
+        "sound_mark": "[ə'test]", 
+        "chinese": "v. 证明，作证，为 ... 作证", 
+        "english": "attest"
+    }, 
+    {
+        "sound": "431\\5\\5_5.mp3", 
+        "sound_mark": "[ei'tipikəl]", 
+        "chinese": "adj. 非典型的", 
+        "english": "atypical"
+    }, 
+    {
+        "sound": "431\\5\\5_6.mp3", 
+        "sound_mark": "[ɔ:'dæsiti]", 
+        "chinese": "n. 大胆，厚颜", 
+        "english": "audacity"
+    }, 
+    {
+        "sound": "431\\5\\5_7.mp3", 
+        "sound_mark": "[ɔ:g'ment,'ɔ:gmənt]", 
+        "chinese": "vt. 增加，补充vi. 扩大n. 增加，补充物", 
+        "english": "augment"
+    }, 
+    {
+        "sound": "431\\5\\5_8.mp3", 
+        "sound_mark": "[ɔ:'stiə]", 
+        "chinese": "adj. 严峻的，严格的，简朴的，禁欲的，苦行的", 
+        "english": "austere"
+    }, 
+    {
+        "sound": "431\\5\\5_9.mp3", 
+        "sound_mark": "[.ɔ:tə'meiʃən]", 
+        "chinese": "n. 自动化", 
+        "english": "automation"
+    }, 
+    {
+        "sound": "431\\5\\5_10.mp3", 
+        "sound_mark": "['ævəris]", 
+        "chinese": "n. 贪财，贪婪", 
+        "english": "avarice"
+    }, 
+    {
+        "sound": "431\\5\\5_11.mp3", 
+        "sound_mark": "[ə'və:ʃən]", 
+        "chinese": "n. 嫌恶，憎恨", 
+        "english": "aversion"
+    }, 
+    {
+        "sound": "431\\5\\5_12.mp3", 
+        "sound_mark": "['ævid]", 
+        "chinese": "adj. 渴望的，贪婪的，热心的", 
+        "english": "avid"
+    }, 
+    {
+        "sound": "431\\5\\5_13.mp3", 
+        "sound_mark": "['ɔ:səm]", 
+        "chinese": "adj. 可怕的，引起敬畏的adj. 了不起的，精彩的，绝妙的", 
+        "english": "awesome"
+    }, 
+    {
+        "sound": "431\\5\\5_14.mp3", 
+        "sound_mark": "['bædʒə]", 
+        "chinese": "n. 獾，獾皮(毛)Badger:獾州人(对威斯康星州人的昵称)v. 纠缠，一再烦扰，吵着要", 
+        "english": "badger"
+    }, 
+    {
+        "sound": "431\\6\\6_0.mp3", 
+        "sound_mark": "[.bægə'tel]", 
+        "chinese": "n. 琐事，小曲，弹子游戏", 
+        "english": "bagatelle"
+    }, 
+    {
+        "sound": "431\\6\\6_1.mp3", 
+        "sound_mark": "[bɔ:k]", 
+        "chinese": "v. 阻止，突然停止，退缩，拒绝n. 障碍，错误，失败n. 梁木[棒球]佯投，犯规动作，[游戏]开球区", 
+        "english": "balk"
+    }, 
+    {
+        "sound": "431\\6\\6_2.mp3", 
+        "sound_mark": "[bə'nɑ:l]", 
+        "chinese": "adj. 陈腐的，平庸的", 
+        "english": "banal"
+    }, 
+    {
+        "sound": "431\\6\\6_3.mp3", 
+        "sound_mark": "[bə'rɔmitə]", 
+        "chinese": "n. 气压计，晴雨表", 
+        "english": "barometer"
+    }, 
+    {
+        "sound": "431\\6\\6_4.mp3", 
+        "sound_mark": "['bedləm]", 
+        "chinese": "n. 混乱，骚乱，疯人院", 
+        "english": "bedlam"
+    }, 
+    {
+        "sound": "431\\6\\6_5.mp3", 
+        "sound_mark": "[bi'grʌdʒ]", 
+        "chinese": "vt. 嫉妒，羡慕，舍不得给", 
+        "english": "begrudge"
+    }, 
+    {
+        "sound": "431\\6\\6_6.mp3", 
+        "sound_mark": "[bi'leitid]", 
+        "chinese": "adj. 迟来的；误期的", 
+        "english": "belated"
+    }, 
+    {
+        "sound": "431\\6\\6_7.mp3", 
+        "sound_mark": "[bi'litl]", 
+        "chinese": "vt. 轻视，贬低，使相形见小", 
+        "english": "belittle"
+    }, 
+    {
+        "sound": "431\\6\\6_8.mp3", 
+        "sound_mark": "[bi'lidʒərənt]", 
+        "chinese": "adj. 好战的，交战的，交战国的n. 交战者", 
+        "english": "belligerent"
+    }, 
+    {
+        "sound": "431\\6\\6_9.mp3", 
+        "sound_mark": "[bi'nevələnt]", 
+        "chinese": "adj. 仁慈的，乐善好施的", 
+        "english": "benevolent"
+    }, 
+    {
+        "sound": "431\\6\\6_10.mp3", 
+        "sound_mark": "[bi'reft]", 
+        "chinese": "adj. 丧失的；被剥夺的；失去亲人的v. 失去…的（bereave的过去式）", 
+        "english": "bereft"
+    }, 
+    {
+        "sound": "431\\6\\6_11.mp3", 
+        "sound_mark": "[bi'si:dʒ]", 
+        "chinese": "vt. 围攻，包围", 
+        "english": "besiege"
+    }, 
+    {
+        "sound": "431\\6\\6_12.mp3", 
+        "sound_mark": "[bi'smə:tʃ]", 
+        "chinese": "vt. 弄污，污渍", 
+        "english": "besmirch"
+    }, 
+    {
+        "sound": "431\\6\\6_13.mp3", 
+        "sound_mark": "['baiəs]", 
+        "chinese": "n. 偏见，斜纹vt. 使偏心", 
+        "english": "bias"
+    }, 
+    {
+        "sound": "431\\6\\6_14.mp3", 
+        "sound_mark": "['bigət]", 
+        "chinese": "n. (宗教，政治等的)盲信者，顽固者", 
+        "english": "bigot"
+    }, 
+    {
+        "sound": "431\\7\\7_0.mp3", 
+        "sound_mark": "[bi'zɑ:]", 
+        "chinese": "adj. 奇异的，怪诞的\t\t\tn. 奇异花", 
+        "english": "bizarre"
+    }, 
+    {
+        "sound": "431\\7\\7_1.mp3", 
+        "sound_mark": "['bleitənt]", 
+        "chinese": "adj. 喧嚣的，吵闹的，明目张胆的，炫耀的", 
+        "english": "blatant"
+    }, 
+    {
+        "sound": "431\\7\\7_2.mp3", 
+        "sound_mark": "[blis]", 
+        "chinese": "n. 福佑，天赐的福", 
+        "english": "bliss"
+    }, 
+    {
+        "sound": "431\\7\\7_3.mp3", 
+        "sound_mark": "[blʌnt]", 
+        "chinese": "adj. 钝的，迟钝的，直率的v. 使迟钝，变钝\t\t\tn. 混了大麻的雪茄", 
+        "english": "blunt"
+    }, 
+    {
+        "sound": "431\\7\\7_4.mp3", 
+        "sound_mark": "['bəugəs]", 
+        "chinese": "adj. 假的，伪造的", 
+        "english": "bogus"
+    }, 
+    {
+        "sound": "431\\7\\7_5.mp3", 
+        "sound_mark": "[bɔ:n]", 
+        "chinese": "adj. （法）好的", 
+        "english": "bon"
+    }, 
+    {
+        "sound": "431\\7\\7_6.mp3", 
+        "sound_mark": "[bræʃ]", 
+        "chinese": "adj. 轻率的，鲁莽的，无礼的n. 胃灼热，骤雨，碎片", 
+        "english": "brash"
+    }, 
+    {
+        "sound": "431\\7\\7_7.mp3", 
+        "sound_mark": "['briɡənd]", 
+        "chinese": "n. 土匪；强盗；盗贼", 
+        "english": "brigand"
+    }, 
+    {
+        "sound": "431\\7\\7_8.mp3", 
+        "sound_mark": "['brisl]", 
+        "chinese": "n. 刚毛，猪鬃v. 僵硬，直立，激怒", 
+        "english": "bristle"
+    }, 
+    {
+        "sound": "431\\7\\7_9.mp3", 
+        "sound_mark": "[bʌf]", 
+        "chinese": "n. 浅黄色(磨轮，抛光轮，软皮)vt 有软皮摩擦(抛光，缓冲)", 
+        "english": "buff"
+    }, 
+    {
+        "sound": "431\\7\\7_10.mp3", 
+        "sound_mark": "['bulwək]", 
+        "chinese": "n. 壁垒，保障，防波堤(复) bulwarks:（船的）舷墙vt. 用堡垒防护", 
+        "english": "bulwark"
+    }, 
+    {
+        "sound": "431\\7\\7_11.mp3", 
+        "sound_mark": "['bə:dʒən]", 
+        "chinese": "n. 芽，嫩枝v. 萌芽，发芽", 
+        "english": "burgeon"
+    }, 
+    {
+        "sound": "431\\7\\7_12.mp3", 
+        "sound_mark": "[kæʃ]", 
+        "chinese": "n. 隐藏所，贮藏物，[计]高速缓冲存储器vt. 隐藏，贮藏", 
+        "english": "cache"
+    }, 
+    {
+        "sound": "431\\7\\7_13.mp3", 
+        "sound_mark": "[kæ'kɔfəni]", 
+        "chinese": "n. 刺耳的声音，杂音", 
+        "english": "cacophony"
+    }, 
+    {
+        "sound": "431\\7\\7_14.mp3", 
+        "sound_mark": "[kə'dʒəul]", 
+        "chinese": "v. (以甜言蜜语)哄骗", 
+        "english": "cajole"
+    }, 
+    {
+        "sound": "431\\8\\8_0.mp3", 
+        "sound_mark": "['kæləs]", 
+        "chinese": "adj. 麻木的，无情的，硬结的，起老茧的", 
+        "english": "callous"
+    }, 
+    {
+        "sound": "431\\8\\8_1.mp3", 
+        "sound_mark": "['kæləu]", 
+        "chinese": "adj. （人）未成熟的", 
+        "english": "callow"
+    }, 
+    {
+        "sound": "431\\8\\8_2.mp3", 
+        "sound_mark": "['kæləmni]", 
+        "chinese": "n. 诽谤，中伤", 
+        "english": "calumny"
+    }, 
+    {
+        "sound": "431\\8\\8_3.mp3", 
+        "sound_mark": "[kə'nɑ:d]", 
+        "chinese": "n. 谣言，误传n. 鸭式飞机", 
+        "english": "canard"
+    }, 
+    {
+        "sound": "431\\8\\8_4.mp3", 
+        "sound_mark": "['kændə]", 
+        "chinese": "n. 坦白；直率", 
+        "english": "candor"
+    }, 
+    {
+        "sound": "431\\8\\8_5.mp3", 
+        "sound_mark": "[kænt]", 
+        "chinese": "n. 倾斜，斜面，斜角n. 伪善之言，黑话v. (使)倾斜vi. 伪善地说，说术语adj. 倾斜的", 
+        "english": "cant"
+    }, 
+    {
+        "sound": "431\\8\\8_6.mp3", 
+        "sound_mark": "[kə'pitjuleit]", 
+        "chinese": "vi. 有条件投降", 
+        "english": "capitulate"
+    }, 
+    {
+        "sound": "431\\8\\8_7.mp3", 
+        "sound_mark": "[kə'priʃəs]", 
+        "chinese": "adj. 变化无常的，任性的", 
+        "english": "capricious"
+    }, 
+    {
+        "sound": "431\\8\\8_8.mp3", 
+        "sound_mark": "['kɑ:nidʒ]", 
+        "chinese": "n. 大屠杀，残杀", 
+        "english": "carnage"
+    }, 
+    {
+        "sound": "431\\8\\8_9.mp3", 
+        "sound_mark": "['kæstigeit]", 
+        "chinese": "v. 惩罚，严厉批评，谴责", 
+        "english": "castigate"
+    }, 
+    {
+        "sound": "431\\8\\8_10.mp3", 
+        "sound_mark": "[.kætə'strɔfik]", 
+        "chinese": "adj. 悲惨的，灾难的", 
+        "english": "catastrophic"
+    }, 
+    {
+        "sound": "431\\8\\8_11.mp3", 
+        "sound_mark": "['kɔ:stik]", 
+        "chinese": "adj. 腐蚀性的，刻薄的，[物]焦散的n. 腐蚀物，[物]焦散曲面", 
+        "english": "caustic"
+    }, 
+    {
+        "sound": "431\\8\\8_12.mp3", 
+        "sound_mark": "[si'leriti]", 
+        "chinese": "n. 敏捷，快速", 
+        "english": "celerity"
+    }, 
+    {
+        "sound": "431\\8\\8_13.mp3", 
+        "sound_mark": "[se'seiʃən]", 
+        "chinese": "n. 中止，（短暂的）停止", 
+        "english": "cessation"
+    }, 
+    {
+        "sound": "431\\8\\8_14.mp3", 
+        "sound_mark": "['ʃægrin]", 
+        "chinese": "n. 懊恼vt. 使 ... 懊恼", 
+        "english": "chagrin"
+    }, 
+    {
+        "sound": "431\\9\\9_0.mp3", 
+        "sound_mark": "[kə'rizmə]", 
+        "chinese": "n. 非凡的领导力，魅力", 
+        "english": "charisma"
+    }, 
+    {
+        "sound": "431\\9\\9_1.mp3", 
+        "sound_mark": "['ʃɑ:lətən]", 
+        "chinese": "n. 冒充内行者，骗子", 
+        "english": "charlatan"
+    }, 
+    {
+        "sound": "431\\9\\9_2.mp3", 
+        "sound_mark": "[ʃi'keinəri]", 
+        "chinese": "n. 欺诈，欺骗", 
+        "english": "chicanery"
+    }, 
+    {
+        "sound": "431\\9\\9_3.mp3", 
+        "sound_mark": "[kai'merikəl]", 
+        "chinese": "adj. 空想的，荒诞的", 
+        "english": "chimerical"
+    }, 
+    {
+        "sound": "431\\9\\9_4.mp3", 
+        "sound_mark": "[klæn'destin]", 
+        "chinese": "adj. 秘密的，暗中的", 
+        "english": "clandestine"
+    }, 
+    {
+        "sound": "431\\9\\9_5.mp3", 
+        "sound_mark": "['kli:ʃei]", 
+        "chinese": "n. 陈腔滥调", 
+        "english": "cliche"
+    }, 
+    {
+        "sound": "431\\9\\9_6.mp3", 
+        "sound_mark": "[kli:k]", 
+        "chinese": "n. 私党，派系，阀", 
+        "english": "clique"
+    }, 
+    {
+        "sound": "431\\9\\9_7.mp3", 
+        "sound_mark": "[kəu'ə:s]", 
+        "chinese": "vt. 强制，迫使，威胁", 
+        "english": "coerce"
+    }, 
+    {
+        "sound": "431\\9\\9_8.mp3", 
+        "sound_mark": "['kəudʒənt]", 
+        "chinese": "adj. 有说服力的", 
+        "english": "cogent"
+    }, 
+    {
+        "sound": "431\\9\\9_9.mp3", 
+        "sound_mark": "['kɔɡnizənt]", 
+        "chinese": "adj. 审理的；已认知的", 
+        "english": "cognizant"
+    }, 
+    {
+        "sound": "431\\9\\9_10.mp3", 
+        "sound_mark": "['kʌmli]", 
+        "chinese": "adj. 清秀的，美丽的，合适的", 
+        "english": "comely"
+    }, 
+    {
+        "sound": "431\\9\\9_11.mp3", 
+        "sound_mark": "[kəm'pæʃən]", 
+        "chinese": "n. 同情，怜悯", 
+        "english": "compassion"
+    }, 
+    {
+        "sound": "431\\9\\9_12.mp3", 
+        "sound_mark": "[kəm'pætəbl]", 
+        "chinese": "adj. 能共处的，可并立的，适合的，兼容的n. 兼容", 
+        "english": "compatible"
+    }, 
+    {
+        "sound": "431\\9\\9_13.mp3", 
+        "sound_mark": "[kəm'pensətəri]", 
+        "chinese": "adj. 赔偿的，补偿的", 
+        "english": "compensatory"
+    }, 
+    {
+        "sound": "431\\9\\9_14.mp3", 
+        "sound_mark": "[kəm'pleisnt]", 
+        "chinese": "adj. 满足的，自满的，得意的", 
+        "english": "complacent"
+    }, 
+    {
+        "sound": "431\\10\\10_0.mp3", 
+        "sound_mark": "[kəm'plisiti]", 
+        "chinese": "n. 串通，共谋", 
+        "english": "complicity"
+    }, 
+    {
+        "sound": "431\\10\\10_1.mp3", 
+        "sound_mark": "[kəm'pəunənt]", 
+        "chinese": "n. 元件，组件，成份adj. 组成的，构成的", 
+        "english": "component"
+    }, 
+    {
+        "sound": "431\\10\\10_2.mp3", 
+        "sound_mark": "['kɔmpaund]", 
+        "chinese": "n. 混合物，复合词n. 院子(用围墙圈起来的场地）adj. 复(混)合的，合成的v. 混合，调合，妥协，私了", 
+        "english": "compound"
+    }, 
+    {
+        "sound": "431\\10\\10_3.mp3", 
+        "sound_mark": "[.kɔmpri'hensiv]", 
+        "chinese": "adj. 综合的，广泛的，理解的", 
+        "english": "comprehensive"
+    }, 
+    {
+        "sound": "431\\10\\10_4.mp3", 
+        "sound_mark": "[kən'kɔkt]", 
+        "chinese": "vt. 混合而制，调合，捏造", 
+        "english": "concoct"
+    }, 
+    {
+        "sound": "431\\10\\10_5.mp3", 
+        "sound_mark": "[kən'kɔmitənt]", 
+        "chinese": "adj. 相伴，附随的，共存的n. 附随物", 
+        "english": "concomitant"
+    }, 
+    {
+        "sound": "431\\10\\10_6.mp3", 
+        "sound_mark": "[kən'kə:]", 
+        "chinese": "v. 意见相同，一致，互助", 
+        "english": "concur"
+    }, 
+    {
+        "sound": "431\\10\\10_7.mp3", 
+        "sound_mark": "[.kɔndi'send]", 
+        "chinese": "vi. 屈尊，俯就，怀着优越感对待", 
+        "english": "condescend"
+    }, 
+    {
+        "sound": "431\\10\\10_8.mp3", 
+        "sound_mark": "[kən'dəuləns]", 
+        "chinese": "n. 引，哀悼，引辞", 
+        "english": "condolence"
+    }, 
+    {
+        "sound": "431\\10\\10_9.mp3", 
+        "sound_mark": "[kən'dəun]", 
+        "chinese": "vt. 宽恕；赦免", 
+        "english": "condone"
+    }, 
+    {
+        "sound": "431\\10\\10_10.mp3", 
+        "sound_mark": "[kən'dju:siv]", 
+        "chinese": "adj. 有助于 ... 的", 
+        "english": "conducive"
+    }, 
+    {
+        "sound": "431\\10\\10_11.mp3", 
+        "sound_mark": "[,kɔnfi'dænt]", 
+        "chinese": "n. 知心女友；18世纪的一种沙发（等于confidente）", 
+        "english": "confidante"
+    }, 
+    {
+        "sound": "431\\10\\10_12.mp3", 
+        "sound_mark": "[.kɔnflə'greiʃən]", 
+        "chinese": "n. 大火灾，大火，突发", 
+        "english": "conflagration"
+    }, 
+    {
+        "sound": "431\\10\\10_13.mp3", 
+        "sound_mark": "[kən'frʌnt]", 
+        "chinese": "vt. 面临，对抗，遭遇", 
+        "english": "confront"
+    }, 
+    {
+        "sound": "431\\10\\10_14.mp3", 
+        "sound_mark": "[kən'dʒi:niəl]", 
+        "chinese": "adj. 同性质的，适意的，趣味相同的，友善的", 
+        "english": "congenial"
+    }, 
+    {
+        "sound": "431\\11\\11_0.mp3", 
+        "sound_mark": "[kən'dʒektʃə]", 
+        "chinese": "v. & n. 推测，臆测", 
+        "english": "conjecture"
+    }, 
+    {
+        "sound": "431\\11\\11_1.mp3", 
+        "sound_mark": "['kɔndʒugəl]", 
+        "chinese": "adj. 结婚的，配偶的", 
+        "english": "conjugal"
+    }, 
+    {
+        "sound": "431\\11\\11_2.mp3", 
+        "sound_mark": "[.kɔni'sə:]", 
+        "chinese": "n. 鉴识家，鉴定家，内行", 
+        "english": "connoisseur"
+    }, 
+    {
+        "sound": "431\\11\\11_3.mp3", 
+        "sound_mark": "[kə'nu:biəl]", 
+        "chinese": "adj. 夫妇的；结婚的；夫妻关系的", 
+        "english": "connubial"
+    }, 
+    {
+        "sound": "431\\11\\11_4.mp3", 
+        "sound_mark": "[.kɔnstə'neiʃən]", 
+        "chinese": "n. 惊愕，恐怖，惊惶失措", 
+        "english": "consternation"
+    }, 
+    {
+        "sound": "431\\11\\11_5.mp3", 
+        "sound_mark": "[kən'strikt]", 
+        "chinese": "v. 压缩，束紧，使收缩", 
+        "english": "constrict"
+    }, 
+    {
+        "sound": "431\\11\\11_6.mp3", 
+        "sound_mark": "[kən'stru:]", 
+        "chinese": "v. 解释，翻译vt. 解释", 
+        "english": "construe"
+    }, 
+    {
+        "sound": "431\\11\\11_7.mp3", 
+        "sound_mark": "['kɔnsʌmeit]", 
+        "chinese": "vt. 成就，使达到极点，（初次洞房）成婚，圆房adj. 无上的，至上的，完美的，完全的", 
+        "english": "consummate"
+    }, 
+    {
+        "sound": "431\\11\\11_8.mp3", 
+        "sound_mark": "[kən'temptjuəs]", 
+        "chinese": "adj. 轻视的", 
+        "english": "contemptuous"
+    }, 
+    {
+        "sound": "431\\11\\11_9.mp3", 
+        "sound_mark": "[kən'tɔ:t]", 
+        "chinese": "v. (使)扭曲", 
+        "english": "contort"
+    }, 
+    {
+        "sound": "431\\11\\11_10.mp3", 
+        "sound_mark": "[.kɔntrə'və:ʃəl]", 
+        "chinese": "adj. 引起争论的，有争议的", 
+        "english": "controversial"
+    }, 
+    {
+        "sound": "431\\11\\11_11.mp3", 
+        "sound_mark": "[kəup]", 
+        "chinese": "vi. 应付，（妥善）处理，对抗n. 长袍，斗篷状物vt. 笼罩，盖上斗篷", 
+        "english": "cope"
+    }, 
+    {
+        "sound": "431\\11\\11_12.mp3", 
+        "sound_mark": "['kəupiəs]", 
+        "chinese": "adj. 丰富的，大量的，(指作家)多产的", 
+        "english": "copious"
+    }, 
+    {
+        "sound": "431\\11\\11_13.mp3", 
+        "sound_mark": "['kɔ:pjulənt]", 
+        "chinese": "adj. 肥胖的", 
+        "english": "corpulent"
+    }, 
+    {
+        "sound": "431\\11\\11_14.mp3", 
+        "sound_mark": "[kə'rɔbəreit]", 
+        "chinese": "v. 确证，使坚固", 
+        "english": "corroborate"
+    }, 
+    {
+        "sound": "431\\12\\12_0.mp3", 
+        "sound_mark": "['kəutəri]", 
+        "chinese": "n. 小圈子，小集团，志同道合的一伙", 
+        "english": "coterie"
+    }, 
+    {
+        "sound": "431\\12\\12_1.mp3", 
+        "sound_mark": "['kauntinəns]", 
+        "chinese": "n. 面容，面部表情，支持", 
+        "english": "countenance"
+    }, 
+    {
+        "sound": "431\\12\\12_2.mp3", 
+        "sound_mark": "[ku:]", 
+        "chinese": "n. 政变，砰然的一击，妙计，出乎意料的行动", 
+        "english": "coup"
+    }, 
+    {
+        "sound": "431\\12\\12_3.mp3", 
+        "sound_mark": "['kʌvət]", 
+        "chinese": "adj. 隐蔽的，偷偷摸摸的，隐密的n. 掩蔽物，树丛，蔽覆羽翮基部的羽毛", 
+        "english": "covert"
+    }, 
+    {
+        "sound": "431\\12\\12_4.mp3", 
+        "sound_mark": "['kʌvit]", 
+        "chinese": "v. 妄想，垂涎，贪图", 
+        "english": "covet"
+    }, 
+    {
+        "sound": "431\\12\\12_5.mp3", 
+        "sound_mark": "[kreiv]", 
+        "chinese": "v. 渴望，热望，恳求", 
+        "english": "crave"
+    }, 
+    {
+        "sound": "431\\12\\12_6.mp3", 
+        "sound_mark": "[krai'tiəriən]", 
+        "chinese": "n. 标准，准则", 
+        "english": "criterion"
+    }, 
+    {
+        "sound": "431\\12\\12_7.mp3", 
+        "sound_mark": "['kriptik]", 
+        "chinese": "adj. 秘密的(使用密码的，意义深远的)", 
+        "english": "cryptic"
+    }, 
+    {
+        "sound": "431\\12\\12_8.mp3", 
+        "sound_mark": "['kʌlmineit]", 
+        "chinese": "v. 达到顶点或高潮，以 ... 告终vi. 达到顶点vt. 使达高潮，使结束", 
+        "english": "culminate"
+    }, 
+    {
+        "sound": "431\\12\\12_9.mp3", 
+        "sound_mark": "['kʌlpəbl]", 
+        "chinese": "adj. 该责备的，有罪的", 
+        "english": "culpable"
+    }, 
+    {
+        "sound": "431\\12\\12_10.mp3", 
+        "sound_mark": "['kʌlprit]", 
+        "chinese": "n. 犯人，起因", 
+        "english": "culprit"
+    }, 
+    {
+        "sound": "431\\12\\12_11.mp3", 
+        "sound_mark": "['kʌmbəsəm]", 
+        "chinese": "adj. 笨重的", 
+        "english": "cumbersome"
+    }, 
+    {
+        "sound": "431\\12\\12_12.mp3", 
+        "sound_mark": "['kju:mjulətiv]", 
+        "chinese": "adj. 累积的，附加的", 
+        "english": "cumulative"
+    }, 
+    {
+        "sound": "431\\12\\12_13.mp3", 
+        "sound_mark": "[kju:'piditi]", 
+        "chinese": "n. 贪心，贪婪", 
+        "english": "cupidity"
+    }, 
+    {
+        "sound": "431\\12\\12_14.mp3", 
+        "sound_mark": "['kə:ri]", 
+        "chinese": "n. 咖哩粉，咖哩饭菜vt. 用咖哩粉调味，用马栉梳，制革", 
+        "english": "curry"
+    }, 
+    {
+        "sound": "431\\13\\13_0.mp3", 
+        "sound_mark": "['kə:səri]", 
+        "chinese": "adj. 匆匆忙忙的，草率的，粗略的", 
+        "english": "cursory"
+    }, 
+    {
+        "sound": "431\\13\\13_1.mp3", 
+        "sound_mark": "[kə:'teil]", 
+        "chinese": "vt. 缩减，削减，截短", 
+        "english": "curtail"
+    }, 
+    {
+        "sound": "431\\13\\13_2.mp3", 
+        "sound_mark": "['sinik]", 
+        "chinese": "n. 愤世嫉俗者，犬儒主义者，好挖苦的人", 
+        "english": "cynic"
+    }, 
+    {
+        "sound": "431\\13\\13_3.mp3", 
+        "sound_mark": "[də:θ]", 
+        "chinese": "n. 缺乏；饥馑；粮食不足", 
+        "english": "dearth"
+    }, 
+    {
+        "sound": "431\\13\\13_4.mp3", 
+        "sound_mark": "[dei'bɑ:kl]", 
+        "chinese": "n. 崩溃，解冻，溃败，灾害", 
+        "english": "debacle"
+    }, 
+    {
+        "sound": "431\\13\\13_5.mp3", 
+        "sound_mark": "[di'biliteit]", 
+        "chinese": "vt. 使 ... 衰弱", 
+        "english": "debilitate"
+    }, 
+    {
+        "sound": "431\\13\\13_6.mp3", 
+        "sound_mark": "[də'bri:]", 
+        "chinese": "n. 碎片，残骸", 
+        "english": "debris"
+    }, 
+    {
+        "sound": "431\\13\\13_7.mp3", 
+        "sound_mark": "['dekeid]", 
+        "chinese": "n. 十年", 
+        "english": "decade"
+    }, 
+    {
+        "sound": "431\\13\\13_8.mp3", 
+        "sound_mark": "['dekədəns]", 
+        "chinese": "n. 衰落，颓废", 
+        "english": "decadence"
+    }, 
+    {
+        "sound": "431\\13\\13_9.mp3", 
+        "sound_mark": "[di'kæpiteit]", 
+        "chinese": "vt. 斩首；解雇；使无效", 
+        "english": "decapitate"
+    }, 
+    {
+        "sound": "431\\13\\13_10.mp3", 
+        "sound_mark": "[di'kleim]", 
+        "chinese": "v. 高谈阔论，雄辩，大声说", 
+        "english": "declaim"
+    }, 
+    {
+        "sound": "431\\13\\13_11.mp3", 
+        "sound_mark": "[di'kɔ:rəm]", 
+        "chinese": "n. 端正，礼貌合宜，礼仪", 
+        "english": "decorum"
+    }, 
+    {
+        "sound": "431\\13\\13_12.mp3", 
+        "sound_mark": "[di'krepit]", 
+        "chinese": "adj. 破旧的，衰老的", 
+        "english": "decrepit"
+    }, 
+    {
+        "sound": "431\\13\\13_13.mp3", 
+        "sound_mark": "[di:m]", 
+        "chinese": "v. 认为，相信", 
+        "english": "deem"
+    }, 
+    {
+        "sound": "431\\13\\13_14.mp3", 
+        "sound_mark": "[di'fæmətɔ:ri]", 
+        "chinese": "adj. 诽谤的", 
+        "english": "defamatory"
+    }, 
+    {
+        "sound": "431\\14\\14_0.mp3", 
+        "sound_mark": "[di'greid]", 
+        "chinese": "v. 降格", 
+        "english": "degrade"
+    }, 
+    {
+        "sound": "431\\14\\14_1.mp3", 
+        "sound_mark": "[.deli'tiəriəs]", 
+        "chinese": "adj. 有害的，有毒的", 
+        "english": "deleterious"
+    }, 
+    {
+        "sound": "431\\14\\14_2.mp3", 
+        "sound_mark": "[di,lini'eiʃən]", 
+        "chinese": "n. 描述；画轮廓", 
+        "english": "delineation"
+    }, 
+    {
+        "sound": "431\\14\\14_3.mp3", 
+        "sound_mark": "[di'lu:d]", 
+        "chinese": "vt. 欺骗，迷惑，蛊惑", 
+        "english": "delude"
+    }, 
+    {
+        "sound": "431\\14\\14_4.mp3", 
+        "sound_mark": "['delju:dʒ]", 
+        "chinese": "n. 大洪水，暴雨，泛滥v. 泛滥，大量涌入", 
+        "english": "deluge"
+    }, 
+    {
+        "sound": "431\\14\\14_5.mp3", 
+        "sound_mark": "[delv]", 
+        "chinese": "vi. 探究，查考，挖掘vt. 挖掘n. 洞，穴", 
+        "english": "delve"
+    }, 
+    {
+        "sound": "431\\14\\14_6.mp3", 
+        "sound_mark": "[di'mi:nə]", 
+        "chinese": "n. 行为，风度，举止", 
+        "english": "demeanor"
+    }, 
+    {
+        "sound": "431\\14\\14_7.mp3", 
+        "sound_mark": "[di'mə:]", 
+        "chinese": "vi. 提出异议，反对，拖延n. 异议，反对", 
+        "english": "demur"
+    }, 
+    {
+        "sound": "431\\14\\14_8.mp3", 
+        "sound_mark": "[di'nəut]", 
+        "chinese": "vt. 象征，表示", 
+        "english": "denote"
+    }, 
+    {
+        "sound": "431\\14\\14_9.mp3", 
+        "sound_mark": "[di'pikt]", 
+        "chinese": "vt. 描述，描绘", 
+        "english": "depict"
+    }, 
+    {
+        "sound": "431\\14\\14_10.mp3", 
+        "sound_mark": "[di'plɔ:rəbl]", 
+        "chinese": "adj. 可叹的；凄惨的", 
+        "english": "deplorable"
+    }, 
+    {
+        "sound": "431\\14\\14_11.mp3", 
+        "sound_mark": "[di'plɔi]", 
+        "chinese": "v. 展开，配置，部署", 
+        "english": "deploy"
+    }, 
+    {
+        "sound": "431\\14\\14_12.mp3", 
+        "sound_mark": "['deprikeit]", 
+        "chinese": "v. 声明不赞成，抨击，反对", 
+        "english": "deprecate"
+    }, 
+    {
+        "sound": "431\\14\\14_13.mp3", 
+        "sound_mark": "[di'raid]", 
+        "chinese": "vt. 嘲弄，挖苦", 
+        "english": "deride"
+    }, 
+    {
+        "sound": "431\\14\\14_14.mp3", 
+        "sound_mark": "[di'raiv]", 
+        "chinese": "v. 得自，起源，引申于", 
+        "english": "derive"
+    }, 
+    {
+        "sound": "431\\15\\15_0.mp3", 
+        "sound_mark": "[di'rɔgətəri]", 
+        "chinese": "adj. 毁谤的，贬损的，有损的", 
+        "english": "derogatory"
+    }, 
+    {
+        "sound": "431\\15\\15_1.mp3", 
+        "sound_mark": "[di'zist]", 
+        "chinese": "vi. 停止，中止，忍住，克制", 
+        "english": "desist"
+    }, 
+    {
+        "sound": "431\\15\\15_2.mp3", 
+        "sound_mark": "[,desti'tju:ʃən]", 
+        "chinese": "n. 穷困；缺乏", 
+        "english": "destitution"
+    }, 
+    {
+        "sound": "431\\15\\15_3.mp3", 
+        "sound_mark": "['desəltɔ:ri]", 
+        "chinese": "adj. 散漫的，断断续续的，不连贯的", 
+        "english": "desultory"
+    }, 
+    {
+        "sound": "431\\15\\15_4.mp3", 
+        "sound_mark": "[di'tə:]", 
+        "chinese": "vt. 阻止，抑制，威吓", 
+        "english": "deter"
+    }, 
+    {
+        "sound": "431\\15\\15_5.mp3", 
+        "sound_mark": "['detrimənt]", 
+        "chinese": "n. 损伤，引起损害的物质", 
+        "english": "detriment"
+    }, 
+    {
+        "sound": "431\\15\\15_6.mp3", 
+        "sound_mark": "[di'vaut]", 
+        "chinese": "adj. 虔诚的，虔敬的，衷心的", 
+        "english": "devout"
+    }, 
+    {
+        "sound": "431\\15\\15_7.mp3", 
+        "sound_mark": "[deks'teriti]", 
+        "chinese": "n. 灵巧，机敏，手艺", 
+        "english": "dexterity"
+    }, 
+    {
+        "sound": "431\\15\\15_8.mp3", 
+        "sound_mark": "['daiətraib]", 
+        "chinese": "n. 恶骂，诽谤", 
+        "english": "diatribe"
+    }, 
+    {
+        "sound": "431\\15\\15_9.mp3", 
+        "sound_mark": "[.dili'tænti]", 
+        "chinese": "n. 浅薄涉猎者，业余爱好者，艺术爱好者adj. 浅薄的，业余的", 
+        "english": "dilettante"
+    }, 
+    {
+        "sound": "431\\15\\15_10.mp3", 
+        "sound_mark": "[di'minjutiv]", 
+        "chinese": "adj. 小的，小型的，变小的n. 小的人（物）, [语]小词缀，昵称", 
+        "english": "diminutive"
+    }, 
+    {
+        "sound": "431\\15\\15_11.mp3", 
+        "sound_mark": "[di'zə:n]", 
+        "chinese": "v. 辨别，看清楚", 
+        "english": "discern"
+    }, 
+    {
+        "sound": "431\\15\\15_12.mp3", 
+        "sound_mark": "[di'saipl]", 
+        "chinese": "n. 弟子，门徒", 
+        "english": "disciple"
+    }, 
+    {
+        "sound": "431\\15\\15_13.mp3", 
+        "sound_mark": "[di'skri:t]", 
+        "chinese": "adj. 谨慎的", 
+        "english": "discreet"
+    }, 
+    {
+        "sound": "431\\15\\15_14.mp3", 
+        "sound_mark": "[dis'dein]", 
+        "chinese": "n. 轻蔑v. 蔑视", 
+        "english": "disdain"
+    }, 
+    {
+        "sound": "431\\16\\16_0.mp3", 
+        "sound_mark": "[dis'grʌntld]", 
+        "chinese": "adj. 不满意的(不高兴的)动词disgruntle的过去式和过去分词", 
+        "english": "disgruntled"
+    }, 
+    {
+        "sound": "431\\16\\16_1.mp3", 
+        "sound_mark": "[di'ʃevəld]", 
+        "chinese": "adj. 不整洁的；凌乱的v. 使（头发等）蓬松（dishevel的过去分词）", 
+        "english": "disheveled"
+    }, 
+    {
+        "sound": "431\\16\\16_2.mp3", 
+        "sound_mark": "[dis'mæntl]", 
+        "chinese": "vt. 拆除，剥除，分解，取消", 
+        "english": "dismantle"
+    }, 
+    {
+        "sound": "431\\16\\16_3.mp3", 
+        "sound_mark": "[dis'pə:s]", 
+        "chinese": "vt. 分散，传播，散开vi. 分散", 
+        "english": "disperse"
+    }, 
+    {
+        "sound": "431\\16\\16_4.mp3", 
+        "sound_mark": "[di'semineit]", 
+        "chinese": "vt. 散播，公开，宣传", 
+        "english": "disseminate"
+    }, 
+    {
+        "sound": "431\\16\\16_5.mp3", 
+        "sound_mark": "[di'sent]", 
+        "chinese": "n. 异议v. 持异议", 
+        "english": "dissent"
+    }, 
+    {
+        "sound": "431\\16\\16_6.mp3", 
+        "sound_mark": "[di'strɔ:t]", 
+        "chinese": "adj. 烦恼的，发狂的，异常激动的", 
+        "english": "distraught"
+    }, 
+    {
+        "sound": "431\\16\\16_7.mp3", 
+        "sound_mark": "[dai'və:siti]", 
+        "chinese": "n. 差异，多样性，分集", 
+        "english": "diversity"
+    }, 
+    {
+        "sound": "431\\16\\16_8.mp3", 
+        "sound_mark": "[di'vʌldʒ]", 
+        "chinese": "v. 泄露，暴露", 
+        "english": "divulge"
+    }, 
+    {
+        "sound": "431\\16\\16_9.mp3", 
+        "sound_mark": "['dəusail]", 
+        "chinese": "adj. 容易教的，温顺的", 
+        "english": "docile"
+    }, 
+    {
+        "sound": "431\\16\\16_10.mp3", 
+        "sound_mark": "['dəulfəl]", 
+        "chinese": "adj. 悲哀的，寂寞的，阴沉的", 
+        "english": "doleful"
+    }, 
+    {
+        "sound": "431\\16\\16_11.mp3", 
+        "sound_mark": "['dɔmisail]", 
+        "chinese": "n. 住所，住宅", 
+        "english": "domicile"
+    }, 
+    {
+        "sound": "431\\16\\16_12.mp3", 
+        "sound_mark": "['dɔ:mənt]", 
+        "chinese": "adj. 睡眠状态的，静止的[计算机] 静止的", 
+        "english": "dormant"
+    }, 
+    {
+        "sound": "431\\16\\16_13.mp3", 
+        "sound_mark": "[dregz]", 
+        "chinese": "n. 渣滓，糟粕，废物名词dreg的复数形式", 
+        "english": "dregs"
+    }, 
+    {
+        "sound": "431\\16\\16_14.mp3", 
+        "sound_mark": "['drʌdʒəri]", 
+        "chinese": "n. 苦差事，苦工", 
+        "english": "drudgery"
+    }, 
+    {
+        "sound": "431\\17\\17_0.mp3", 
+        "sound_mark": "['dju:biəs]", 
+        "chinese": "adj. 怀疑的，可疑的", 
+        "english": "dubious"
+    }, 
+    {
+        "sound": "431\\17\\17_1.mp3", 
+        "sound_mark": "['dʌlsit]", 
+        "chinese": "adj. 优美的，美妙的，美味的", 
+        "english": "dulcet"
+    }, 
+    {
+        "sound": "431\\17\\17_2.mp3", 
+        "sound_mark": "[dju:p]", 
+        "chinese": "n. 受骗的人，上当者vt. 欺骗，愚弄", 
+        "english": "dupe"
+    }, 
+    {
+        "sound": "431\\17\\17_3.mp3", 
+        "sound_mark": "['dju:plikit]", 
+        "chinese": "n. 副本，复制品adj. 复制的，二重的vt. 复制，重复vi. 重复[计算机] 复制", 
+        "english": "duplicate"
+    }, 
+    {
+        "sound": "431\\17\\17_4.mp3", 
+        "sound_mark": "[dju:'plisiti]", 
+        "chinese": "n. 口是心非，不诚实，二重性", 
+        "english": "duplicity"
+    }, 
+    {
+        "sound": "431\\17\\17_5.mp3", 
+        "sound_mark": "['djuəres]", 
+        "chinese": "n. 强迫，监禁", 
+        "english": "duress"
+    }, 
+    {
+        "sound": "431\\17\\17_6.mp3", 
+        "sound_mark": "['edifis]", 
+        "chinese": "n. 大厦，大建筑物", 
+        "english": "edifice"
+    }, 
+    {
+        "sound": "431\\17\\17_7.mp3", 
+        "sound_mark": "['efikəsi]", 
+        "chinese": "n. 功效", 
+        "english": "efficacy"
+    }, 
+    {
+        "sound": "431\\17\\17_8.mp3", 
+        "sound_mark": "['efidʒi]", 
+        "chinese": "n. 肖像，雕像", 
+        "english": "effigy"
+    }, 
+    {
+        "sound": "431\\17\\17_9.mp3", 
+        "sound_mark": "[ef'rʌntəri]", 
+        "chinese": "n. 厚颜无耻", 
+        "english": "effrontery"
+    }, 
+    {
+        "sound": "431\\17\\17_10.mp3", 
+        "sound_mark": "[,i:ɡə'tistik, ,eɡ-,-kəl]", 
+        "chinese": "adj. 自我本位的；自负的；自高自大的", 
+        "english": "egotistic"
+    }, 
+    {
+        "sound": "431\\17\\17_11.mp3", 
+        "sound_mark": "[i'gri:dʒəs]", 
+        "chinese": "adj. 恶名昭彰的，过份的，非常的", 
+        "english": "egregious"
+    }, 
+    {
+        "sound": "431\\17\\17_12.mp3", 
+        "sound_mark": "[i'læps]", 
+        "chinese": "v. 逝去，过去", 
+        "english": "elapse"
+    }, 
+    {
+        "sound": "431\\17\\17_13.mp3", 
+        "sound_mark": "[i'lisit]", 
+        "chinese": "vt. 引出，诱探出", 
+        "english": "elicit"
+    }, 
+    {
+        "sound": "431\\17\\17_14.mp3", 
+        "sound_mark": "[i'lu:si.deit]", 
+        "chinese": "v. 阐明，说明", 
+        "english": "elucidate"
+    }, 
+    {
+        "sound": "431\\18\\18_0.mp3", 
+        "sound_mark": "[i'lu:siv]", 
+        "chinese": "adj. 难懂的，难捉摸的，难记的，逃避的", 
+        "english": "elusive"
+    }, 
+    {
+        "sound": "431\\18\\18_1.mp3", 
+        "sound_mark": "[i'meiʃieitid]", 
+        "chinese": "adj. 瘦弱的，憔悴的动词emaciate的过去式和过去分词", 
+        "english": "emaciated"
+    }, 
+    {
+        "sound": "431\\18\\18_2.mp3", 
+        "sound_mark": "[im'beliʃ]", 
+        "chinese": "v. 修饰，装饰，润色", 
+        "english": "embellish"
+    }, 
+    {
+        "sound": "431\\18\\18_3.mp3", 
+        "sound_mark": "['eminənt]", 
+        "chinese": "adj. 著名的，卓越的", 
+        "english": "eminent"
+    }, 
+    {
+        "sound": "431\\18\\18_4.mp3", 
+        "sound_mark": "['emisəri]", 
+        "chinese": "n. 密使，特使", 
+        "english": "emissary"
+    }, 
+    {
+        "sound": "431\\18\\18_5.mp3", 
+        "sound_mark": "[i'mit]", 
+        "chinese": "vt. 发出，放射，吐露", 
+        "english": "emit"
+    }, 
+    {
+        "sound": "431\\18\\18_6.mp3", 
+        "sound_mark": "['emjuleit]", 
+        "chinese": "vt. 效法，尽力赶上，仿真[计算机] 仿真", 
+        "english": "emulate"
+    }, 
+    {
+        "sound": "431\\18\\18_7.mp3", 
+        "sound_mark": "[en'kəumiəm]", 
+        "chinese": "n. 赞颂，颂辞", 
+        "english": "encomium"
+    }, 
+    {
+        "sound": "431\\18\\18_8.mp3", 
+        "sound_mark": "[in'kʌmbrəns]", 
+        "chinese": "n. 妨碍物，累赘", 
+        "english": "encumbrance"
+    }, 
+    {
+        "sound": "431\\18\\18_9.mp3", 
+        "sound_mark": "[in'ɡrəust]", 
+        "chinese": "adj. 全神贯注的；专心致志的v. 全神贯注（engross的过去分词）", 
+        "english": "engrossed"
+    }, 
+    {
+        "sound": "431\\18\\18_10.mp3", 
+        "sound_mark": "[in'hɑ:ns]", 
+        "chinese": "vt. 提高，加强，增加", 
+        "english": "enhance"
+    }, 
+    {
+        "sound": "431\\18\\18_11.mp3", 
+        "sound_mark": "[i'nigmə]", 
+        "chinese": "n. 费解的事情，谜，谜一般的人", 
+        "english": "enigma"
+    }, 
+    {
+        "sound": "431\\18\\18_12.mp3", 
+        "sound_mark": "['ɔnwi:]", 
+        "chinese": "n. （法）厌倦，无聊；倦怠", 
+        "english": "ennui"
+    }, 
+    {
+        "sound": "431\\18\\18_13.mp3", 
+        "sound_mark": "[.ɔntu'rɑ:ʒ]", 
+        "chinese": "n. 随行人员，周围的事物", 
+        "english": "entourage"
+    }, 
+    {
+        "sound": "431\\18\\18_14.mp3", 
+        "sound_mark": "[in'tri:ti]", 
+        "chinese": "n. 恳求，哀求", 
+        "english": "entreaty"
+    }, 
+    {
+        "sound": "431\\19\\19_0.mp3", 
+        "sound_mark": "[i'nʌnsieit]", 
+        "chinese": "v. 发音，(清楚地)表达", 
+        "english": "enunciate"
+    }, 
+    {
+        "sound": "431\\19\\19_1.mp3", 
+        "sound_mark": "['epiθet]", 
+        "chinese": "n. 性质描述词，修饰语vt. (以修饰语)描述", 
+        "english": "epithet"
+    }, 
+    {
+        "sound": "431\\19\\19_2.mp3", 
+        "sound_mark": "[i'pitəmi]", 
+        "chinese": "n. 摘要，缩影，化身", 
+        "english": "epitome"
+    }, 
+    {
+        "sound": "431\\19\\19_3.mp3", 
+        "sound_mark": "[.i:kwə'nimiti]", 
+        "chinese": "n. 平静，镇定", 
+        "english": "equanimity"
+    }, 
+    {
+        "sound": "431\\19\\19_4.mp3", 
+        "sound_mark": "[i'rædikeit]", 
+        "chinese": "v. 根除，扑减，根绝", 
+        "english": "eradicate"
+    }, 
+    {
+        "sound": "431\\19\\19_5.mp3", 
+        "sound_mark": "['erudait]", 
+        "chinese": "adj. 博学的", 
+        "english": "erudite"
+    }, 
+    {
+        "sound": "431\\19\\19_6.mp3", 
+        "sound_mark": "[i'rʌpʃən]", 
+        "chinese": "n. 爆发，喷发，出疹，长牙", 
+        "english": "eruption"
+    }, 
+    {
+        "sound": "431\\19\\19_7.mp3", 
+        "sound_mark": "[,eskə'leiʃən]", 
+        "chinese": "n. 增加；扩大；逐步上升", 
+        "english": "escalation"
+    }, 
+    {
+        "sound": "431\\19\\19_8.mp3", 
+        "sound_mark": "[is'tʃu:]", 
+        "chinese": "vt. 避开，回避，戒绝", 
+        "english": "eschew"
+    }, 
+    {
+        "sound": "431\\19\\19_9.mp3", 
+        "sound_mark": "['eθiks]", 
+        "chinese": "n. 道德规范", 
+        "english": "ethics"
+    }, 
+    {
+        "sound": "431\\19\\19_10.mp3", 
+        "sound_mark": "['ju:fimizəm]", 
+        "chinese": "n. 婉言，委婉的说法", 
+        "english": "euphemism"
+    }, 
+    {
+        "sound": "431\\19\\19_11.mp3", 
+        "sound_mark": "[i'væljueit]", 
+        "chinese": "vt. 评估，评价", 
+        "english": "evaluate"
+    }, 
+    {
+        "sound": "431\\19\\19_12.mp3", 
+        "sound_mark": "[.i:və'nesnt]", 
+        "chinese": "adj. 逐渐消失的，短暂的", 
+        "english": "evanescent"
+    }, 
+    {
+        "sound": "431\\19\\19_13.mp3", 
+        "sound_mark": "[i'ventʃueit]", 
+        "chinese": "vi. 发生，终于发生；结果为", 
+        "english": "eventuate"
+    }, 
+    {
+        "sound": "431\\19\\19_14.mp3", 
+        "sound_mark": "[i'vins]", 
+        "chinese": "vt. 表明，表示", 
+        "english": "evince"
+    }, 
+    {
+        "sound": "431\\20\\20_0.mp3", 
+        "sound_mark": "[ig'zæsəbeit]", 
+        "chinese": "vt. 加重(使 ... 恶化，激怒)", 
+        "english": "exacerbate"
+    }, 
+    {
+        "sound": "431\\20\\20_1.mp3", 
+        "sound_mark": "[eks'kɔ:rieit]", 
+        "chinese": "vt. 撕去皮，严厉批评", 
+        "english": "excoriate"
+    }, 
+    {
+        "sound": "431\\20\\20_2.mp3", 
+        "sound_mark": "[iks'kru:ʃieitiŋ]", 
+        "chinese": "adj. 极痛苦的，折磨人的动词excruciate的现在分词形式", 
+        "english": "excruciating"
+    }, 
+    {
+        "sound": "431\\20\\20_3.mp3", 
+        "sound_mark": "[eks'pætrieit]", 
+        "chinese": "n. 移居外国者vt. 逐出国外，脱离国籍，放逐vi. 移居国外", 
+        "english": "expatriate"
+    }, 
+    {
+        "sound": "431\\20\\20_4.mp3", 
+        "sound_mark": "[iks'pi:diənt]", 
+        "chinese": "adj. 权宜的，有用的n. 权宜之计，临时手段", 
+        "english": "expedient"
+    }, 
+    {
+        "sound": "431\\20\\20_5.mp3", 
+        "sound_mark": "['ekspidait]", 
+        "chinese": "vt. 加快，促进", 
+        "english": "expedite"
+    }, 
+    {
+        "sound": "431\\20\\20_6.mp3", 
+        "sound_mark": "[iks'plɔit]", 
+        "chinese": "vt. 剥削，利用，开拓，开采，开发n. 功绩，勋绩，英勇行为", 
+        "english": "exploit"
+    }, 
+    {
+        "sound": "431\\20\\20_7.mp3", 
+        "sound_mark": "[eks'pʌndʒ]", 
+        "chinese": "v. 擦掉，删掉，除去", 
+        "english": "expunge"
+    }, 
+    {
+        "sound": "431\\20\\20_8.mp3", 
+        "sound_mark": "['ekspə:geit]", 
+        "chinese": "vt. 净化，删去", 
+        "english": "expurgate"
+    }, 
+    {
+        "sound": "431\\20\\20_9.mp3", 
+        "sound_mark": "[eks'tænt]", 
+        "chinese": "adj. 现存的", 
+        "english": "extant"
+    }, 
+    {
+        "sound": "431\\20\\20_10.mp3", 
+        "sound_mark": "[iks'tiŋkt]", 
+        "chinese": "adj. 灭绝的，熄灭的，耗尽的", 
+        "english": "extinct"
+    }, 
+    {
+        "sound": "431\\20\\20_11.mp3", 
+        "sound_mark": "[iks'təul]", 
+        "chinese": "vt. 颂杨，称赞", 
+        "english": "extol"
+    }, 
+    {
+        "sound": "431\\20\\20_12.mp3", 
+        "sound_mark": "[ik'stɔ:ʃən]", 
+        "chinese": "n. 强取，敲诈，勒索", 
+        "english": "extortion"
+    }, 
+    {
+        "sound": "431\\20\\20_13.mp3", 
+        "sound_mark": "[eks'treiniəs]", 
+        "chinese": "adj. 外来的，无关的", 
+        "english": "extraneous"
+    }, 
+    {
+        "sound": "431\\20\\20_14.mp3", 
+        "sound_mark": "[eks'trinsik]", 
+        "chinese": "adj. 非固有的，非本质的，外在的", 
+        "english": "extrinsic"
+    }, 
+    {
+        "sound": "431\\21\\21_0.mp3", 
+        "sound_mark": "[ig'zʌlt]", 
+        "chinese": "vi. 欢欣鼓舞，狂喜", 
+        "english": "exult"
+    }, 
+    {
+        "sound": "431\\21\\21_1.mp3", 
+        "sound_mark": "[,eɡzʌl'teiʃən]", 
+        "chinese": "n. 狂喜；得意（等于exultance，exultancy）", 
+        "english": "exultation"
+    }, 
+    {
+        "sound": "431\\21\\21_2.mp3", 
+        "sound_mark": "['fæbrikeit]", 
+        "chinese": "v. 制造，建造，装配", 
+        "english": "fabricate"
+    }, 
+    {
+        "sound": "431\\21\\21_3.mp3", 
+        "sound_mark": "[fə'sɑ:d]", 
+        "chinese": "n. 建筑物的正面，外表(犹指虚伪的)", 
+        "english": "facade"
+    }, 
+    {
+        "sound": "431\\21\\21_4.mp3", 
+        "sound_mark": "['fæsit]", 
+        "chinese": "n. 小平面，方面，刻面", 
+        "english": "facet"
+    }, 
+    {
+        "sound": "431\\21\\21_5.mp3", 
+        "sound_mark": "[fə'si:ʃəs]", 
+        "chinese": "adj. 轻浮的，好开玩笑的", 
+        "english": "facetious"
+    }, 
+    {
+        "sound": "431\\21\\21_6.mp3", 
+        "sound_mark": "['fæsail]", 
+        "chinese": "adj. 不费力的，温和的，容易做到的", 
+        "english": "facile"
+    }, 
+    {
+        "sound": "431\\21\\21_7.mp3", 
+        "sound_mark": "[fæk'tiʃəs]", 
+        "chinese": "adj. 人为的，不自然的，人工的", 
+        "english": "factitious"
+    }, 
+    {
+        "sound": "431\\21\\21_8.mp3", 
+        "sound_mark": "[fə'leiʃəs]", 
+        "chinese": "adj. 使人误解的，谬误的，不合理的", 
+        "english": "fallacious"
+    }, 
+    {
+        "sound": "431\\21\\21_9.mp3", 
+        "sound_mark": "['fɔ:ltə]", 
+        "chinese": "vi. 支吾地说，迟疑，蹒跚地走vt. 支支吾吾地说话", 
+        "english": "falter"
+    }, 
+    {
+        "sound": "431\\21\\21_10.mp3", 
+        "sound_mark": "[fæs'tidiəs]", 
+        "chinese": "adj. 难取悦的，挑剔的，苛求的=particular", 
+        "english": "fastidious"
+    }, 
+    {
+        "sound": "431\\21\\21_11.mp3", 
+        "sound_mark": "['feitl]", 
+        "chinese": "adj. 致命的，毁灭性的，决定性的", 
+        "english": "fatal"
+    }, 
+    {
+        "sound": "431\\21\\21_12.mp3", 
+        "sound_mark": "['fætʃuəs]", 
+        "chinese": "adj. 愚昧的，发呆的，愚笨的", 
+        "english": "fatuous"
+    }, 
+    {
+        "sound": "431\\21\\21_13.mp3", 
+        "sound_mark": "['fi:zəbl]", 
+        "chinese": "adj. 可行的，可能的", 
+        "english": "feasible"
+    }, 
+    {
+        "sound": "431\\21\\21_14.mp3", 
+        "sound_mark": "[feint]", 
+        "chinese": "n. 伪装，佯装攻击v. 佯攻，佯击adj. （纸等）印有隐格线的", 
+        "english": "feint"
+    }, 
+    {
+        "sound": "431\\22\\22_0.mp3", 
+        "sound_mark": "[fi'lisitəs]", 
+        "chinese": "adj. 巧妙的，极为适当的，可喜的", 
+        "english": "felicitous"
+    }, 
+    {
+        "sound": "431\\22\\22_1.mp3", 
+        "sound_mark": "['felən]", 
+        "chinese": "n. 重罪人，蛇头", 
+        "english": "felon"
+    }, 
+    {
+        "sound": "431\\22\\22_2.mp3", 
+        "sound_mark": "['fə:ment]", 
+        "chinese": "n. 酵素，发酵，动乱v. 使 ... 发酵，发酵，动乱", 
+        "english": "ferment"
+    }, 
+    {
+        "sound": "431\\22\\22_3.mp3", 
+        "sound_mark": "['fə:vid]", 
+        "chinese": "adj. 热的；热心的", 
+        "english": "fervid"
+    }, 
+    {
+        "sound": "431\\22\\22_4.mp3", 
+        "sound_mark": "['fi:tiʃ]", 
+        "chinese": "n. (出自迷信的)神物，护身符，被盲目崇拜的东西，[心理]恋物癖", 
+        "english": "fetish"
+    }, 
+    {
+        "sound": "431\\22\\22_5.mp3", 
+        "sound_mark": "['fetə]", 
+        "chinese": "n. 脚镣，桎梏vt. 为 ... 上脚镣，束缚，限制", 
+        "english": "fetter"
+    }, 
+    {
+        "sound": "431\\22\\22_6.mp3", 
+        "sound_mark": "[fi'æskəu]", 
+        "chinese": "n. 惨败n. 酒瓶子", 
+        "english": "fiasco"
+    }, 
+    {
+        "sound": "431\\22\\22_7.mp3", 
+        "sound_mark": "['faiæt, ət]", 
+        "chinese": "n. 由（政府）授权而具有特别意义的，如fiat-money, 即政府授权发行的货币。n. 命令，法令n. (=Fabbrica Italiana Automobile Torino) 菲亚特(财富500强公司之一，总部所在地意大利，主要经营汽车)", 
+        "english": "fiat"
+    }, 
+    {
+        "sound": "431\\22\\22_8.mp3", 
+        "sound_mark": "['flæbəgɑ:st]", 
+        "chinese": "v. 使大吃一惊", 
+        "english": "flabbergast"
+    }, 
+    {
+        "sound": "431\\22\\22_9.mp3", 
+        "sound_mark": "['fleigrənt]", 
+        "chinese": "adj. 恶名昭著的，明目张胆的", 
+        "english": "flagrant"
+    }, 
+    {
+        "sound": "431\\22\\22_10.mp3", 
+        "sound_mark": "[flæm'bɔiənt]", 
+        "chinese": "adj. 艳丽的，炫耀的，火焰式的n. 凤凰木", 
+        "english": "flamboyant"
+    }, 
+    {
+        "sound": "431\\22\\22_11.mp3", 
+        "sound_mark": "[flei]", 
+        "chinese": "vt. 剥皮，去皮，抢夺，痛责", 
+        "english": "flay"
+    }, 
+    {
+        "sound": "431\\22\\22_12.mp3", 
+        "sound_mark": "['fledʒliŋ]", 
+        "chinese": "n. 刚会飞的幼鸟，尚缺乏经验的人", 
+        "english": "fledgling"
+    }, 
+    {
+        "sound": "431\\22\\22_13.mp3", 
+        "sound_mark": "[flaut]", 
+        "chinese": "v. 愚弄，轻视n. 愚弄，轻视", 
+        "english": "flout"
+    }, 
+    {
+        "sound": "431\\22\\22_14.mp3", 
+        "sound_mark": "['flʌktjueit]", 
+        "chinese": "vi. 变动，上下，动摇vt. 使动摇", 
+        "english": "fluctuate"
+    }, 
+    {
+        "sound": "431\\23\\23_0.mp3", 
+        "sound_mark": "[fɔist]", 
+        "chinese": "vt. 混入，蒙骗vt. 把 ... 强塞给，骗卖给", 
+        "english": "foist"
+    }, 
+    {
+        "sound": "431\\23\\23_1.mp3", 
+        "sound_mark": "[fəu'ment]", 
+        "chinese": "vt. 煽动，引发，[医]热敷", 
+        "english": "foment"
+    }, 
+    {
+        "sound": "431\\23\\23_2.mp3", 
+        "sound_mark": "['fɔ:θ'wiθ]", 
+        "chinese": "adv. 立刻", 
+        "english": "forthwith"
+    }, 
+    {
+        "sound": "431\\23\\23_3.mp3", 
+        "sound_mark": "[fɔ:'tju:itəs]", 
+        "chinese": "adj. 偶然的，意外的，幸运的", 
+        "english": "fortuitous"
+    }, 
+    {
+        "sound": "431\\23\\23_4.mp3", 
+        "sound_mark": "['frækɑ:]", 
+        "chinese": "n. 喧噪，吵闹，纷扰", 
+        "english": "fracas"
+    }, 
+    {
+        "sound": "431\\23\\23_5.mp3", 
+        "sound_mark": "['frækʃəs]", 
+        "chinese": "adj. 易怒的，脾气不好的，难以对待的", 
+        "english": "fractious"
+    }, 
+    {
+        "sound": "431\\23\\23_6.mp3", 
+        "sound_mark": "[freil]", 
+        "chinese": "adj. 脆弱的，虚弱的", 
+        "english": "frail"
+    }, 
+    {
+        "sound": "431\\23\\23_7.mp3", 
+        "sound_mark": "[frɔ:t]", 
+        "chinese": "n. [苏格兰]货物vt. 装货adj. 充满的，伴随的，忧伤的，忧虑的", 
+        "english": "fraught"
+    }, 
+    {
+        "sound": "431\\23\\23_8.mp3", 
+        "sound_mark": "[frei]", 
+        "chinese": "vt. 擦，磨损n. 磨损处", 
+        "english": "fray"
+    }, 
+    {
+        "sound": "431\\23\\23_9.mp3", 
+        "sound_mark": "[fri'netik]", 
+        "chinese": "adj. 发狂的，狂热的", 
+        "english": "frenetic"
+    }, 
+    {
+        "sound": "431\\23\\23_10.mp3", 
+        "sound_mark": "['frenzi]", 
+        "chinese": "n. 狂暴，狂怒", 
+        "english": "frenzy"
+    }, 
+    {
+        "sound": "431\\23\\23_11.mp3", 
+        "sound_mark": "['fretfəl]", 
+        "chinese": "adj. 烦燥的，焦燥的", 
+        "english": "fretful"
+    }, 
+    {
+        "sound": "431\\23\\23_12.mp3", 
+        "sound_mark": "['fru:gəl]", 
+        "chinese": "adj. 节俭的", 
+        "english": "frugal"
+    }, 
+    {
+        "sound": "431\\23\\23_13.mp3", 
+        "sound_mark": "['fru:tlis]", 
+        "chinese": "adj. 不成功的，无结果的", 
+        "english": "fruitless"
+    }, 
+    {
+        "sound": "431\\23\\23_14.mp3", 
+        "sound_mark": "[frʌs'treit]", 
+        "chinese": "vt. 挫败，击败，使灰心，使沮丧adj. 无益的，挫败的，挫折的", 
+        "english": "frustrate"
+    }, 
+    {
+        "sound": "431\\24\\24_0.mp3", 
+        "sound_mark": "['fulsəm]", 
+        "chinese": "adj. 令人生厌的，虚伪的，品味或感觉令人厌恶的", 
+        "english": "fulsome"
+    }, 
+    {
+        "sound": "431\\24\\24_1.mp3", 
+        "sound_mark": "['fə:tiv]", 
+        "chinese": "adj. 偷偷的", 
+        "english": "furtive"
+    }, 
+    {
+        "sound": "431\\24\\24_2.mp3", 
+        "sound_mark": "[fju:'tiliti]", 
+        "chinese": "n. 无用，无益，无价值", 
+        "english": "futility"
+    }, 
+    {
+        "sound": "431\\24\\24_3.mp3", 
+        "sound_mark": "['gælvənaiz]", 
+        "chinese": "v. 通电，镀锌，刺激", 
+        "english": "galvanize"
+    }, 
+    {
+        "sound": "431\\24\\24_4.mp3", 
+        "sound_mark": "['gæmət]", 
+        "chinese": "n. 【音乐】全音阶，长音阶，全音域n. 全部，整个范围", 
+        "english": "gamut"
+    }, 
+    {
+        "sound": "431\\24\\24_5.mp3", 
+        "sound_mark": "['gɑ:bl]", 
+        "chinese": "vt. 断章取义，曲解，混淆n. 断章取义，混淆", 
+        "english": "garble"
+    }, 
+    {
+        "sound": "431\\24\\24_6.mp3", 
+        "sound_mark": "['gæruləs]", 
+        "chinese": "adj. 饶舌的，多嘴的，啁啾不休的", 
+        "english": "garrulous"
+    }, 
+    {
+        "sound": "431\\24\\24_7.mp3", 
+        "sound_mark": "['gɔ:di]", 
+        "chinese": "adj. 俗丽的n. （英）盛大宴会（尤指大学年会）", 
+        "english": "gaudy"
+    }, 
+    {
+        "sound": "431\\24\\24_8.mp3", 
+        "sound_mark": "[gɔ:nt]", 
+        "chinese": "adj. 憔悴的，荒凉的", 
+        "english": "gaunt"
+    }, 
+    {
+        "sound": "431\\24\\24_9.mp3", 
+        "sound_mark": "['dʒenəsaid]", 
+        "chinese": "n. 种族灭绝", 
+        "english": "genocide"
+    }, 
+    {
+        "sound": "431\\24\\24_10.mp3", 
+        "sound_mark": "['ʒɑ:nrə]", 
+        "chinese": "n. 类型，流派", 
+        "english": "genre"
+    }, 
+    {
+        "sound": "431\\24\\24_11.mp3", 
+        "sound_mark": "[dʒə:'mein]", 
+        "chinese": "adj. 有密切关系的，恰当的", 
+        "english": "germane"
+    }, 
+    {
+        "sound": "431\\24\\24_12.mp3", 
+        "sound_mark": "[dʒes'tikjuleit]", 
+        "chinese": "v. 用姿势(动作)示意，打手势", 
+        "english": "gesticulate"
+    }, 
+    {
+        "sound": "431\\24\\24_13.mp3", 
+        "sound_mark": "[dʒist]", 
+        "chinese": "n. 要点，要旨", 
+        "english": "gist"
+    }, 
+    {
+        "sound": "431\\24\\24_14.mp3", 
+        "sound_mark": "[gli:n]", 
+        "chinese": "v. 拾落穗，收集", 
+        "english": "glean"
+    }, 
+    {
+        "sound": "431\\25\\25_0.mp3", 
+        "sound_mark": "[glib]", 
+        "chinese": "adj. 能说善道的，(说话)不假思索的，轻易随口的", 
+        "english": "glib"
+    }, 
+    {
+        "sound": "431\\25\\25_1.mp3", 
+        "sound_mark": "[grə'tju:iti]", 
+        "chinese": "n. 赠物，赏钱", 
+        "english": "gratuity"
+    }, 
+    {
+        "sound": "431\\25\\25_2.mp3", 
+        "sound_mark": "[gre'gɛəriəs]", 
+        "chinese": "adj. 群居的，爱社交的", 
+        "english": "gregarious"
+    }, 
+    {
+        "sound": "431\\25\\25_3.mp3", 
+        "sound_mark": "[gri'meis]", 
+        "chinese": "n. 面部的歪扭，鬼脸，痛苦的表情vi. 扮鬼脸，作苦相", 
+        "english": "grimace"
+    }, 
+    {
+        "sound": "431\\25\\25_4.mp3", 
+        "sound_mark": "[grəu'tesk]", 
+        "chinese": "n. 怪异图案adj. 奇怪的，可笑的", 
+        "english": "grotesque"
+    }, 
+    {
+        "sound": "431\\25\\25_5.mp3", 
+        "sound_mark": "[gaiz]", 
+        "chinese": "n. 装束，外观，伪装，借口行为，习惯", 
+        "english": "guise"
+    }, 
+    {
+        "sound": "431\\25\\25_6.mp3", 
+        "sound_mark": "['gʌləbl]", 
+        "chinese": "adj. 易受骗的，轻信的", 
+        "english": "gullible"
+    }, 
+    {
+        "sound": "431\\25\\25_7.mp3", 
+        "sound_mark": "['gʌstəu]", 
+        "chinese": "n. 爱好，嗜好，由衷的高兴", 
+        "english": "gusto"
+    }, 
+    {
+        "sound": "431\\25\\25_8.mp3", 
+        "sound_mark": "['hæbitæt]", 
+        "chinese": "n. (动植物的)产地，栖息地", 
+        "english": "habitat"
+    }, 
+    {
+        "sound": "431\\25\\25_9.mp3", 
+        "sound_mark": "['hælsiən]", 
+        "chinese": "n. 想像中的一种鸟，形同翠鸟，翠鸟adj. 宁静的，平稳的", 
+        "english": "halcyon"
+    }, 
+    {
+        "sound": "431\\25\\25_10.mp3", 
+        "sound_mark": "['hæplis]", 
+        "chinese": "adj. 倒霉的，不幸的", 
+        "english": "hapless"
+    }, 
+    {
+        "sound": "431\\25\\25_11.mp3", 
+        "sound_mark": "['hærəs]", 
+        "chinese": "vt. 使疲乏，困扰，反复袭击", 
+        "english": "harass"
+    }, 
+    {
+        "sound": "431\\25\\25_12.mp3", 
+        "sound_mark": "['hɑ:bindʒə]", 
+        "chinese": "n. 先驱，预兆", 
+        "english": "harbinger"
+    }, 
+    {
+        "sound": "431\\25\\25_13.mp3", 
+        "sound_mark": "['heivn]", 
+        "chinese": "n. 港口，避难所，安息所v. 安置 ... 于港中，庇护", 
+        "english": "haven"
+    }, 
+    {
+        "sound": "431\\25\\25_14.mp3", 
+        "sound_mark": "['hævək]", 
+        "chinese": "n. 大破坏，混乱vt. 破坏", 
+        "english": "havoc"
+    }, 
+    {
+        "sound": "431\\26\\26_0.mp3", 
+        "sound_mark": "['heinəs]", 
+        "chinese": "adj. 可憎的，十恶不赦的", 
+        "english": "heinous"
+    }, 
+    {
+        "sound": "431\\26\\26_1.mp3", 
+        "sound_mark": "['herəsi]", 
+        "chinese": "n. 异端，异教", 
+        "english": "heresy"
+    }, 
+    {
+        "sound": "431\\26\\26_2.mp3", 
+        "sound_mark": "[.hetərəu'dʒi:niəs]", 
+        "chinese": "adj. 异种的，异质的，由不同成份形成的[计算机] 非均匀的", 
+        "english": "heterogeneous"
+    }, 
+    {
+        "sound": "431\\26\\26_3.mp3", 
+        "sound_mark": "['hə:sju:t]", 
+        "chinese": "adj. 多毛的", 
+        "english": "hirsute"
+    }, 
+    {
+        "sound": "431\\26\\26_4.mp3", 
+        "sound_mark": "[.histri'ɔniks]", 
+        "chinese": "n. 演戏，表演，装模作样", 
+        "english": "histrionics"
+    }, 
+    {
+        "sound": "431\\26\\26_5.mp3", 
+        "sound_mark": "[hɔ:d]", 
+        "chinese": "v. & n. 贮藏，秘藏vt. 贮藏", 
+        "english": "hoard"
+    }, 
+    {
+        "sound": "431\\26\\26_6.mp3", 
+        "sound_mark": "[həuks]", 
+        "chinese": "v. 欺骗，哄骗，愚弄n. 愚弄人，恶作剧", 
+        "english": "hoax"
+    }, 
+    {
+        "sound": "431\\26\\26_7.mp3", 
+        "sound_mark": "[.hɔmə'dʒi:niəs]", 
+        "chinese": "adj. 同种的，相似的，同质的", 
+        "english": "homogeneous"
+    }, 
+    {
+        "sound": "431\\26\\26_8.mp3", 
+        "sound_mark": "['hɔstail]", 
+        "chinese": "adj. 怀敌意的，敌对的", 
+        "english": "hostile"
+    }, 
+    {
+        "sound": "431\\26\\26_9.mp3", 
+        "sound_mark": "[hju:'militi]", 
+        "chinese": "n. 谦逊，谦虚，谦卑", 
+        "english": "humility"
+    }, 
+    {
+        "sound": "431\\26\\26_10.mp3", 
+        "sound_mark": "[hai'pə:bəli]", 
+        "chinese": "n. 夸张法", 
+        "english": "hyperbole"
+    }, 
+    {
+        "sound": "431\\26\\26_11.mp3", 
+        "sound_mark": "[ai'kɔnəklæst]", 
+        "chinese": "n. 毁坏宗教神像的人，提倡打破旧习的人", 
+        "english": "iconoclast"
+    }, 
+    {
+        "sound": "431\\26\\26_12.mp3", 
+        "sound_mark": "[ai'dilik]", 
+        "chinese": "adj. 田园诗的", 
+        "english": "idyllic"
+    }, 
+    {
+        "sound": "431\\26\\26_13.mp3", 
+        "sound_mark": "[.ignə'miniəs]", 
+        "chinese": "adj. 可耻的，不名誉的", 
+        "english": "ignominious"
+    }, 
+    {
+        "sound": "431\\26\\26_14.mp3", 
+        "sound_mark": "[ilk]", 
+        "chinese": "n. 家族；亲属adj. 相同的", 
+        "english": "ilk"
+    }, 
+    {
+        "sound": "431\\27\\27_0.mp3", 
+        "sound_mark": "[im'baib]", 
+        "chinese": "v. 饮，吸取，吸入", 
+        "english": "imbibe"
+    }, 
+    {
+        "sound": "431\\27\\27_1.mp3", 
+        "sound_mark": "['iminənt]", 
+        "chinese": "adj. 逼近的，即将发生的", 
+        "english": "imminent"
+    }, 
+    {
+        "sound": "431\\27\\27_2.mp3", 
+        "sound_mark": "[im'pekəbl]", 
+        "chinese": "adj. 无过的，无错误的，无瑕疵的", 
+        "english": "impeccable"
+    }, 
+    {
+        "sound": "431\\27\\27_3.mp3", 
+        "sound_mark": "[im'pi:d]", 
+        "chinese": "vt. 妨碍，阻止", 
+        "english": "impede"
+    }, 
+    {
+        "sound": "431\\27\\27_4.mp3", 
+        "sound_mark": "[im'perətiv]", 
+        "chinese": "n. 命令，诫命，需要，祈使语气adj. 命令式的，急需的，祈使的", 
+        "english": "imperative"
+    }, 
+    {
+        "sound": "431\\27\\27_5.mp3", 
+        "sound_mark": "[.impə'septəbl]", 
+        "chinese": "adj. 感觉不到的，细微的", 
+        "english": "imperceptible"
+    }, 
+    {
+        "sound": "431\\27\\27_6.mp3", 
+        "sound_mark": "[.impə'tə:bəbl]", 
+        "chinese": "adj. 沉着的，泰然自若的，镇静的", 
+        "english": "imperturbable"
+    }, 
+    {
+        "sound": "431\\27\\27_7.mp3", 
+        "sound_mark": "[im'petjuəs]", 
+        "chinese": "adj. 冲动的，猛烈的，轻率的", 
+        "english": "impetuous"
+    }, 
+    {
+        "sound": "431\\27\\27_8.mp3", 
+        "sound_mark": "['impiəs]", 
+        "chinese": "adj. 不敬的，不孝的", 
+        "english": "impious"
+    }, 
+    {
+        "sound": "431\\27\\27_9.mp3", 
+        "sound_mark": "[im'plækəbl]", 
+        "chinese": "adj. 难宽恕的，难和解的，执拗的", 
+        "english": "implacable"
+    }, 
+    {
+        "sound": "431\\27\\27_10.mp3", 
+        "sound_mark": "[im'plɔ:]", 
+        "chinese": "v. 恳求，哀求", 
+        "english": "implore"
+    }, 
+    {
+        "sound": "431\\27\\27_11.mp3", 
+        "sound_mark": "[.impɔ:'tju:n]", 
+        "chinese": "v. 强求，硬要，胡搅蛮缠adj. 胡搅蛮缠的", 
+        "english": "importune"
+    }, 
+    {
+        "sound": "431\\27\\27_12.mp3", 
+        "sound_mark": "[.impre'sɑ:riəu]", 
+        "chinese": "n. 制作人，经理人，主办者", 
+        "english": "impresario"
+    }, 
+    {
+        "sound": "431\\27\\27_13.mp3", 
+        "sound_mark": "[im'prɔmptju:]", 
+        "chinese": "adv. 即兴地，无准备地n. 即兴之作，即兴曲adj. 即席的，即兴的v. 即兴创作，即兴表演", 
+        "english": "impromptu"
+    }, 
+    {
+        "sound": "431\\27\\27_14.mp3", 
+        "sound_mark": "[im'pru:dənt]", 
+        "chinese": "adj. 轻率的，不谨慎的", 
+        "english": "imprudent"
+    }, 
+    {
+        "sound": "431\\28\\28_0.mp3", 
+        "sound_mark": "[im'pju:niti]", 
+        "chinese": "n. 不受惩罚，免罚", 
+        "english": "impunity"
+    }, 
+    {
+        "sound": "431\\28\\28_1.mp3", 
+        "sound_mark": "[.inəd'və:tənt]", 
+        "chinese": "adj. 不注意的，疏忽的，非故意的", 
+        "english": "inadvertent"
+    }, 
+    {
+        "sound": "431\\28\\28_2.mp3", 
+        "sound_mark": "[in'ein]", 
+        "chinese": "adj. 空虚的，无意义的，愚蠢的", 
+        "english": "inane"
+    }, 
+    {
+        "sound": "431\\28\\28_3.mp3", 
+        "sound_mark": "[in'ænimit]", 
+        "chinese": "adj. 无生命的", 
+        "english": "inanimate"
+    }, 
+    {
+        "sound": "431\\28\\28_4.mp3", 
+        "sound_mark": "[.inkə'pæsiteit]", 
+        "chinese": "v. 使不能，使不适于vt. 使不能", 
+        "english": "incapacitate"
+    }, 
+    {
+        "sound": "431\\28\\28_5.mp3", 
+        "sound_mark": "['inkəueit]", 
+        "chinese": "adj. 刚开始的，早期的，不成熟的", 
+        "english": "inchoate"
+    }, 
+    {
+        "sound": "431\\28\\28_6.mp3", 
+        "sound_mark": "[in'sipiənt]", 
+        "chinese": "adj. 起初的，初期的", 
+        "english": "incipient"
+    }, 
+    {
+        "sound": "431\\28\\28_7.mp3", 
+        "sound_mark": "[in'saisiv]", 
+        "chinese": "adj. 尖锐的，一针见血的，敏锐的", 
+        "english": "incisive"
+    }, 
+    {
+        "sound": "431\\28\\28_8.mp3", 
+        "sound_mark": "[in'klemənt]", 
+        "chinese": "adj. （天气）严酷的，寒冷的，狂风暴雨的", 
+        "english": "inclement"
+    }, 
+    {
+        "sound": "431\\28\\28_9.mp3", 
+        "sound_mark": "[.inkəu'hiərənt]", 
+        "chinese": "adj. 不连贯的，语无伦次的", 
+        "english": "incoherent"
+    }, 
+    {
+        "sound": "431\\28\\28_10.mp3", 
+        "sound_mark": "['inkəm.pætə'biliti]", 
+        "chinese": "n. 不两立，不相容(复数）incompatibilities: 不兼容性，不兼容的事物", 
+        "english": "incompatibility"
+    }, 
+    {
+        "sound": "431\\28\\28_11.mp3", 
+        "sound_mark": "[in'kɔŋgruəs]", 
+        "chinese": "adj. 不协调的，不一致的，前后不一的", 
+        "english": "incongruous"
+    }, 
+    {
+        "sound": "431\\28\\28_12.mp3", 
+        "sound_mark": "[in.kɔntrə'və:təbl]", 
+        "chinese": "adj. 不容置疑的，无可辩驳的，明白的", 
+        "english": "incontrovertible"
+    }, 
+    {
+        "sound": "431\\28\\28_13.mp3", 
+        "sound_mark": "[in'kredjuləs]", 
+        "chinese": "adj. 怀疑的，不轻信的", 
+        "english": "incredulous"
+    }, 
+    {
+        "sound": "431\\28\\28_14.mp3", 
+        "sound_mark": "[in'kʌmbənt]", 
+        "chinese": "adj. 凭依的，依靠的，负有义务的n. 领圣职的俸禄的牧师，在职者", 
+        "english": "incumbent"
+    }, 
+    {
+        "sound": "431\\29\\29_0.mp3", 
+        "sound_mark": "[in'dait]", 
+        "chinese": "v. 起诉，控告，指控", 
+        "english": "indict"
+    }, 
+    {
+        "sound": "431\\29\\29_1.mp3", 
+        "sound_mark": "[in'difərəns]", 
+        "chinese": "n. 不重视，无兴趣，漠不关心", 
+        "english": "indifference"
+    }, 
+    {
+        "sound": "431\\29\\29_2.mp3", 
+        "sound_mark": "[in'didʒinəs]", 
+        "chinese": "adj. 本地的，土生土长的，天生的", 
+        "english": "indigenous"
+    }, 
+    {
+        "sound": "431\\29\\29_3.mp3", 
+        "sound_mark": "['indidʒənt]", 
+        "chinese": "adj. 贫穷的，贫困的，欠缺的", 
+        "english": "indigent"
+    }, 
+    {
+        "sound": "431\\29\\29_4.mp3", 
+        "sound_mark": "[.indis'kriminit]", 
+        "chinese": "adj. 无差别的，不分皂白的，杂陈的", 
+        "english": "indiscriminate"
+    }, 
+    {
+        "sound": "431\\29\\29_5.mp3", 
+        "sound_mark": "[in'dɔktrineit]", 
+        "chinese": "v. 灌输思想，传授", 
+        "english": "indoctrinate"
+    }, 
+    {
+        "sound": "431\\29\\29_6.mp3", 
+        "sound_mark": "['indələnt]", 
+        "chinese": "adj. 懒惰的，慢性的", 
+        "english": "indolent"
+    }, 
+    {
+        "sound": "431\\29\\29_7.mp3", 
+        "sound_mark": "[i'ni:brieitid]", 
+        "chinese": "adj. 酒醉的v. 使醉（inebriate的过去分词）", 
+        "english": "inebriated"
+    }, 
+    {
+        "sound": "431\\29\\29_8.mp3", 
+        "sound_mark": "[.ini'fektjuəl]", 
+        "chinese": "adj. （东西）无效的，无益的，白费的，（人）无能的", 
+        "english": "ineffectual"
+    }, 
+    {
+        "sound": "431\\29\\29_9.mp3", 
+        "sound_mark": "[in'ə:t]", 
+        "chinese": "adj. 惰性的，迟钝的", 
+        "english": "inert"
+    }, 
+    {
+        "sound": "431\\29\\29_10.mp3", 
+        "sound_mark": "[in'evitəbl]", 
+        "chinese": "adj. 不可避免的，必然(发生)的", 
+        "english": "inevitable"
+    }, 
+    {
+        "sound": "431\\29\\29_11.mp3", 
+        "sound_mark": "[in'eksərəbl]", 
+        "chinese": "adj. 不为所动的，坚决不变的n. 坚定不移的人", 
+        "english": "inexorable"
+    }, 
+    {
+        "sound": "431\\29\\29_12.mp3", 
+        "sound_mark": "[in'fæləbl]", 
+        "chinese": "adj. 绝无错误的，绝对可靠的", 
+        "english": "infallible"
+    }, 
+    {
+        "sound": "431\\29\\29_13.mp3", 
+        "sound_mark": "['infəməs]", 
+        "chinese": "adj. 无耻的，臭名昭著的", 
+        "english": "infamous"
+    }, 
+    {
+        "sound": "431\\29\\29_14.mp3", 
+        "sound_mark": "[in'frækʃən]", 
+        "chinese": "n. 违反，违法", 
+        "english": "infraction"
+    }, 
+    {
+        "sound": "431\\30\\30_0.mp3", 
+        "sound_mark": "[in'greiʃieit]", 
+        "chinese": "vt. 逢迎，讨好", 
+        "english": "ingratiate"
+    }, 
+    {
+        "sound": "431\\30\\30_1.mp3", 
+        "sound_mark": "[in'hiərənt]", 
+        "chinese": "adj. 内在的，固有的", 
+        "english": "inherent"
+    }, 
+    {
+        "sound": "431\\30\\30_2.mp3", 
+        "sound_mark": "[.inhi'biʃən]", 
+        "chinese": "n. 禁止，禁制，压抑", 
+        "english": "inhibition"
+    }, 
+    {
+        "sound": "431\\30\\30_3.mp3", 
+        "sound_mark": "[i'nikwiti]", 
+        "chinese": "n. 邪恶，不公正，罪行", 
+        "english": "iniquity"
+    }, 
+    {
+        "sound": "431\\30\\30_4.mp3", 
+        "sound_mark": "[i'niʃieit]", 
+        "chinese": "n. 创始人adj. 新加入的vt. 开始，创始，启蒙，介绍加入", 
+        "english": "initiate"
+    }, 
+    {
+        "sound": "431\\30\\30_5.mp3", 
+        "sound_mark": "['in'eit]", 
+        "chinese": "adj. 天生的，固有的", 
+        "english": "innate"
+    }, 
+    {
+        "sound": "431\\30\\30_6.mp3", 
+        "sound_mark": "[i'nɔkjuəs]", 
+        "chinese": "adj. 无害的，无毒的，无关痛痒的", 
+        "english": "innocuous"
+    }, 
+    {
+        "sound": "431\\30\\30_7.mp3", 
+        "sound_mark": "[i'nɔ:dinit]", 
+        "chinese": "adj. 过度的，非常的，无法无天的", 
+        "english": "inordinate"
+    }, 
+    {
+        "sound": "431\\30\\30_8.mp3", 
+        "sound_mark": "[in'seiʃiəbl]", 
+        "chinese": "adj. 不知足的，贪求无厌的", 
+        "english": "insatiable"
+    }, 
+    {
+        "sound": "431\\30\\30_9.mp3", 
+        "sound_mark": "[in'sidiəs]", 
+        "chinese": "adj. 隐伏的，暗中为害的，阴险的，诱人上当的，（疾病等）不知不觉恶化的", 
+        "english": "insidious"
+    }, 
+    {
+        "sound": "431\\30\\30_10.mp3", 
+        "sound_mark": "['intigrəl]", 
+        "chinese": "adj. 构成整体所必需的，完整的n. [数学] 积分，完整", 
+        "english": "integral"
+    }, 
+    {
+        "sound": "431\\30\\30_11.mp3", 
+        "sound_mark": "[.intə'dʒekt]", 
+        "chinese": "v. 插话", 
+        "english": "interject"
+    }, 
+    {
+        "sound": "431\\30\\30_12.mp3", 
+        "sound_mark": "['intələupə]", 
+        "chinese": "n. 闯入者，(为图私利)干涉他人事务者，无执照营业者", 
+        "english": "interloper"
+    }, 
+    {
+        "sound": "431\\30\\30_13.mp3", 
+        "sound_mark": "[in'tə:minəbl]", 
+        "chinese": "adj. 无限的，冗长的", 
+        "english": "interminable"
+    }, 
+    {
+        "sound": "431\\30\\30_14.mp3", 
+        "sound_mark": "[.intə'ni:sain]", 
+        "chinese": "adj. 两败俱伤的，内讧的，致命的", 
+        "english": "internecine"
+    }, 
+    {
+        "sound": "431\\31\\31_0.mp3", 
+        "sound_mark": "[in'terəgeit]", 
+        "chinese": "v. 质问，讯问，审问", 
+        "english": "interrogate"
+    }, 
+    {
+        "sound": "431\\31\\31_1.mp3", 
+        "sound_mark": "[in'timideit]", 
+        "chinese": "vt. 威胁，恐吓，胁迫", 
+        "english": "intimidate"
+    }, 
+    {
+        "sound": "431\\31\\31_2.mp3", 
+        "sound_mark": "[in'trepid]", 
+        "chinese": "adj. 无畏的，刚毅的", 
+        "english": "intrepid"
+    }, 
+    {
+        "sound": "431\\31\\31_3.mp3", 
+        "sound_mark": "[in'trinsik]", 
+        "chinese": "adj. 固有的，内在的", 
+        "english": "intrinsic"
+    }, 
+    {
+        "sound": "431\\31\\31_4.mp3", 
+        "sound_mark": "[.intrəu'spektiv]", 
+        "chinese": "adj. 反省的，内省的", 
+        "english": "introspective"
+    }, 
+    {
+        "sound": "431\\31\\31_5.mp3", 
+        "sound_mark": "['inʌndeit]", 
+        "chinese": "v. 浸水，向泛滥，淹没", 
+        "english": "inundate"
+    }, 
+    {
+        "sound": "431\\31\\31_6.mp3", 
+        "sound_mark": "[in'vælideit]", 
+        "chinese": "vt. 使无效，使作废", 
+        "english": "invalidate"
+    }, 
+    {
+        "sound": "431\\31\\31_7.mp3", 
+        "sound_mark": "[in'vektiv]", 
+        "chinese": "n. 恶言漫骂，臭骂adj. 漫骂的，恶言的", 
+        "english": "invective"
+    }, 
+    {
+        "sound": "431\\31\\31_8.mp3", 
+        "sound_mark": "[in'vei]", 
+        "chinese": "vi. 痛骂；漫骂；猛烈抨击", 
+        "english": "inveigh"
+    }, 
+    {
+        "sound": "431\\31\\31_9.mp3", 
+        "sound_mark": "[in'vetərit]", 
+        "chinese": "adj. 根深蒂固的，成瘾的", 
+        "english": "inveterate"
+    }, 
+    {
+        "sound": "431\\31\\31_10.mp3", 
+        "sound_mark": "[in'vaiələbl]", 
+        "chinese": "adj. 不可侵犯的，不可亵渎的", 
+        "english": "inviolable"
+    }, 
+    {
+        "sound": "431\\31\\31_11.mp3", 
+        "sound_mark": "[i'ræsibl]", 
+        "chinese": "adj. 易怒的，暴躁的", 
+        "english": "irascible"
+    }, 
+    {
+        "sound": "431\\31\\31_12.mp3", 
+        "sound_mark": "[ai'reit]", 
+        "chinese": "adj. 发怒的，生气的", 
+        "english": "irate"
+    }, 
+    {
+        "sound": "431\\31\\31_13.mp3", 
+        "sound_mark": "[i'ræʃənəl]", 
+        "chinese": "n. 无理数adj. 无理性的，不合理的", 
+        "english": "irrational"
+    }, 
+    {
+        "sound": "431\\31\\31_14.mp3", 
+        "sound_mark": "[i'tinərənt]", 
+        "chinese": "adj. 巡回的，流动的n. 巡回者", 
+        "english": "itinerant"
+    }, 
+    {
+        "sound": "431\\32\\32_0.mp3", 
+        "sound_mark": "['dʒɔ:nti]", 
+        "chinese": "adj. 轻松活泼的，整洁的，时髦的，有教养的", 
+        "english": "jaunty"
+    }, 
+    {
+        "sound": "431\\32\\32_1.mp3", 
+        "sound_mark": "['dʒepədaiz]", 
+        "chinese": "vt. 危害，使受危困，使陷危地", 
+        "english": "jeopardize"
+    }, 
+    {
+        "sound": "431\\32\\32_2.mp3", 
+        "sound_mark": "['dʒetisn]", 
+        "chinese": "n. 投弃，投弃货物vt. 抛弃，丢弃，投弃", 
+        "english": "jettison"
+    }, 
+    {
+        "sound": "431\\32\\32_3.mp3", 
+        "sound_mark": "[dʒə'kəus]", 
+        "chinese": "adj. 开玩笑的，诙谐的", 
+        "english": "jocose"
+    }, 
+    {
+        "sound": "431\\32\\32_4.mp3", 
+        "sound_mark": "['dʒɔsl]", 
+        "chinese": "v. & n. 推，撞，挤(人)vt. 推撞", 
+        "english": "jostle"
+    }, 
+    {
+        "sound": "431\\32\\32_5.mp3", 
+        "sound_mark": "['dʒu:bilənt]", 
+        "chinese": "adj. 扬声欢呼的，喜洋洋的", 
+        "english": "jubilant"
+    }, 
+    {
+        "sound": "431\\32\\32_6.mp3", 
+        "sound_mark": "[.dʒuəris'dikʃən]", 
+        "chinese": "n. 司法权，审判权，管辖权，控制权", 
+        "english": "jurisdiction"
+    }, 
+    {
+        "sound": "431\\32\\32_7.mp3", 
+        "sound_mark": "[.dʒʌkstə'pəuz]", 
+        "chinese": "vt. 并置，并列", 
+        "english": "juxtapose"
+    }, 
+    {
+        "sound": "431\\32\\32_8.mp3", 
+        "sound_mark": "['læbərinθ]", 
+        "chinese": "n. 迷宫，难解的事件", 
+        "english": "labyrinth"
+    }, 
+    {
+        "sound": "431\\32\\32_9.mp3", 
+        "sound_mark": "[.læsə'reiʃən]", 
+        "chinese": "n. 撕裂，裂口，锯齿状的伤口", 
+        "english": "laceration"
+    }, 
+    {
+        "sound": "431\\32\\32_10.mp3", 
+        "sound_mark": "", 
+        "chinese": "n. 无光泽；暗淡adj. 无光泽的；平凡的", 
+        "english": "lackluster"
+    }, 
+    {
+        "sound": "431\\32\\32_11.mp3", 
+        "sound_mark": "[lə'kɔnik]", 
+        "chinese": "adj. 简洁的，言简意赅的", 
+        "english": "laconic"
+    }, 
+    {
+        "sound": "431\\32\\32_12.mp3", 
+        "sound_mark": "[læm'pu:n]", 
+        "chinese": "n. 讽刺文章vt. 嘲讽", 
+        "english": "lampoon"
+    }, 
+    {
+        "sound": "431\\32\\32_13.mp3", 
+        "sound_mark": "['lændmɑ:k]", 
+        "chinese": "n. 陆标，地界标，里程碑，划时代的事", 
+        "english": "landmark"
+    }, 
+    {
+        "sound": "431\\32\\32_14.mp3", 
+        "sound_mark": "[lɑ:'dʒes]", 
+        "chinese": "n. 慷慨的赠予；赠品", 
+        "english": "largess"
+    }, 
+    {
+        "sound": "431\\33\\33_0.mp3", 
+        "sound_mark": "['læsitju:d]", 
+        "chinese": "n. 无力，没精打采", 
+        "english": "lassitude"
+    }, 
+    {
+        "sound": "431\\33\\33_1.mp3", 
+        "sound_mark": "['leitnt]", 
+        "chinese": "adj. 潜伏的，潜在的n. 隐约的指印，指纹", 
+        "english": "latent"
+    }, 
+    {
+        "sound": "431\\33\\33_2.mp3", 
+        "sound_mark": "['lɔ:dəbl]", 
+        "chinese": "adj. 值得称赞的", 
+        "english": "laudable"
+    }, 
+    {
+        "sound": "431\\33\\33_3.mp3", 
+        "sound_mark": "[læks]", 
+        "chinese": "adj. 松的，松懈的，不严的[语]松弛元音的", 
+        "english": "lax"
+    }, 
+    {
+        "sound": "431\\33\\33_4.mp3", 
+        "sound_mark": "['ledʒədə'mein]", 
+        "chinese": "n. 手法，戏法，诈术", 
+        "english": "legerdemain"
+    }, 
+    {
+        "sound": "431\\33\\33_5.mp3", 
+        "sound_mark": "['li:dʒən]", 
+        "chinese": "n. 军团，众多的人adj. 很多的", 
+        "english": "legion"
+    }, 
+    {
+        "sound": "431\\33\\33_6.mp3", 
+        "sound_mark": "['li:θəl]", 
+        "chinese": "adj. 致命的，毁灭性的，有效的n. 基因异常，致死基因", 
+        "english": "lethal"
+    }, 
+    {
+        "sound": "431\\33\\33_7.mp3", 
+        "sound_mark": "[le'θɑ:dʒik]", 
+        "chinese": "adj. 昏睡的，困倦的，冷淡的", 
+        "english": "lethargic"
+    }, 
+    {
+        "sound": "431\\33\\33_8.mp3", 
+        "sound_mark": "['leviti]", 
+        "chinese": "n. 轻浮，轻率，不稳定，多变", 
+        "english": "levity"
+    }, 
+    {
+        "sound": "431\\33\\33_9.mp3", 
+        "sound_mark": "['laibəl]", 
+        "chinese": "n. (文字)诽谤，侮辱vt. 诽谤，中伤，损害名誉vi. 发表诽谤言论", 
+        "english": "libel"
+    }, 
+    {
+        "sound": "431\\33\\33_10.mp3", 
+        "sound_mark": "[.likwi'deiʃən]", 
+        "chinese": "n. （债务的）清偿，（公司的）清盘，停止营业", 
+        "english": "liquidation"
+    }, 
+    {
+        "sound": "431\\33\\33_11.mp3", 
+        "sound_mark": "[laið]", 
+        "chinese": "adj. 柔软的，易弯的，敏捷的，轻快的", 
+        "english": "lithe"
+    }, 
+    {
+        "sound": "431\\33\\33_12.mp3", 
+        "sound_mark": "['livid]", 
+        "chinese": "adj. 铅色的", 
+        "english": "livid"
+    }, 
+    {
+        "sound": "431\\33\\33_13.mp3", 
+        "sound_mark": "[ləuθ]", 
+        "chinese": "adj. 勉强的；不情愿的（等于loth）", 
+        "english": "loath"
+    }, 
+    {
+        "sound": "431\\33\\33_14.mp3", 
+        "sound_mark": "[ləuð]", 
+        "chinese": "v. 厌恶，憎恶", 
+        "english": "loathe"
+    }, 
+    {
+        "sound": "431\\34\\34_0.mp3", 
+        "sound_mark": "[lɔn'dʒeviti]", 
+        "chinese": "n. 长寿", 
+        "english": "longevity"
+    }, 
+    {
+        "sound": "431\\34\\34_1.mp3", 
+        "sound_mark": "['lu:krətiv]", 
+        "chinese": "adj. 获利的，合算的", 
+        "english": "lucrative"
+    }, 
+    {
+        "sound": "431\\34\\34_2.mp3", 
+        "sound_mark": "[lu:'gju:briəs]", 
+        "chinese": "adj. 悲哀的，忧郁的", 
+        "english": "lugubrious"
+    }, 
+    {
+        "sound": "431\\34\\34_3.mp3", 
+        "sound_mark": "['ljuərid]", 
+        "chinese": "adj. 火烧似的；可怕的，耸人听闻的；苍白的；血红的；华丽而庸俗的", 
+        "english": "lurid"
+    }, 
+    {
+        "sound": "431\\34\\34_4.mp3", 
+        "sound_mark": "[lʌʃ]", 
+        "chinese": "adj. 苍翠繁茂的，多青草的，丰富的n. 酒，酒鬼v. 喝酒", 
+        "english": "lush"
+    }, 
+    {
+        "sound": "431\\34\\34_5.mp3", 
+        "sound_mark": "[mæg'næniməs]", 
+        "chinese": "adj. 度量大的，宽大的，有雅量的，高尚的", 
+        "english": "magnanimous"
+    }, 
+    {
+        "sound": "431\\34\\34_6.mp3", 
+        "sound_mark": "[meim]", 
+        "chinese": "vt. 使残废，使不能工作，使伤残n. 伤残，残废", 
+        "english": "maim"
+    }, 
+    {
+        "sound": "431\\34\\34_7.mp3", 
+        "sound_mark": "[.mælə'dʒʌstid]", 
+        "chinese": "adj. 调节不良的，不能适应环境的", 
+        "english": "maladjusted"
+    }, 
+    {
+        "sound": "431\\34\\34_8.mp3", 
+        "sound_mark": "['mælədi]", 
+        "chinese": "n. 病，疾病，弊病", 
+        "english": "malady"
+    }, 
+    {
+        "sound": "431\\34\\34_9.mp3", 
+        "sound_mark": "[mə'levələnt]", 
+        "chinese": "adj. 有恶意的，恶毒的", 
+        "english": "malevolent"
+    }, 
+    {
+        "sound": "431\\34\\34_10.mp3", 
+        "sound_mark": "[mə'lain]", 
+        "chinese": "adj. 有害的，恶性的，有恶意的vt. 诽谤，说坏话", 
+        "english": "malign"
+    }, 
+    {
+        "sound": "431\\34\\34_11.mp3", 
+        "sound_mark": "[mə'lignənt]", 
+        "chinese": "adj. 有恶意的，恶性的，有害的", 
+        "english": "malignant"
+    }, 
+    {
+        "sound": "431\\34\\34_12.mp3", 
+        "sound_mark": "['mæliəbəl]", 
+        "chinese": "adj. 可塑的，易改变的", 
+        "english": "malleable"
+    }, 
+    {
+        "sound": "431\\34\\34_13.mp3", 
+        "sound_mark": "[.mælnju:'triʃən]", 
+        "chinese": "n. 营养不良", 
+        "english": "malnutrition"
+    }, 
+    {
+        "sound": "431\\34\\34_14.mp3", 
+        "sound_mark": "['mæməθ]", 
+        "chinese": "n. 长毛象adj. 长毛象似的，巨大的", 
+        "english": "mammoth"
+    }, 
+    {
+        "sound": "431\\35\\35_0.mp3", 
+        "sound_mark": "['mændeit]", 
+        "chinese": "n. 命令，指令，要求，托管地vt. 把(某一地区)置于委任管理下", 
+        "english": "mandate"
+    }, 
+    {
+        "sound": "431\\35\\35_1.mp3", 
+        "sound_mark": "['mænifest]", 
+        "chinese": "n. 载货单，运货单，旅客名单adj. 显然的，明白的vt. 显示，证实，出示", 
+        "english": "manifest"
+    }, 
+    {
+        "sound": "431\\35\\35_2.mp3", 
+        "sound_mark": "['mænifəuld]", 
+        "chinese": "n. 多种，复印本，多支管adj. 多种的，多方面的v. 复写，繁殖，增多", 
+        "english": "manifold"
+    }, 
+    {
+        "sound": "431\\35\\35_3.mp3", 
+        "sound_mark": "[.mɑ:ti'net]", 
+        "chinese": "n. 要求严格服从纪律的人", 
+        "english": "martinet"
+    }, 
+    {
+        "sound": "431\\35\\35_4.mp3", 
+        "sound_mark": "['mæstikeit]", 
+        "chinese": "v. 咀嚼，磨烂", 
+        "english": "masticate"
+    }, 
+    {
+        "sound": "431\\35\\35_5.mp3", 
+        "sound_mark": "['mæstif]", 
+        "chinese": "n. 獒，大驯犬", 
+        "english": "mastiff"
+    }, 
+    {
+        "sound": "431\\35\\35_6.mp3", 
+        "sound_mark": "[mə'tiəriəlizəm]", 
+        "chinese": "n. 唯物主义，唯物论，实利主义", 
+        "english": "materialism"
+    }, 
+    {
+        "sound": "431\\35\\35_7.mp3", 
+        "sound_mark": "['meitrən]", 
+        "chinese": "n. 女总管，护士长，主妇，保姆", 
+        "english": "matron"
+    }, 
+    {
+        "sound": "431\\35\\35_8.mp3", 
+        "sound_mark": "['mɔ:dlin]", 
+        "chinese": "adj. 容易流泪的，感伤的，醉后好哭的", 
+        "english": "maudlin"
+    }, 
+    {
+        "sound": "431\\35\\35_9.mp3", 
+        "sound_mark": "['megələ'meinjə]", 
+        "chinese": "n. 自大狂", 
+        "english": "megalomania"
+    }, 
+    {
+        "sound": "431\\35\\35_10.mp3", 
+        "sound_mark": "[men'deiʃəs]", 
+        "chinese": "adj. 不真的，撒谎的", 
+        "english": "mendacious"
+    }, 
+    {
+        "sound": "431\\35\\35_11.mp3", 
+        "sound_mark": "['mi:niəl]", 
+        "chinese": "adj. 适合仆人做的，卑微的n. 佣人，家仆，卑贱的人", 
+        "english": "menial"
+    }, 
+    {
+        "sound": "431\\35\\35_12.mp3", 
+        "sound_mark": "['mentə]", 
+        "chinese": "n. 指导者vt. 指导", 
+        "english": "mentor"
+    }, 
+    {
+        "sound": "431\\35\\35_13.mp3", 
+        "sound_mark": "['mə:sineri]", 
+        "chinese": "adj. 唯利是图的，雇佣的n. 唯利是图的人，雇佣兵", 
+        "english": "mercenary"
+    }, 
+    {
+        "sound": "431\\35\\35_14.mp3", 
+        "sound_mark": "[.metə'mɔ:fəsis]", 
+        "chinese": "n. 锐变，变质，变形", 
+        "english": "metamorphosis"
+    }, 
+    {
+        "sound": "431\\36\\36_0.mp3", 
+        "sound_mark": "[mi'tikjuləs]", 
+        "chinese": "adj. 一丝不苟的，精确的", 
+        "english": "meticulous"
+    }, 
+    {
+        "sound": "431\\36\\36_1.mp3", 
+        "sound_mark": "[mi:n]", 
+        "chinese": "n. 风采，态度，外表", 
+        "english": "mien"
+    }, 
+    {
+        "sound": "431\\36\\36_2.mp3", 
+        "sound_mark": "[mi:'ljə]", 
+        "chinese": "n. 周围，背景", 
+        "english": "milieu"
+    }, 
+    {
+        "sound": "431\\36\\36_3.mp3", 
+        "sound_mark": "['mɔdifai]", 
+        "chinese": "v. 修改，修饰，更改", 
+        "english": "modify"
+    }, 
+    {
+        "sound": "431\\36\\36_4.mp3", 
+        "sound_mark": "['mɔlifai]", 
+        "chinese": "v. 安慰，安抚，平息", 
+        "english": "mollify"
+    }, 
+    {
+        "sound": "431\\36\\36_5.mp3", 
+        "sound_mark": "[.mɔnə'liθik]", 
+        "chinese": "adj. 独石的，完全统一的，整体的", 
+        "english": "monolithic"
+    }, 
+    {
+        "sound": "431\\36\\36_6.mp3", 
+        "sound_mark": "['mɔribʌnd]", 
+        "chinese": "adj. 垂死的，即将结束的", 
+        "english": "moribund"
+    }, 
+    {
+        "sound": "431\\36\\36_7.mp3", 
+        "sound_mark": "[mɔ:'tæliti]", 
+        "chinese": "n. 必死的命运，死亡数目，死亡率", 
+        "english": "mortality"
+    }, 
+    {
+        "sound": "431\\36\\36_8.mp3", 
+        "sound_mark": "['mɔ:tifai]", 
+        "chinese": "v. 使 ... 受辱，抑制", 
+        "english": "mortify"
+    }, 
+    {
+        "sound": "431\\36\\36_9.mp3", 
+        "sound_mark": "['məutiveit]", 
+        "chinese": "vt. 给与动机，激发(兴趣或欲望)", 
+        "english": "motivate"
+    }, 
+    {
+        "sound": "431\\36\\36_10.mp3", 
+        "sound_mark": "['mʌndein]", 
+        "chinese": "adj. 平凡的，世俗的，宇宙的", 
+        "english": "mundane"
+    }, 
+    {
+        "sound": "431\\36\\36_11.mp3", 
+        "sound_mark": "[mju:'nifisnt]", 
+        "chinese": "adj. 慷慨的，大方的", 
+        "english": "munificent"
+    }, 
+    {
+        "sound": "431\\36\\36_12.mp3", 
+        "sound_mark": "['mə:ki]", 
+        "chinese": "adj. 黑暗的，朦胧的，烟雾弥漫的，含糊的，隐晦的", 
+        "english": "murky"
+    }, 
+    {
+        "sound": "431\\36\\36_13.mp3", 
+        "sound_mark": "['miriəd]", 
+        "chinese": "adj. 无数的n. 极大数量", 
+        "english": "myriad"
+    }, 
+    {
+        "sound": "431\\36\\36_14.mp3", 
+        "sound_mark": "['neidə]", 
+        "chinese": "n. 最低点，[天文学]天底", 
+        "english": "nadir"
+    }, 
+    {
+        "sound": "431\\37\\37_0.mp3", 
+        "sound_mark": "[nɑ'i:v]", 
+        "chinese": "adj. 天真的，幼稚的", 
+        "english": "naive"
+    }, 
+    {
+        "sound": "431\\37\\37_1.mp3", 
+        "sound_mark": "['næsnt]", 
+        "chinese": "adj. 新生的，尚不成熟的", 
+        "english": "nascent"
+    }, 
+    {
+        "sound": "431\\37\\37_2.mp3", 
+        "sound_mark": "['nebjuləs]", 
+        "chinese": "adj. 星云的，星云状的，朦胧的", 
+        "english": "nebulous"
+    }, 
+    {
+        "sound": "431\\37\\37_3.mp3", 
+        "sound_mark": "[ni'fɛəriəs]", 
+        "chinese": "adj. 违法的，邪恶的", 
+        "english": "nefarious"
+    }, 
+    {
+        "sound": "431\\37\\37_4.mp3", 
+        "sound_mark": "['neglidʒəbl]", 
+        "chinese": "adj. 可以忽略的，微不足道的", 
+        "english": "negligible"
+    }, 
+    {
+        "sound": "431\\37\\37_5.mp3", 
+        "sound_mark": "['nepətizəm]", 
+        "chinese": "n. 裙带关系，任人唯亲", 
+        "english": "nepotism"
+    }, 
+    {
+        "sound": "431\\37\\37_6.mp3", 
+        "sound_mark": "['netl]", 
+        "chinese": "n. 荨麻v. 以荨麻刺，激怒", 
+        "english": "nettle"
+    }, 
+    {
+        "sound": "431\\37\\37_7.mp3", 
+        "sound_mark": "[njuə'rɔtik]", 
+        "chinese": "adj. 神经病的，神经过敏的n. 神经病患者", 
+        "english": "neurotic"
+    }, 
+    {
+        "sound": "431\\37\\37_8.mp3", 
+        "sound_mark": "['nju:trəl.aiz]", 
+        "chinese": "v. 使中立，使成中立地带，中和", 
+        "english": "neutralize"
+    }, 
+    {
+        "sound": "431\\37\\37_9.mp3", 
+        "sound_mark": "[niə'vɑ:nə]", 
+        "chinese": "n. 涅盘，极乐世界", 
+        "english": "nirvana"
+    }, 
+    {
+        "sound": "431\\37\\37_10.mp3", 
+        "sound_mark": "['nɔisəm]", 
+        "chinese": "adj. 恶臭的，令人不快的，有害的", 
+        "english": "noisome"
+    }, 
+    {
+        "sound": "431\\37\\37_11.mp3", 
+        "sound_mark": "[nəu'mædik]", 
+        "chinese": "adj. 游牧的，游牧民族的，流浪的", 
+        "english": "nomadic"
+    }, 
+    {
+        "sound": "431\\37\\37_12.mp3", 
+        "sound_mark": "['nɔminəl]", 
+        "chinese": "adj. 名义上的，有名无实的，名词性的n. 名词词组", 
+        "english": "nominal"
+    }, 
+    {
+        "sound": "431\\37\\37_13.mp3", 
+        "sound_mark": "['nɔndi.skript]", 
+        "chinese": "adj. 莫可名状的，难以区别的，没有特点的n. 难以名状的人或物", 
+        "english": "nondescript"
+    }, 
+    {
+        "sound": "431\\37\\37_14.mp3", 
+        "sound_mark": "[nɔ'nentiti]", 
+        "chinese": "n. 不存在，非实在，虚无，不重要", 
+        "english": "nonentity"
+    }, 
+    {
+        "sound": "431\\38\\38_0.mp3", 
+        "sound_mark": "[nɔs'tældʒiə]", 
+        "chinese": "n. 乡愁，向往过去，怀旧之情", 
+        "english": "nostalgia"
+    }, 
+    {
+        "sound": "431\\38\\38_1.mp3", 
+        "sound_mark": "[nju:'ɑ:ns]", 
+        "chinese": "n. 配色，色调，细微差别", 
+        "english": "nuance"
+    }, 
+    {
+        "sound": "431\\38\\38_2.mp3", 
+        "sound_mark": "['nʌlifai]", 
+        "chinese": "v. 使无效，废弃，取消", 
+        "english": "nullify"
+    }, 
+    {
+        "sound": "431\\38\\38_3.mp3", 
+        "sound_mark": "['nə:tʃə]", 
+        "chinese": "n. 养育，照顾，教育，滋养，营养品vt. 养育，给与营养物，教养，扶持", 
+        "english": "nurture"
+    }, 
+    {
+        "sound": "431\\38\\38_4.mp3", 
+        "sound_mark": "['nju:tritiv]", 
+        "chinese": "adj. 有营养的；滋养的；有营养成份的；与营养有关的n. 营养物", 
+        "english": "nutritive"
+    }, 
+    {
+        "sound": "431\\38\\38_5.mp3", 
+        "sound_mark": "[əu'bi:s]", 
+        "chinese": "adj. 极肥胖的", 
+        "english": "obese"
+    }, 
+    {
+        "sound": "431\\38\\38_6.mp3", 
+        "sound_mark": "[ə'blitəreit]", 
+        "chinese": "v. 涂去，擦去，删除", 
+        "english": "obliterate"
+    }, 
+    {
+        "sound": "431\\38\\38_7.mp3", 
+        "sound_mark": "['ɔbləkwi]", 
+        "chinese": "n. 漫骂，叱骂，毁谤", 
+        "english": "obloquy"
+    }, 
+    {
+        "sound": "431\\38\\38_8.mp3", 
+        "sound_mark": "[əb'skjuə]", 
+        "chinese": "adj. 微暗的，难解的，不著名的，[语音学]轻音的vt. 使 ... 阴暗，隐藏，使 ... 含糊，成为含糊的元音n. 暗淡，模糊", 
+        "english": "obscure"
+    }, 
+    {
+        "sound": "431\\38\\38_9.mp3", 
+        "sound_mark": "[əb'si:kwiəs]", 
+        "chinese": "adj. 谄媚的，奉承的，顺从的", 
+        "english": "obsequious"
+    }, 
+    {
+        "sound": "431\\38\\38_10.mp3", 
+        "sound_mark": "[əb'ses]", 
+        "chinese": "v. （使）牵挂，（使）惦念，（使）着迷，（使）困扰", 
+        "english": "obsess"
+    }, 
+    {
+        "sound": "431\\38\\38_11.mp3", 
+        "sound_mark": "[.ɔbsə'lesns]", 
+        "chinese": "n. 过时，作废", 
+        "english": "obsolescence"
+    }, 
+    {
+        "sound": "431\\38\\38_12.mp3", 
+        "sound_mark": "['ɔbvi.eit]", 
+        "chinese": "vt. 除去，排除", 
+        "english": "obviate"
+    }, 
+    {
+        "sound": "431\\38\\38_13.mp3", 
+        "sound_mark": "[ə'kʌlt]", 
+        "chinese": "adj. 神秘的，不可思议的，超自然的n. 神秘学", 
+        "english": "occult"
+    }, 
+    {
+        "sound": "431\\38\\38_14.mp3", 
+        "sound_mark": "[.ɔktəudʒi'neəriən]", 
+        "chinese": "n. 八旬老人(八十到八十九岁间)", 
+        "english": "octogenarian"
+    }, 
+    {
+        "sound": "431\\39\\39_0.mp3", 
+        "sound_mark": "['ɔminəs]", 
+        "chinese": "adj. 预兆的，不祥的", 
+        "english": "ominous"
+    }, 
+    {
+        "sound": "431\\39\\39_1.mp3", 
+        "sound_mark": "[ɔm'nipətənt]", 
+        "chinese": "adj. 全能的，无所不能的Omnipotent：上帝", 
+        "english": "omnipotent"
+    }, 
+    {
+        "sound": "431\\39\\39_2.mp3", 
+        "sound_mark": "[ɔm'nivərəs]", 
+        "chinese": "adj. 杂食的，涉猎广泛的", 
+        "english": "omnivorous"
+    }, 
+    {
+        "sound": "431\\39\\39_3.mp3", 
+        "sound_mark": "[ə'prəubriəm]", 
+        "chinese": "n. 污名，耻辱，咒骂", 
+        "english": "opprobrium"
+    }, 
+    {
+        "sound": "431\\39\\39_4.mp3", 
+        "sound_mark": "['ɔpjuləns]", 
+        "chinese": "n. 富裕(丰富)", 
+        "english": "opulence"
+    }, 
+    {
+        "sound": "431\\39\\39_5.mp3", 
+        "sound_mark": "[ə'ridʒineit]", 
+        "chinese": "vt. 发起vi. 开始[计算机] 起始", 
+        "english": "originate"
+    }, 
+    {
+        "sound": "431\\39\\39_6.mp3", 
+        "sound_mark": "[ɔs'tensəbl]", 
+        "chinese": "adj. 表面的，假装的", 
+        "english": "ostensible"
+    }, 
+    {
+        "sound": "431\\39\\39_7.mp3", 
+        "sound_mark": "[.ɔsten'teiʃəs]", 
+        "chinese": "adj. 装饰表面的，浮夸的，华美的", 
+        "english": "ostentatious"
+    }, 
+    {
+        "sound": "431\\39\\39_8.mp3", 
+        "sound_mark": "[aust]", 
+        "chinese": "v. 逐出，夺取", 
+        "english": "oust"
+    }, 
+    {
+        "sound": "431\\39\\39_9.mp3", 
+        "sound_mark": "['əuvə:t]", 
+        "chinese": "adj. 公开的，明显的，公然的", 
+        "english": "overt"
+    }, 
+    {
+        "sound": "431\\39\\39_10.mp3", 
+        "sound_mark": "[pɔ:l]", 
+        "chinese": "n. 棺罩；遮盖物；幕vt. 覆盖；使乏味vi. 走味", 
+        "english": "pall"
+    }, 
+    {
+        "sound": "431\\39\\39_11.mp3", 
+        "sound_mark": "['pælieit]", 
+        "chinese": "vt. 减轻，缓和，辩解", 
+        "english": "palliate"
+    }, 
+    {
+        "sound": "431\\39\\39_12.mp3", 
+        "sound_mark": "['pɔ:ltri]", 
+        "chinese": "adj. 微不足道的，琐碎的，无价值的", 
+        "english": "paltry"
+    }, 
+    {
+        "sound": "431\\39\\39_13.mp3", 
+        "sound_mark": "[.pænə'siə]", 
+        "chinese": "n. 万灵药，灵丹妙药", 
+        "english": "panacea"
+    }, 
+    {
+        "sound": "431\\39\\39_14.mp3", 
+        "sound_mark": "[pændi'məʊniəm]", 
+        "chinese": "n. 混战场，喧哗吵闹", 
+        "english": "pandemonium"
+    }, 
+    {
+        "sound": "431\\40\\40_0.mp3", 
+        "sound_mark": "['pærəbl]", 
+        "chinese": "n. 寓言，比喻", 
+        "english": "parable"
+    }, 
+    {
+        "sound": "431\\40\\40_1.mp3", 
+        "sound_mark": "['pærədɔks]", 
+        "chinese": "n. 悖论，矛盾(者)", 
+        "english": "paradox"
+    }, 
+    {
+        "sound": "431\\40\\40_2.mp3", 
+        "sound_mark": "['pærəgən]", 
+        "chinese": "n. 模范，典型vt. 与 ... 比较，比得上", 
+        "english": "paragon"
+    }, 
+    {
+        "sound": "431\\40\\40_3.mp3", 
+        "sound_mark": "['pærəmaunt]", 
+        "chinese": "adj. 极为重要的，至高无上的n. 最高统治者Paramountn. 派拉蒙(美电影公司)", 
+        "english": "paramount"
+    }, 
+    {
+        "sound": "431\\40\\40_4.mp3", 
+        "sound_mark": "['pæriə]", 
+        "chinese": "n. 南印度的最下级民，贱民，被社会遗弃者", 
+        "english": "pariah"
+    }, 
+    {
+        "sound": "431\\40\\40_5.mp3", 
+        "sound_mark": "[.pɑ:si'məuniəs]", 
+        "chinese": "adj. 太节省的，小气的", 
+        "english": "parsimonious"
+    }, 
+    {
+        "sound": "431\\40\\40_6.mp3", 
+        "sound_mark": "[pə'θetik]", 
+        "chinese": "adj. 悲哀的，可怜的，感伤的，不足的", 
+        "english": "pathetic"
+    }, 
+    {
+        "sound": "431\\40\\40_7.mp3", 
+        "sound_mark": "['pɔ:siti]", 
+        "chinese": "n. 少数，少量", 
+        "english": "paucity"
+    }, 
+    {
+        "sound": "431\\40\\40_8.mp3", 
+        "sound_mark": "[pi'kju:njəri]", 
+        "chinese": "adj. 金钱上的，金钱的", 
+        "english": "pecuniary"
+    }, 
+    {
+        "sound": "431\\40\\40_9.mp3", 
+        "sound_mark": "['pedəɡɔɡ]", 
+        "chinese": "n. 教师，教员；卖弄学问者", 
+        "english": "pedagogue"
+    }, 
+    {
+        "sound": "431\\40\\40_10.mp3", 
+        "sound_mark": "['penəns]", 
+        "chinese": "n. 自我惩罚，(赎罪的)苦行", 
+        "english": "penance"
+    }, 
+    {
+        "sound": "431\\40\\40_11.mp3", 
+        "sound_mark": "['pentʃənt]", 
+        "chinese": "n. 喜好(倾向)", 
+        "english": "penchant"
+    }, 
+    {
+        "sound": "431\\40\\40_12.mp3", 
+        "sound_mark": "['penitənt]", 
+        "chinese": "adj. 忏悔的，悔悟的n. 改过迁善的人，忏悔的人，悔罪者", 
+        "english": "penitent"
+    }, 
+    {
+        "sound": "431\\40\\40_13.mp3", 
+        "sound_mark": "['pensiv]", 
+        "chinese": "adj. 沉思的，愁眉苦脸的", 
+        "english": "pensive"
+    }, 
+    {
+        "sound": "431\\40\\40_14.mp3", 
+        "sound_mark": "['penjuri, 'penjuəri]", 
+        "chinese": "n. 贫穷，拮据", 
+        "english": "penury"
+    }, 
+    {
+        "sound": "431\\41\\41_0.mp3", 
+        "sound_mark": "[pə'si:v]", 
+        "chinese": "vt. 察觉，感觉，认知，理解", 
+        "english": "perceive"
+    }, 
+    {
+        "sound": "431\\41\\41_1.mp3", 
+        "sound_mark": "[.perigri'neiʃən]", 
+        "chinese": "n. 游历，旅行", 
+        "english": "peregrination"
+    }, 
+    {
+        "sound": "431\\41\\41_2.mp3", 
+        "sound_mark": "[pə'remptəri]", 
+        "chinese": "adj. 专横的，不容反抗的，断然中止的", 
+        "english": "peremptory"
+    }, 
+    {
+        "sound": "431\\41\\41_3.mp3", 
+        "sound_mark": "[pə'fidiəs]", 
+        "chinese": "adj. 不忠的，背信弃义的", 
+        "english": "perfidious"
+    }, 
+    {
+        "sound": "431\\41\\41_4.mp3", 
+        "sound_mark": "[pə'fʌŋktəri]", 
+        "chinese": "adj. 草率的，敷衍的", 
+        "english": "perfunctory"
+    }, 
+    {
+        "sound": "431\\41\\41_5.mp3", 
+        "sound_mark": "['pə:mieit]", 
+        "chinese": "v. 弥漫，渗透，普及", 
+        "english": "permeate"
+    }, 
+    {
+        "sound": "431\\41\\41_6.mp3", 
+        "sound_mark": "[pə'niʃəs]", 
+        "chinese": "adj. 有害的，恶性的邪恶的", 
+        "english": "pernicious"
+    }, 
+    {
+        "sound": "431\\41\\41_7.mp3", 
+        "sound_mark": "['pə:pitreit]", 
+        "chinese": "vt. 做（坏事）, 犯(罪)", 
+        "english": "perpetrate"
+    }, 
+    {
+        "sound": "431\\41\\41_8.mp3", 
+        "sound_mark": "[pə'petjueit]", 
+        "chinese": "vt. 使永存，使不朽", 
+        "english": "perpetuate"
+    }, 
+    {
+        "sound": "431\\41\\41_9.mp3", 
+        "sound_mark": "[.pə:si'viə]", 
+        "chinese": "v. 坚持，孜孜不倦，不屈不挠", 
+        "english": "persevere"
+    }, 
+    {
+        "sound": "431\\41\\41_10.mp3", 
+        "sound_mark": "[.pə:spi'keiʃəs]", 
+        "chinese": "adj. 颖悟的，聪明的，有洞察力的", 
+        "english": "perspicacious"
+    }, 
+    {
+        "sound": "431\\41\\41_11.mp3", 
+        "sound_mark": "['pə:tinənt]", 
+        "chinese": "adj. 相关的，中肯的，切题的", 
+        "english": "pertinent"
+    }, 
+    {
+        "sound": "431\\41\\41_12.mp3", 
+        "sound_mark": "[pə'ru:z]", 
+        "chinese": "vt. 熟读，精读，阅读", 
+        "english": "peruse"
+    }, 
+    {
+        "sound": "431\\41\\41_13.mp3", 
+        "sound_mark": "[pə'və:s]", 
+        "chinese": "adj. 乖张的，倔强的，错误的，不正当的，误入歧途的，有悖常理的", 
+        "english": "perverse"
+    }, 
+    {
+        "sound": "431\\41\\41_14.mp3", 
+        "sound_mark": "['peski]", 
+        "chinese": "adj. 讨厌的，烦人的", 
+        "english": "pesky"
+    }, 
+    {
+        "sound": "431\\42\\42_0.mp3", 
+        "sound_mark": "[fi'nɔminən]", 
+        "chinese": "n. 现象，迹象，(稀有)事件", 
+        "english": "phenomenon"
+    }, 
+    {
+        "sound": "431\\42\\42_1.mp3", 
+        "sound_mark": "[fleg'mætik]", 
+        "chinese": "adj. 冷静的，冷淡的", 
+        "english": "phlegmatic"
+    }, 
+    {
+        "sound": "431\\42\\42_2.mp3", 
+        "sound_mark": "['fəubiə]", 
+        "chinese": "n. 恐怖病，恐怖症", 
+        "english": "phobia"
+    }, 
+    {
+        "sound": "431\\42\\42_3.mp3", 
+        "sound_mark": "['pinəkl]", 
+        "chinese": "n. 小尖塔，尖峰，高峰vt. 造小尖塔，放置高处", 
+        "english": "pinnacle"
+    }, 
+    {
+        "sound": "431\\42\\42_4.mp3", 
+        "sound_mark": "[pi:k]", 
+        "chinese": "n. 生气，愤怒v. 伤害 ... 自尊心，激怒", 
+        "english": "pique"
+    }, 
+    {
+        "sound": "431\\42\\42_5.mp3", 
+        "sound_mark": "['pitəns]", 
+        "chinese": "n. 少量，少量津贴", 
+        "english": "pittance"
+    }, 
+    {
+        "sound": "431\\42\\42_6.mp3", 
+        "sound_mark": "['plækɑ:d, -əd]", 
+        "chinese": "n. 海报，标语牌；招贴vt. 公布；张贴，悬挂；张贴公告于vi. 张贴公告", 
+        "english": "placard"
+    }, 
+    {
+        "sound": "431\\42\\42_7.mp3", 
+        "sound_mark": "['pleintif]", 
+        "chinese": "n. 原告", 
+        "english": "plaintiff"
+    }, 
+    {
+        "sound": "431\\42\\42_8.mp3", 
+        "sound_mark": "['plætitju:d]", 
+        "chinese": "n. 陈词滥调，陈腐", 
+        "english": "platitude"
+    }, 
+    {
+        "sound": "431\\42\\42_9.mp3", 
+        "sound_mark": "['pleθərə]", 
+        "chinese": "n. 过量，多血症", 
+        "english": "plethora"
+    }, 
+    {
+        "sound": "431\\42\\42_10.mp3", 
+        "sound_mark": "[plait]", 
+        "chinese": "n. 困境，境况，誓约，艰难vt. 宣誓，保证，约定", 
+        "english": "plight"
+    }, 
+    {
+        "sound": "431\\42\\42_11.mp3", 
+        "sound_mark": "['pɔinənt]", 
+        "chinese": "adj. 悲伤的，痛切的，严厉的，尖锐的，剧烈的，浓烈的", 
+        "english": "poignant"
+    }, 
+    {
+        "sound": "431\\42\\42_12.mp3", 
+        "sound_mark": "['pɔndə]", 
+        "chinese": "v. 沉思，考虑", 
+        "english": "ponder"
+    }, 
+    {
+        "sound": "431\\42\\42_13.mp3", 
+        "sound_mark": "['pəutənteit]", 
+        "chinese": "n. 有权的人，有势力的人，统治者", 
+        "english": "potentate"
+    }, 
+    {
+        "sound": "431\\42\\42_14.mp3", 
+        "sound_mark": "[pə'tenʃəl]", 
+        "chinese": "adj. 可能的，潜在的n. 潜力，潜能n. 电位，电势", 
+        "english": "potential"
+    }, 
+    {
+        "sound": "431\\43\\43_0.mp3", 
+        "sound_mark": "[.pəu'puri:]", 
+        "chinese": "n. 混合香料(混合物，杂录)", 
+        "english": "potpourri"
+    }, 
+    {
+        "sound": "431\\43\\43_1.mp3", 
+        "sound_mark": "[præg'mætik]", 
+        "chinese": "adj. 实际的，实用主义的", 
+        "english": "pragmatic"
+    }, 
+    {
+        "sound": "431\\43\\43_2.mp3", 
+        "sound_mark": "['presidənt]", 
+        "chinese": "adj. 先前的n. 先例，惯例", 
+        "english": "precedent"
+    }, 
+    {
+        "sound": "431\\43\\43_3.mp3", 
+        "sound_mark": "[pri'sipiteit,pri'sipitit]", 
+        "chinese": "vt. 使 ... 陷入，促成，使 ... 沉淀，猛摔n. 沉淀物，冷凝物adj. 仓促的，迅猛的，感情用事的", 
+        "english": "precipitate"
+    }, 
+    {
+        "sound": "431\\43\\43_4.mp3", 
+        "sound_mark": "[pri'klu:d]", 
+        "chinese": "vt. 预防，排除", 
+        "english": "preclude"
+    }, 
+    {
+        "sound": "431\\43\\43_5.mp3", 
+        "sound_mark": "[pri'kəuʃəs]", 
+        "chinese": "adj. 早熟的", 
+        "english": "precocious"
+    }, 
+    {
+        "sound": "431\\43\\43_6.mp3", 
+        "sound_mark": "['prelju:d]", 
+        "chinese": "n. 序幕，前奏，预兆vi. 成为 ... 的前奏（开头）", 
+        "english": "prelude"
+    }, 
+    {
+        "sound": "431\\43\\43_7.mp3", 
+        "sound_mark": "['premis]", 
+        "chinese": "n. 前提vt. 提论，预述，假设\t\t\tn. 房屋和地基", 
+        "english": "premise"
+    }, 
+    {
+        "sound": "431\\43\\43_8.mp3", 
+        "sound_mark": "[.pri:mə'niʃən]", 
+        "chinese": "n. 预告，预感，征兆", 
+        "english": "premonition"
+    }, 
+    {
+        "sound": "431\\43\\43_9.mp3", 
+        "sound_mark": "[prep]", 
+        "chinese": "n. 预习；准备功课；预备vi. 上预备学校；作好准备vt. 使准备好；使（病人）准备接受手术abbr. 准备（preparation）；预备的（preparatory）；前置词（preposition）", 
+        "english": "prep"
+    }, 
+    {
+        "sound": "431\\43\\43_10.mp3", 
+        "sound_mark": "[pri'rɔgətiv]", 
+        "chinese": "n. 特权，显著的优点", 
+        "english": "prerogative"
+    }, 
+    {
+        "sound": "431\\43\\43_11.mp3", 
+        "sound_mark": "[pres'tidʒiəs]", 
+        "chinese": "adj. 享有声望的，声望很高的", 
+        "english": "prestigious"
+    }, 
+    {
+        "sound": "431\\43\\43_12.mp3", 
+        "sound_mark": "['pri:tekst]", 
+        "chinese": "n. 借口", 
+        "english": "pretext"
+    }, 
+    {
+        "sound": "431\\43\\43_13.mp3", 
+        "sound_mark": "['prevələnt]", 
+        "chinese": "adj. 流行的，普遍的", 
+        "english": "prevalent"
+    }, 
+    {
+        "sound": "431\\43\\43_14.mp3", 
+        "sound_mark": "[pri-,væri'keiʃən]", 
+        "chinese": "n. 搪塞；支吾", 
+        "english": "prevarication"
+    }, 
+    {
+        "sound": "431\\44\\44_0.mp3", 
+        "sound_mark": "[prai'veiʃən]", 
+        "chinese": "n. 丧失，贫困，匮乏", 
+        "english": "privation"
+    }, 
+    {
+        "sound": "431\\44\\44_1.mp3", 
+        "sound_mark": "[prəu'kræstineit]", 
+        "chinese": "v. 延迟，迁延，耽搁", 
+        "english": "procrastinate"
+    }, 
+    {
+        "sound": "431\\44\\44_2.mp3", 
+        "sound_mark": "[prə'didʒəs]", 
+        "chinese": "adj. 巨大的，惊人的，奇异的", 
+        "english": "prodigious"
+    }, 
+    {
+        "sound": "431\\44\\44_3.mp3", 
+        "sound_mark": "['prɔdidʒi]", 
+        "chinese": "n. 惊人的事物，奇迹，神童，天才，预兆", 
+        "english": "prodigy"
+    }, 
+    {
+        "sound": "431\\44\\44_4.mp3", 
+        "sound_mark": "['prɔfə]", 
+        "chinese": "v. 提供n. 提供，提出，提供物", 
+        "english": "proffer"
+    }, 
+    {
+        "sound": "431\\44\\44_5.mp3", 
+        "sound_mark": "['prɔfligit]", 
+        "chinese": "adj. 放荡的，不检点的，浪费的n. 放荡者，享乐者", 
+        "english": "profligate"
+    }, 
+    {
+        "sound": "431\\44\\44_6.mp3", 
+        "sound_mark": "[prə'faund]", 
+        "chinese": "adj. 深奥的，深邃的，意义深远的", 
+        "english": "profound"
+    }, 
+    {
+        "sound": "431\\44\\44_7.mp3", 
+        "sound_mark": "[prə'fju:s]", 
+        "chinese": "adj. 很多的，丰富的，浪费的", 
+        "english": "profuse"
+    }, 
+    {
+        "sound": "431\\44\\44_8.mp3", 
+        "sound_mark": "['prɔdʒini]", 
+        "chinese": "n. 子孙，结果", 
+        "english": "progeny"
+    }, 
+    {
+        "sound": "431\\44\\44_9.mp3", 
+        "sound_mark": "[prɔg'nɔstikeit]", 
+        "chinese": "vt. 预知，预言，预测", 
+        "english": "prognosticate"
+    }, 
+    {
+        "sound": "431\\44\\44_10.mp3", 
+        "sound_mark": "[prə'lifik]", 
+        "chinese": "adj. 多产的，作品丰富的", 
+        "english": "prolific"
+    }, 
+    {
+        "sound": "431\\44\\44_11.mp3", 
+        "sound_mark": "[prə'mʌlgeit]", 
+        "chinese": "vt. 发布，公布，发表", 
+        "english": "promulgate"
+    }, 
+    {
+        "sound": "431\\44\\44_12.mp3", 
+        "sound_mark": "['prɔpəgeit]", 
+        "chinese": "v. 繁殖，扩增，传播，传送", 
+        "english": "propagate"
+    }, 
+    {
+        "sound": "431\\44\\44_13.mp3", 
+        "sound_mark": "[prə'pensiti]", 
+        "chinese": "n. 倾向，习性", 
+        "english": "propensity"
+    }, 
+    {
+        "sound": "431\\44\\44_14.mp3", 
+        "sound_mark": "[prə'piŋkwiti]", 
+        "chinese": "n. 邻近，亲近，接近，相似性", 
+        "english": "propinquity"
+    }, 
+    {
+        "sound": "431\\45\\45_0.mp3", 
+        "sound_mark": "[prə'piʃəs]", 
+        "chinese": "adj. 顺利的，适合的，吉祥的", 
+        "english": "propitious"
+    }, 
+    {
+        "sound": "431\\45\\45_1.mp3", 
+        "sound_mark": "[prə'praiəti]", 
+        "chinese": "n. 适当，正当，得体(复数）proprieties:礼节，礼仪本性，特性", 
+        "english": "propriety"
+    }, 
+    {
+        "sound": "431\\45\\45_2.mp3", 
+        "sound_mark": "[prɔk'simiti]", 
+        "chinese": "n. 接近，亲近", 
+        "english": "proximity"
+    }, 
+    {
+        "sound": "431\\45\\45_3.mp3", 
+        "sound_mark": "['pru:dənt]", 
+        "chinese": "adj. 谨慎的，有远见的，精打细算的", 
+        "english": "prudent"
+    }, 
+    {
+        "sound": "431\\45\\45_4.mp3", 
+        "sound_mark": "[pʌg'neiʃəs]", 
+        "chinese": "adj. 好斗的", 
+        "english": "pugnacious"
+    }, 
+    {
+        "sound": "431\\45\\45_5.mp3", 
+        "sound_mark": "['pju:isnt]", 
+        "chinese": "adj. 强有力的，强盛的，有权力的", 
+        "english": "puissant"
+    }, 
+    {
+        "sound": "431\\45\\45_6.mp3", 
+        "sound_mark": "['pʌndʒənt]", 
+        "chinese": "adj. 刺鼻的，辛辣的，尖锐的，刻薄的", 
+        "english": "pungent"
+    }, 
+    {
+        "sound": "431\\45\\45_7.mp3", 
+        "sound_mark": "['pju:ni]", 
+        "chinese": "adj. 微小的，不足取的，瘦弱的", 
+        "english": "puny"
+    }, 
+    {
+        "sound": "431\\45\\45_8.mp3", 
+        "sound_mark": "[kwɔ:m]", 
+        "chinese": "n. 疑惧，紧张不安", 
+        "english": "qualm"
+    }, 
+    {
+        "sound": "431\\45\\45_9.mp3", 
+        "sound_mark": "['kwɔndəri]", 
+        "chinese": "n. 困惑，迷惑，为难", 
+        "english": "quandary"
+    }, 
+    {
+        "sound": "431\\45\\45_10.mp3", 
+        "sound_mark": "['kwɔri]", 
+        "chinese": "n. 采石场，猎获物，出处，被追逐的目标v. 挖出，苦心找出", 
+        "english": "quarry"
+    }, 
+    {
+        "sound": "431\\45\\45_11.mp3", 
+        "sound_mark": "[kwel]", 
+        "chinese": "v. 压制，平息，镇定", 
+        "english": "quell"
+    }, 
+    {
+        "sound": "431\\45\\45_12.mp3", 
+        "sound_mark": "[kwip]", 
+        "chinese": "v. 说俏皮话，托辞n. 妙语，讽刺", 
+        "english": "quip"
+    }, 
+    {
+        "sound": "431\\45\\45_13.mp3", 
+        "sound_mark": "['ræbid]", 
+        "chinese": "adj. 猛烈的，热烈的，急进的adj. 患狂犬病的", 
+        "english": "rabid"
+    }, 
+    {
+        "sound": "431\\45\\45_14.mp3", 
+        "sound_mark": "[.rækɔn'tə:]", 
+        "chinese": "n. 善于讲故事的人", 
+        "english": "raconteur"
+    }, 
+    {
+        "sound": "431\\46\\46_0.mp3", 
+        "sound_mark": "[reil]", 
+        "chinese": "n. 栏杆，铁轨，扶手v. 以横木围栏，铺铁轨，责骂，抱怨", 
+        "english": "rail"
+    }, 
+    {
+        "sound": "431\\46\\46_1.mp3", 
+        "sound_mark": "['reimənt]", 
+        "chinese": "n. 衣服", 
+        "english": "raiment"
+    }, 
+    {
+        "sound": "431\\46\\46_2.mp3", 
+        "sound_mark": "['ræmpənt]", 
+        "chinese": "adj. 猖獗的，蔓延的，奔放的", 
+        "english": "rampant"
+    }, 
+    {
+        "sound": "431\\46\\46_3.mp3", 
+        "sound_mark": "[ræʃ]", 
+        "chinese": "adj. 鲁莽的n. 疹子，大量", 
+        "english": "rash"
+    }, 
+    {
+        "sound": "431\\46\\46_4.mp3", 
+        "sound_mark": "['ræʃənəlaiz]", 
+        "chinese": "vt. 使合理化，合理地说明，[数]给 ... 消根", 
+        "english": "rationalize"
+    }, 
+    {
+        "sound": "431\\46\\46_5.mp3", 
+        "sound_mark": "['rɔ:kəs]", 
+        "chinese": "adj. 沙声的，粗声的，刺耳的", 
+        "english": "raucous"
+    }, 
+    {
+        "sound": "431\\46\\46_6.mp3", 
+        "sound_mark": "[reiz]", 
+        "chinese": "vt. 摧毁，消除，抹去", 
+        "english": "raze"
+    }, 
+    {
+        "sound": "431\\46\\46_7.mp3", 
+        "sound_mark": "[relm]", 
+        "chinese": "n. 王国，领域", 
+        "english": "realm"
+    }, 
+    {
+        "sound": "431\\46\\46_8.mp3", 
+        "sound_mark": "[ri'bju:k]", 
+        "chinese": "v. 斥责，指责，阻止n. 指责，谴责，非难", 
+        "english": "rebuke"
+    }, 
+    {
+        "sound": "431\\46\\46_9.mp3", 
+        "sound_mark": "[ri'kænt]", 
+        "chinese": "vt. 放弃主张，撤销vi. 公开认错", 
+        "english": "recant"
+    }, 
+    {
+        "sound": "431\\46\\46_10.mp3", 
+        "sound_mark": "[ri'kɔil]", 
+        "chinese": "n. 畏缩，弹回，后座力，反作用v. 退却，畏缩，弹回，报应", 
+        "english": "recoil"
+    }, 
+    {
+        "sound": "431\\46\\46_11.mp3", 
+        "sound_mark": "['rekəndait]", 
+        "chinese": "adj. 深奥的，难解的，隐藏的", 
+        "english": "recondite"
+    }, 
+    {
+        "sound": "431\\46\\46_12.mp3", 
+        "sound_mark": "['redəulənt]", 
+        "chinese": "adj. 有 ... 香味的，令人想起 ... 的", 
+        "english": "redolent"
+    }, 
+    {
+        "sound": "431\\46\\46_13.mp3", 
+        "sound_mark": "[ri'dres]", 
+        "chinese": "n. 赔偿，救济，矫正，缓解vt. 纠正，赔偿，革除，惩罚vt. 报答，恢复", 
+        "english": "redress"
+    }, 
+    {
+        "sound": "431\\46\\46_14.mp3", 
+        "sound_mark": "[ri'fju:t]", 
+        "chinese": "vt. 驳斥，反驳，证明", 
+        "english": "refute"
+    }, 
+    {
+        "sound": "431\\47\\47_0.mp3", 
+        "sound_mark": "['religeit]", 
+        "chinese": "v. 使降级，流放 ，移交，委任", 
+        "english": "relegate"
+    }, 
+    {
+        "sound": "431\\47\\47_1.mp3", 
+        "sound_mark": "[ri'mis]", 
+        "chinese": "adj. 疏忽的，不留心的，怠慢的", 
+        "english": "remiss"
+    }, 
+    {
+        "sound": "431\\47\\47_2.mp3", 
+        "sound_mark": "[ri'məut]", 
+        "chinese": "adj. 偏僻的，遥远的，远程的，(感情等)距离很大n. 远程操作", 
+        "english": "remote"
+    }, 
+    {
+        "sound": "431\\47\\47_3.mp3", 
+        "sound_mark": "[ri.mju:nə'reiʃən]", 
+        "chinese": "n. 报酬，赔偿，补偿", 
+        "english": "remuneration"
+    }, 
+    {
+        "sound": "431\\47\\47_4.mp3", 
+        "sound_mark": "[ri'pent]", 
+        "chinese": "v. 后悔，悔悟", 
+        "english": "repent"
+    }, 
+    {
+        "sound": "431\\47\\47_5.mp3", 
+        "sound_mark": "['repətwɑ:]", 
+        "chinese": "n. (准备好演出的)节目，保留剧目，(计算机的)指令表，指令系统，(某个人的)全部技能，清单，指令表", 
+        "english": "repertoire"
+    }, 
+    {
+        "sound": "431\\47\\47_6.mp3", 
+        "sound_mark": "[ri'pleniʃ]", 
+        "chinese": "vt. 补充，再装满vi. 补充", 
+        "english": "replenish"
+    }, 
+    {
+        "sound": "431\\47\\47_7.mp3", 
+        "sound_mark": "[ri'pli:t]", 
+        "chinese": "adj. 饱满的，塞满的", 
+        "english": "replete"
+    }, 
+    {
+        "sound": "431\\47\\47_8.mp3", 
+        "sound_mark": "[ri'pəuz]", 
+        "chinese": "n. 休息，睡眠，安静v. （使）休息，（使）依靠", 
+        "english": "repose"
+    }, 
+    {
+        "sound": "431\\47\\47_9.mp3", 
+        "sound_mark": "[.repri'hensəbl]", 
+        "chinese": "adj. 应受责难的", 
+        "english": "reprehensible"
+    }, 
+    {
+        "sound": "431\\47\\47_10.mp3", 
+        "sound_mark": "[ri'pres]", 
+        "chinese": "v. 抑制，镇压，压制", 
+        "english": "repress"
+    }, 
+    {
+        "sound": "431\\47\\47_11.mp3", 
+        "sound_mark": "['repri.mænd]", 
+        "chinese": "v. & n. 训诫，谴责vt. 责难n. 申诉", 
+        "english": "reprimand"
+    }, 
+    {
+        "sound": "431\\47\\47_12.mp3", 
+        "sound_mark": "[ri'prəutʃ]", 
+        "chinese": "n. 责备，耻辱v. 责备，申斥", 
+        "english": "reproach"
+    }, 
+    {
+        "sound": "431\\47\\47_13.mp3", 
+        "sound_mark": "[ri'pju:dieit]", 
+        "chinese": "v. 拒绝，拒付，拒绝履行", 
+        "english": "repudiate"
+    }, 
+    {
+        "sound": "431\\47\\47_14.mp3", 
+        "sound_mark": "[ri'pʌgnənt]", 
+        "chinese": "adj. 令人厌恶的，讨厌的，不一致的", 
+        "english": "repugnant"
+    }, 
+    {
+        "sound": "431\\48\\48_0.mp3", 
+        "sound_mark": "[ri'pʌls]", 
+        "chinese": "n. 击退，拒绝vt. 逐退，击退，拒绝", 
+        "english": "repulse"
+    }, 
+    {
+        "sound": "431\\48\\48_1.mp3", 
+        "sound_mark": "[ri'pju:tid]", 
+        "chinese": "adj. 名誉好的，驰名的，有名气的动词repute的过去式和过去分词", 
+        "english": "reputed"
+    }, 
+    {
+        "sound": "431\\48\\48_2.mp3", 
+        "sound_mark": "['rekwizit]", 
+        "chinese": "adj. 必要的，需要的n. 必需品", 
+        "english": "requisite"
+    }, 
+    {
+        "sound": "431\\48\\48_3.mp3", 
+        "sound_mark": "[ri'sɔ:sfəl]", 
+        "chinese": "adj. 资源丰富的，足智多谋的", 
+        "english": "resourceful"
+    }, 
+    {
+        "sound": "431\\48\\48_4.mp3", 
+        "sound_mark": "['respit]", 
+        "chinese": "n. 暂缓，缓刑vt. 延迟，推延", 
+        "english": "respite"
+    }, 
+    {
+        "sound": "431\\48\\48_5.mp3", 
+        "sound_mark": "[ris'triktiv]", 
+        "chinese": "adj. 限制的，拘束的，限定的n. 限定辞", 
+        "english": "restrictive"
+    }, 
+    {
+        "sound": "431\\48\\48_6.mp3", 
+        "sound_mark": "['retisənt]", 
+        "chinese": "adj. 无言的，沉默的，谨慎的", 
+        "english": "reticent"
+    }, 
+    {
+        "sound": "431\\48\\48_7.mp3", 
+        "sound_mark": "[ri'tɔ:t]", 
+        "chinese": "v. 反驳，回嘴，反击n. 反驳，顶嘴\t\t\tn. 蒸馏器", 
+        "english": "retort"
+    }, 
+    {
+        "sound": "431\\48\\48_8.mp3", 
+        "sound_mark": "['retrəu.spekt]", 
+        "chinese": "n. 回顾，追溯v. 回顾，回想，追溯\t\t\tn.对症,参照adj. =retrospective 回顾过去的", 
+        "english": "retrospect"
+    }, 
+    {
+        "sound": "431\\48\\48_9.mp3", 
+        "sound_mark": "[ri'və:bəreit]", 
+        "chinese": "v. 回响，反响，反射", 
+        "english": "reverberate"
+    }, 
+    {
+        "sound": "431\\48\\48_10.mp3", 
+        "sound_mark": "[ri'viə]", 
+        "chinese": "v. 尊敬，敬畏，崇敬里维尔(美国马萨诸塞州城市，避暑胜地)", 
+        "english": "revere"
+    }, 
+    {
+        "sound": "431\\48\\48_11.mp3", 
+        "sound_mark": "[ri'və:t]", 
+        "chinese": "vi. 恢复，复归，回到", 
+        "english": "revert"
+    }, 
+    {
+        "sound": "431\\48\\48_12.mp3", 
+        "sound_mark": "[ri'vail]", 
+        "chinese": "v. 辱骂，斥责", 
+        "english": "revile"
+    }, 
+    {
+        "sound": "431\\48\\48_13.mp3", 
+        "sound_mark": "['retərik]", 
+        "chinese": "n. 修辞，华丽虚饰的语言，修辞学", 
+        "english": "rhetoric"
+    }, 
+    {
+        "sound": "431\\48\\48_14.mp3", 
+        "sound_mark": "[raif]", 
+        "chinese": "adj. 流行的，盛传的，非常多的", 
+        "english": "rife"
+    }, 
+    {
+        "sound": "431\\49\\49_0.mp3", 
+        "sound_mark": "[rift]", 
+        "chinese": "n. 裂口，隙缝，切口v. 裂开，割开，渗入", 
+        "english": "rift"
+    }, 
+    {
+        "sound": "431\\49\\49_1.mp3", 
+        "sound_mark": "[rɔmp]", 
+        "chinese": "n. 好玩的游戏，欢闹，顽皮嬉闹的人n. 轻易取得的胜利vi. 嬉闹玩笑，欢快地迅速奔跑vi. 轻易地取得胜利", 
+        "english": "romp"
+    }, 
+    {
+        "sound": "431\\49\\49_2.mp3", 
+        "sound_mark": "['rɔstə]", 
+        "chinese": "n. 值勤表，花名册", 
+        "english": "roster"
+    }, 
+    {
+        "sound": "431\\49\\49_3.mp3", 
+        "sound_mark": "[ru:də'mentəri]", 
+        "chinese": "adj. 基本的，初步的", 
+        "english": "rudimentary"
+    }, 
+    {
+        "sound": "431\\49\\49_4.mp3", 
+        "sound_mark": "[ru:]", 
+        "chinese": "n. 懊悔，芸香，后悔v. 后悔，悲伤，懊悔", 
+        "english": "rue"
+    }, 
+    {
+        "sound": "431\\49\\49_5.mp3", 
+        "sound_mark": "['ru:mineit]", 
+        "chinese": "v. 深思，沉思，反刍", 
+        "english": "ruminate"
+    }, 
+    {
+        "sound": "431\\49\\49_6.mp3", 
+        "sound_mark": "['rʌstik]", 
+        "chinese": "n. 乡下人，村夫，农民adj. 乡村的，纯朴的，手工粗糙的", 
+        "english": "rustic"
+    }, 
+    {
+        "sound": "431\\49\\49_7.mp3", 
+        "sound_mark": "['sɑ:gə]", 
+        "chinese": "n. 传说，英雄事迹，冒险故事", 
+        "english": "saga"
+    }, 
+    {
+        "sound": "431\\49\\49_8.mp3", 
+        "sound_mark": "[seidʒ]", 
+        "chinese": "n. 圣人，哲人n. 鼠尾草，蒿属植物adj. 贤明的，明智的", 
+        "english": "sage"
+    }, 
+    {
+        "sound": "431\\49\\49_9.mp3", 
+        "sound_mark": "['seiljənt]", 
+        "chinese": "adj. 突出的，显著的n. 突出部分", 
+        "english": "salient"
+    }, 
+    {
+        "sound": "431\\49\\49_10.mp3", 
+        "sound_mark": "['sæli]", 
+        "chinese": "n. 出击；突围；（感情等）迸发；俏皮话；远足vi. 突围；出发", 
+        "english": "sally"
+    }, 
+    {
+        "sound": "431\\49\\49_11.mp3", 
+        "sound_mark": "[sə'lu:briəs]", 
+        "chinese": "adj. 有益健康的", 
+        "english": "salubrious"
+    }, 
+    {
+        "sound": "431\\49\\49_12.mp3", 
+        "sound_mark": "[sæl'veiʃən]", 
+        "chinese": "n. 得救，拯救，赎罪", 
+        "english": "salvation"
+    }, 
+    {
+        "sound": "431\\49\\49_13.mp3", 
+        "sound_mark": "[.sæŋkti'məuniəs]", 
+        "chinese": "adj. 伪装虔诚的", 
+        "english": "sanctimonious"
+    }, 
+    {
+        "sound": "431\\49\\49_14.mp3", 
+        "sound_mark": "['sæŋkʃən]", 
+        "chinese": "n. 批准，处罚，约束力vt. 批准，支持", 
+        "english": "sanction"
+    }, 
+    {
+        "sound": "431\\50\\50_0.mp3", 
+        "sound_mark": "['sæŋgwin]", 
+        "chinese": "adj. 乐天的，自信的，红润的n. 血红色", 
+        "english": "sanguine"
+    }, 
+    {
+        "sound": "431\\50\\50_1.mp3", 
+        "sound_mark": "[sə'taiəti]", 
+        "chinese": "n. 饱足，满足", 
+        "english": "satiety"
+    }, 
+    {
+        "sound": "431\\50\\50_2.mp3", 
+        "sound_mark": "['sætʃəreit]", 
+        "chinese": "v. 使渗透，浸，使饱和adj. 浸透的，饱度高的，深颜色的", 
+        "english": "saturate"
+    }, 
+    {
+        "sound": "431\\50\\50_3.mp3", 
+        "sound_mark": "['sizəm]", 
+        "chinese": "n. 分歧，分裂，分立，分派（教会）", 
+        "english": "schism"
+    }, 
+    {
+        "sound": "431\\50\\50_4.mp3", 
+        "sound_mark": "['saiən]", 
+        "chinese": "n. 后裔，接穗", 
+        "english": "scion"
+    }, 
+    {
+        "sound": "431\\50\\50_5.mp3", 
+        "sound_mark": "[skɔ:f,skɔf]", 
+        "chinese": "n. 嘲笑，笑柄，愚弄v. 嘲笑，嘲弄，愚弄，狼吞虎咽", 
+        "english": "scoff"
+    }, 
+    {
+        "sound": "431\\50\\50_6.mp3", 
+        "sound_mark": "['skru:tinaiz]", 
+        "chinese": "n. 详细检查，细读v. 仔细检查vt. 细察", 
+        "english": "scrutinize"
+    }, 
+    {
+        "sound": "431\\50\\50_7.mp3", 
+        "sound_mark": "['skʌriləs]", 
+        "chinese": "adj. 说话粗鄙恶劣的，嘴损的，下流的，恶言诽谤的", 
+        "english": "scurrilous"
+    }, 
+    {
+        "sound": "431\\50\\50_8.mp3", 
+        "sound_mark": "['skə:ri]", 
+        "chinese": "vi. 疾走n. 快跑", 
+        "english": "scurry"
+    }, 
+    {
+        "sound": "431\\50\\50_9.mp3", 
+        "sound_mark": "[si'deit]", 
+        "chinese": "adj. 安静的，镇静的vt. 使安静，使镇静", 
+        "english": "sedate"
+    }, 
+    {
+        "sound": "431\\50\\50_10.mp3", 
+        "sound_mark": "['sednteri]", 
+        "chinese": "adj. 久坐的，固定不动的", 
+        "english": "sedentary"
+    }, 
+    {
+        "sound": "431\\50\\50_11.mp3", 
+        "sound_mark": "['si:nail]", 
+        "chinese": "adj. 年老的，衰老的，年老所致的", 
+        "english": "senile"
+    }, 
+    {
+        "sound": "431\\50\\50_12.mp3", 
+        "sound_mark": "[si'reniti]", 
+        "chinese": "n. 宁静，沉着", 
+        "english": "serenity"
+    }, 
+    {
+        "sound": "431\\50\\50_13.mp3", 
+        "sound_mark": "['sə:vail]", 
+        "chinese": "adj. 卑屈的，奴隶的", 
+        "english": "servile"
+    }, 
+    {
+        "sound": "431\\50\\50_14.mp3", 
+        "sound_mark": "['ʃibəleθ]", 
+        "chinese": "n. 口令，陈腔滥调，术语", 
+        "english": "shibboleth"
+    }, 
+    {
+        "sound": "431\\51\\51_0.mp3", 
+        "sound_mark": "['sainikjuə]", 
+        "chinese": "n. 挂名职务，闲差事n.  领干薪的牧师职位", 
+        "english": "sinecure"
+    }, 
+    {
+        "sound": "431\\51\\51_1.mp3", 
+        "sound_mark": "['siŋgjulə]", 
+        "chinese": "adj. 个人的，单数的，独一的，唯一的，非凡的n. 单数", 
+        "english": "singular"
+    }, 
+    {
+        "sound": "431\\51\\51_2.mp3", 
+        "sound_mark": "['sinistə]", 
+        "chinese": "adj. 邪恶的，不祥的，灾难性的，左边的adj. 不幸的，欺骗的", 
+        "english": "sinister"
+    }, 
+    {
+        "sound": "431\\51\\51_3.mp3", 
+        "sound_mark": "[sait]", 
+        "chinese": "n. 位置，现场vt. 使 ... 位于", 
+        "english": "site"
+    }, 
+    {
+        "sound": "431\\51\\51_4.mp3", 
+        "sound_mark": "['skə:miʃ]", 
+        "chinese": "n. 前哨战，小争斗，小冲突vi. 参与小争斗", 
+        "english": "skirmish"
+    }, 
+    {
+        "sound": "431\\51\\51_5.mp3", 
+        "sound_mark": "['slʌvənli:]", 
+        "chinese": "adj. 不修边幅的，邋遢的adv. 不修边幅地，邋遢地", 
+        "english": "slovenly"
+    }, 
+    {
+        "sound": "431\\51\\51_6.mp3", 
+        "sound_mark": "[səu'dʒə:n]", 
+        "chinese": "n. 旅居，逗留vi. 旅居，逗留", 
+        "english": "sojourn"
+    }, 
+    {
+        "sound": "431\\51\\51_7.mp3", 
+        "sound_mark": "['sɔləs]", 
+        "chinese": "n. 安慰，慰藉v. 使快乐，使安慰，使缓和", 
+        "english": "solace"
+    }, 
+    {
+        "sound": "431\\51\\51_8.mp3", 
+        "sound_mark": "[sə'lisit]", 
+        "chinese": "vt. 勾引，乞求，设法获得某事物vi. (妓女)拉客", 
+        "english": "solicit"
+    }, 
+    {
+        "sound": "431\\51\\51_9.mp3", 
+        "sound_mark": "['sɔmbə]", 
+        "chinese": "adj. 微暗的，阴天的，阴森的，忧郁的，严肃的，严峻的", 
+        "english": "somber"
+    }, 
+    {
+        "sound": "431\\51\\51_10.mp3", 
+        "sound_mark": "['sɔfistri]", 
+        "chinese": "n. 诡辩", 
+        "english": "sophistry"
+    }, 
+    {
+        "sound": "431\\51\\51_11.mp3", 
+        "sound_mark": "['sɔ:did]", 
+        "chinese": "adj. 肮脏的，破烂的，利欲薰心的，色彩暗淡的", 
+        "english": "sordid"
+    }, 
+    {
+        "sound": "431\\51\\51_12.mp3", 
+        "sound_mark": "[speit]", 
+        "chinese": "n. 泛滥，洪水，突然的一阵", 
+        "english": "spate"
+    }, 
+    {
+        "sound": "431\\51\\51_13.mp3", 
+        "sound_mark": "[spju:]", 
+        "chinese": "v. (使)喷出，涌出，呕吐，吐出vt. 喷出", 
+        "english": "spew"
+    }, 
+    {
+        "sound": "431\\51\\51_14.mp3", 
+        "sound_mark": "[spɔn'teiniəs]", 
+        "chinese": "adj. 自发的，自然产生的", 
+        "english": "spontaneous"
+    }, 
+    {
+        "sound": "431\\52\\52_0.mp3", 
+        "sound_mark": "[spə'rædik]", 
+        "chinese": "adj. 不定时发生的，零星的", 
+        "english": "sporadic"
+    }, 
+    {
+        "sound": "431\\52\\52_1.mp3", 
+        "sound_mark": "['spjuəriəs]", 
+        "chinese": "adj. 假的，伪造的", 
+        "english": "spurious"
+    }, 
+    {
+        "sound": "431\\52\\52_2.mp3", 
+        "sound_mark": "['skwi:miʃ]", 
+        "chinese": "adj. 恶心的，吹毛求疵的", 
+        "english": "squeamish"
+    }, 
+    {
+        "sound": "431\\52\\52_3.mp3", 
+        "sound_mark": "['stægnənt]", 
+        "chinese": "adj. 不流动的，不景气的", 
+        "english": "stagnant"
+    }, 
+    {
+        "sound": "431\\52\\52_4.mp3", 
+        "sound_mark": "[stɔ:ntʃ]", 
+        "chinese": "vt. 止住，止血adj. 坚固的，坚强的，忠实可信的，不漏水的=stanch", 
+        "english": "staunch"
+    }, 
+    {
+        "sound": "431\\52\\52_5.mp3", 
+        "sound_mark": "[sti:p]", 
+        "chinese": "adj. 陡峭的，险峻的，（价格）过高的n. 陡坡\t\t\tn. 浸泡，浸泡液v. 浸泡，沉浸", 
+        "english": "steep"
+    }, 
+    {
+        "sound": "431\\52\\52_6.mp3", 
+        "sound_mark": "[sten'tɔ:riən]", 
+        "chinese": "adj. 极洪亮的，非常响亮的", 
+        "english": "stentorian"
+    }, 
+    {
+        "sound": "431\\52\\52_7.mp3", 
+        "sound_mark": "['steriətaip]", 
+        "chinese": "n. 铅版，陈腔滥调，老一套vt. 使用铅版，套用老套", 
+        "english": "stereotype"
+    }, 
+    {
+        "sound": "431\\52\\52_8.mp3", 
+        "sound_mark": "['stigmətaiz]", 
+        "chinese": "vt. 污蔑，使蒙上污名vt.  打上烙印", 
+        "english": "stigmatize"
+    }, 
+    {
+        "sound": "431\\52\\52_9.mp3", 
+        "sound_mark": "['stipjuleit]", 
+        "chinese": "v. 规定，保证adj. 有明文规定的", 
+        "english": "stipulate"
+    }, 
+    {
+        "sound": "431\\52\\52_10.mp3", 
+        "sound_mark": "['straidnt]", 
+        "chinese": "adj. 刺耳的，吱吱尖叫的，尖锐的", 
+        "english": "strident"
+    }, 
+    {
+        "sound": "431\\52\\52_11.mp3", 
+        "sound_mark": "[straif]", 
+        "chinese": "n. 争吵，冲突，倾轧，竞争\t\t\tn. 奋斗，努力", 
+        "english": "strife"
+    }, 
+    {
+        "sound": "431\\52\\52_12.mp3", 
+        "sound_mark": "['stʌntid]", 
+        "chinese": "adj. 成长受妨碍的；发育不良的；长得矮小的v. 阻碍…发展（stunt的过去式及过去分词形式）", 
+        "english": "stunted"
+    }, 
+    {
+        "sound": "431\\52\\52_13.mp3", 
+        "sound_mark": "['stju:pə]", 
+        "chinese": "n. 昏迷，麻木，不省人事", 
+        "english": "stupor"
+    }, 
+    {
+        "sound": "431\\52\\52_14.mp3", 
+        "sound_mark": "['staimi]", 
+        "chinese": "vt. 使 ... 处于困难境地，妨碍", 
+        "english": "stymie"
+    }, 
+    {
+        "sound": "431\\53\\53_0.mp3", 
+        "sound_mark": "['sʌbdʒugeit]", 
+        "chinese": "vt. 征服，使服从，抑制", 
+        "english": "subjugate"
+    }, 
+    {
+        "sound": "431\\53\\53_1.mp3", 
+        "sound_mark": "[səb'sə:viənt]", 
+        "chinese": "adj. 卑屈的，奉承的，次要的，从属的", 
+        "english": "subservient"
+    }, 
+    {
+        "sound": "431\\53\\53_2.mp3", 
+        "sound_mark": "[səb'stænʃieit]", 
+        "chinese": "v. 实体化，证实", 
+        "english": "substantiate"
+    }, 
+    {
+        "sound": "431\\53\\53_3.mp3", 
+        "sound_mark": "['sʌbtəfju:dʒ]", 
+        "chinese": "n. 遁辞，藉口，托辞", 
+        "english": "subterfuge"
+    }, 
+    {
+        "sound": "431\\53\\53_4.mp3", 
+        "sound_mark": "[.sʌbtə'reiniən]", 
+        "chinese": "adj. 地下的，隐蔽的", 
+        "english": "subterranean"
+    }, 
+    {
+        "sound": "431\\53\\53_5.mp3", 
+        "sound_mark": "[sək'siŋkt]", 
+        "chinese": "adj. 简洁的adj. [古]紧身的", 
+        "english": "succinct"
+    }, 
+    {
+        "sound": "431\\53\\53_6.mp3", 
+        "sound_mark": "['sʌkjulənt]", 
+        "chinese": "adj. 多汁的，肉质的，有趣味的n. 肉质植物", 
+        "english": "succulent"
+    }, 
+    {
+        "sound": "431\\53\\53_7.mp3", 
+        "sound_mark": "[sə'kʌm]", 
+        "chinese": "v. 屈从，死", 
+        "english": "succumb"
+    }, 
+    {
+        "sound": "431\\53\\53_8.mp3", 
+        "sound_mark": "['sʌlən]", 
+        "chinese": "adj. 愠怒的，闷闷不乐的，阴沉的", 
+        "english": "sullen"
+    }, 
+    {
+        "sound": "431\\53\\53_9.mp3", 
+        "sound_mark": "['sʌltri]", 
+        "chinese": "adj. 闷热的adj. 风骚的，淫荡的", 
+        "english": "sultry"
+    }, 
+    {
+        "sound": "431\\53\\53_10.mp3", 
+        "sound_mark": "['sʌmptjuəs]", 
+        "chinese": "adj. 华丽的，奢侈的", 
+        "english": "sumptuous"
+    }, 
+    {
+        "sound": "431\\53\\53_11.mp3", 
+        "sound_mark": "[sju:'pə:fluəs]", 
+        "chinese": "adj. 多余的，过剩的", 
+        "english": "superfluous"
+    }, 
+    {
+        "sound": "431\\53\\53_12.mp3", 
+        "sound_mark": "[su:'pain]", 
+        "chinese": "adj. 仰卧的，(手)掌心向上的，懒散的", 
+        "english": "supine"
+    }, 
+    {
+        "sound": "431\\53\\53_13.mp3", 
+        "sound_mark": "[,sʌpli'keiʃən]", 
+        "chinese": "n. 恳求；祈祷", 
+        "english": "supplication"
+    }, 
+    {
+        "sound": "431\\53\\53_14.mp3", 
+        "sound_mark": "['sə:fit]", 
+        "chinese": "n. 过食，过量v. 暴食，过分沉溺", 
+        "english": "surfeit"
+    }, 
+    {
+        "sound": "431\\54\\54_0.mp3", 
+        "sound_mark": "[sə:dʒ]", 
+        "chinese": "n. 汹涌，澎湃v. 汹涌，涌起，暴涨v. [海]放开，松手，船向某一方向摇晃", 
+        "english": "surge"
+    }, 
+    {
+        "sound": "431\\54\\54_1.mp3", 
+        "sound_mark": "[sə:'maiz]", 
+        "chinese": "n. 推测vt. 推测，臆测", 
+        "english": "surmise"
+    }, 
+    {
+        "sound": "431\\54\\54_2.mp3", 
+        "sound_mark": "[.sʌrəp'tiʃəs]", 
+        "chinese": "adj. 鬼鬼祟祟的，保密的", 
+        "english": "surreptitious"
+    }, 
+    {
+        "sound": "431\\54\\54_3.mp3", 
+        "sound_mark": "[sə'septəbl]", 
+        "chinese": "adj. 易受外界影响的，易受感染的", 
+        "english": "susceptible"
+    }, 
+    {
+        "sound": "431\\54\\54_4.mp3", 
+        "sound_mark": "[,simptə'mætik]", 
+        "chinese": "adj. 症候的；有症状的", 
+        "english": "symptomatic"
+    }, 
+    {
+        "sound": "431\\54\\54_5.mp3", 
+        "sound_mark": "[tə'bu:]", 
+        "chinese": "n. 禁忌，禁止接近，禁止使用adj. 禁忌的vt. 禁忌，禁制，禁止", 
+        "english": "taboo"
+    }, 
+    {
+        "sound": "431\\54\\54_6.mp3", 
+        "sound_mark": "['tæsit]", 
+        "chinese": "adj. 心照不宣的", 
+        "english": "tacit"
+    }, 
+    {
+        "sound": "431\\54\\54_7.mp3", 
+        "sound_mark": "[teint]", 
+        "chinese": "n. 污点，耻辱，感染v. 污染，中毒", 
+        "english": "taint"
+    }, 
+    {
+        "sound": "431\\54\\54_8.mp3", 
+        "sound_mark": "['tændʒəbl]", 
+        "chinese": "adj. 有形的，可触摸的，确凿的，实际的", 
+        "english": "tangible"
+    }, 
+    {
+        "sound": "431\\54\\54_9.mp3", 
+        "sound_mark": "['tæntɔlaiz]", 
+        "chinese": "vi. 逗惹，吊胃口，令人可望而不可及vt. 使着急", 
+        "english": "tantalize"
+    }, 
+    {
+        "sound": "431\\54\\54_10.mp3", 
+        "sound_mark": "['tæntəmaunt]", 
+        "chinese": "adj. 同等的，相等的，相当于", 
+        "english": "tantamount"
+    }, 
+    {
+        "sound": "431\\54\\54_11.mp3", 
+        "sound_mark": "[tɔ:t]", 
+        "chinese": "adj. 拉紧的，整洁的，紧张的", 
+        "english": "taut"
+    }, 
+    {
+        "sound": "431\\54\\54_12.mp3", 
+        "sound_mark": "[tek'nɔlədʒi]", 
+        "chinese": "n. 技术，工艺(学)", 
+        "english": "technology"
+    }, 
+    {
+        "sound": "431\\54\\54_13.mp3", 
+        "sound_mark": "[ti'meriti]", 
+        "chinese": "n. 鲁莽，大胆", 
+        "english": "temerity"
+    }, 
+    {
+        "sound": "431\\54\\54_14.mp3", 
+        "sound_mark": "['tenəbl]", 
+        "chinese": "adj. 站得住脚的，无懈可击的", 
+        "english": "tenable"
+    }, 
+    {
+        "sound": "431\\55\\55_0.mp3", 
+        "sound_mark": "[ti'neiʃəs]", 
+        "chinese": "adj. 紧粘不放的，固执的，不屈不挠的", 
+        "english": "tenacious"
+    }, 
+    {
+        "sound": "431\\55\\55_1.mp3", 
+        "sound_mark": "['tə:məɡənt]", 
+        "chinese": "adj. 暴躁的；凶悍的；好争吵的n. 泼妇；悍妇", 
+        "english": "termagant"
+    }, 
+    {
+        "sound": "431\\55\\55_2.mp3", 
+        "sound_mark": "['tə:mineit]", 
+        "chinese": "adj. 有结尾的，有限的vt. 结束，终止，满期vi. 达到终点", 
+        "english": "terminate"
+    }, 
+    {
+        "sound": "431\\55\\55_3.mp3", 
+        "sound_mark": "[tə:s]", 
+        "chinese": "adj. 简洁的，简明的", 
+        "english": "terse"
+    }, 
+    {
+        "sound": "431\\55\\55_4.mp3", 
+        "sound_mark": "['θerəpi]", 
+        "chinese": "n. 疗法，治疗", 
+        "english": "therapy"
+    }, 
+    {
+        "sound": "431\\55\\55_5.mp3", 
+        "sound_mark": "[θrɔ:ŋ]", 
+        "chinese": "n. 群众，一大群，大量adj. 拥挤的，忙的v. 群集，挤压，挤满", 
+        "english": "throng"
+    }, 
+    {
+        "sound": "431\\55\\55_6.mp3", 
+        "sound_mark": "[θwɔ:t]", 
+        "chinese": "adj. 横～v. 反对，阻碍adv. 横过", 
+        "english": "thwart"
+    }, 
+    {
+        "sound": "431\\55\\55_7.mp3", 
+        "sound_mark": "['timərəs]", 
+        "chinese": "adj. 胆怯的，羞怯的", 
+        "english": "timorous"
+    }, 
+    {
+        "sound": "431\\55\\55_8.mp3", 
+        "sound_mark": "[tindʒ]", 
+        "chinese": "n. 淡色，些微气味(常与with连用)vt. 微染", 
+        "english": "tinge"
+    }, 
+    {
+        "sound": "431\\55\\55_9.mp3", 
+        "sound_mark": "['tɔləreit]", 
+        "chinese": "vt. 容忍，忍受", 
+        "english": "tolerate"
+    }, 
+    {
+        "sound": "431\\55\\55_10.mp3", 
+        "sound_mark": "['tɔ:tjuəs]", 
+        "chinese": "adj. 弯曲的，曲折的，转弯抹角的", 
+        "english": "tortuous"
+    }, 
+    {
+        "sound": "431\\55\\55_11.mp3", 
+        "sound_mark": "[trə'diʃən]", 
+        "chinese": "n. 传统，惯例", 
+        "english": "tradition"
+    }, 
+    {
+        "sound": "431\\55\\55_12.mp3", 
+        "sound_mark": "['træŋkwil]", 
+        "chinese": "adj. 安静的，宁静的，稳定的，不变的", 
+        "english": "tranquil"
+    }, 
+    {
+        "sound": "431\\55\\55_13.mp3", 
+        "sound_mark": "['trænʃənt,'trænziənt]", 
+        "chinese": "adj. 短暂的n. 短期居留者，瞬间的变化", 
+        "english": "transient"
+    }, 
+    {
+        "sound": "431\\55\\55_14.mp3", 
+        "sound_mark": "['tremjuləs]", 
+        "chinese": "adj. 发抖的，战栗的，胆小的", 
+        "english": "tremulous"
+    }, 
+    {
+        "sound": "431\\56\\56_0.mp3", 
+        "sound_mark": "['trentʃənt]", 
+        "chinese": "adj. 锐利的，尖刻的，苛刻的，清晰的", 
+        "english": "trenchant"
+    }, 
+    {
+        "sound": "431\\56\\56_1.mp3", 
+        "sound_mark": "[trend]", 
+        "chinese": "n. 趋势，倾向，方位vi. 倾向，转向", 
+        "english": "trend"
+    }, 
+    {
+        "sound": "431\\56\\56_2.mp3", 
+        "sound_mark": "['triviəl]", 
+        "chinese": "adj. 琐碎的，不重要的", 
+        "english": "trivial"
+    }, 
+    {
+        "sound": "431\\56\\56_3.mp3", 
+        "sound_mark": "[trʌŋ'keitid, 'trʌŋk-]", 
+        "chinese": "adj. 缩短了的；被删节的；切去顶端的v. 截去…的顶端；缩短（truncate的过去分词）", 
+        "english": "truncated"
+    }, 
+    {
+        "sound": "431\\56\\56_4.mp3", 
+        "sound_mark": "['tə:bjulənt]", 
+        "chinese": "adj. 狂暴的，骚动的，动荡的，汹涌的", 
+        "english": "turbulent"
+    }, 
+    {
+        "sound": "431\\56\\56_5.mp3", 
+        "sound_mark": "['tə:pitju:d]", 
+        "chinese": "n. 奸恶，卑鄙，背德", 
+        "english": "turpitude"
+    }, 
+    {
+        "sound": "431\\56\\56_6.mp3", 
+        "sound_mark": "['tʌsl]", 
+        "chinese": "n. 扭打，斗争，论争vi. 扭打，打斗", 
+        "english": "tussle"
+    }, 
+    {
+        "sound": "431\\56\\56_7.mp3", 
+        "sound_mark": "['taiərəu]", 
+        "chinese": "n. 初学者，生手，新手=tiro", 
+        "english": "tyro"
+    }, 
+    {
+        "sound": "431\\56\\56_8.mp3", 
+        "sound_mark": "[ju:'bikwitəs]", 
+        "chinese": "adj. 到处存在的，遍在的", 
+        "english": "ubiquitous"
+    }, 
+    {
+        "sound": "431\\56\\56_9.mp3", 
+        "sound_mark": "['ʌltimit]", 
+        "chinese": "n. 终极，根本，精华adj. 终极的，根本的，极限的，最后的", 
+        "english": "ultimate"
+    }, 
+    {
+        "sound": "431\\56\\56_10.mp3", 
+        "sound_mark": "['ʌmbridʒ]", 
+        "chinese": "n. 阴影，不快，怀疑，怨恨", 
+        "english": "umbrage"
+    }, 
+    {
+        "sound": "431\\56\\56_11.mp3", 
+        "sound_mark": "['ʌnə'beitid]", 
+        "chinese": "adj. 不衰退的，不减弱的", 
+        "english": "unabated"
+    }, 
+    {
+        "sound": "431\\56\\56_12.mp3", 
+        "sound_mark": "[ʌn'kɔnʃənəbl]", 
+        "chinese": "adj. 不合理的，没有条理的，过度的", 
+        "english": "unconscionable"
+    }, 
+    {
+        "sound": "431\\56\\56_13.mp3", 
+        "sound_mark": "['ʌŋktʃuəs]", 
+        "chinese": "adj. 油腔滑调的，油的", 
+        "english": "unctuous"
+    }, 
+    {
+        "sound": "431\\56\\56_14.mp3", 
+        "sound_mark": "['ʌndə.rait]", 
+        "chinese": "vt. 写在 ... 下面，认购，保险vi. 从事保险业", 
+        "english": "underwrite"
+    }, 
+    {
+        "sound": "431\\57\\57_0.mp3", 
+        "sound_mark": "[.ju:ni'və:səl]", 
+        "chinese": "adj. 普遍的，通用的，宇宙的，全体的，全世界的n. 通用", 
+        "english": "universal"
+    }, 
+    {
+        "sound": "431\\57\\57_1.mp3", 
+        "sound_mark": "['ʌn'kempt]", 
+        "chinese": "adj. 乱蓬蓬的，不整洁的", 
+        "english": "unkempt"
+    }, 
+    {
+        "sound": "431\\57\\57_2.mp3", 
+        "sound_mark": "[ʌn'mitigeitid]", 
+        "chinese": "adj. 未缓和的，未减轻的，十足的，绝对的", 
+        "english": "unmitigated"
+    }, 
+    {
+        "sound": "431\\57\\57_3.mp3", 
+        "sound_mark": "[,ʌn'seivəri]", 
+        "chinese": "adj. 难吃的；没有香味的；令人讨厌的", 
+        "english": "unsavory"
+    }, 
+    {
+        "sound": "431\\57\\57_4.mp3", 
+        "sound_mark": "[ʌn'wi:ldi]", 
+        "chinese": "adj. 笨重的，笨拙的", 
+        "english": "unwieldy"
+    }, 
+    {
+        "sound": "431\\57\\57_5.mp3", 
+        "sound_mark": "[ə:'bein]", 
+        "chinese": "adj. 温文尔雅的，懂礼的", 
+        "english": "urbane"
+    }, 
+    {
+        "sound": "431\\57\\57_6.mp3", 
+        "sound_mark": "[ju'zə:p]", 
+        "chinese": "vt. 篡夺，霸占vi. 篡位", 
+        "english": "usurp"
+    }, 
+    {
+        "sound": "431\\57\\57_7.mp3", 
+        "sound_mark": "['væsileit]", 
+        "chinese": "vi. 游移不定，踌躇，犹豫", 
+        "english": "vacillate"
+    }, 
+    {
+        "sound": "431\\57\\57_8.mp3", 
+        "sound_mark": "['væpid]", 
+        "chinese": "adj. 索然无味的", 
+        "english": "vapid"
+    }, 
+    {
+        "sound": "431\\57\\57_9.mp3", 
+        "sound_mark": "[və'niə]", 
+        "chinese": "n. 薄木片，饰面，虚饰vt. 镶盖，胶合，粉饰", 
+        "english": "veneer"
+    }, 
+    {
+        "sound": "431\\57\\57_10.mp3", 
+        "sound_mark": "['venərəbl]", 
+        "chinese": "adj. 庄严的，值得尊敬的", 
+        "english": "venerable"
+    }, 
+    {
+        "sound": "431\\57\\57_11.mp3", 
+        "sound_mark": "['vi:njəl]", 
+        "chinese": "adj. 可原谅的，(错误等)轻微的", 
+        "english": "venial"
+    }, 
+    {
+        "sound": "431\\57\\57_12.mp3", 
+        "sound_mark": "['venəm]", 
+        "chinese": "n. 毒液，恶意", 
+        "english": "venom"
+    }, 
+    {
+        "sound": "431\\57\\57_13.mp3", 
+        "sound_mark": "['və:tigəu]", 
+        "chinese": "n. 眩晕", 
+        "english": "vertigo"
+    }, 
+    {
+        "sound": "431\\57\\57_14.mp3", 
+        "sound_mark": "['vestidʒ]", 
+        "chinese": "n. 遗迹，退化的器官", 
+        "english": "vestige"
+    }, 
+    {
+        "sound": "431\\58\\58_0.mp3", 
+        "sound_mark": "[vek'seiʃəs]", 
+        "chinese": "adj. 叫人发急的，为难的，苦恼的", 
+        "english": "vexatious"
+    }, 
+    {
+        "sound": "431\\58\\58_1.mp3", 
+        "sound_mark": "['vaiəbl]", 
+        "chinese": "adj. 能居住的的，能生存的，可行的", 
+        "english": "viable"
+    }, 
+    {
+        "sound": "431\\58\\58_2.mp3", 
+        "sound_mark": "['vidʒil]", 
+        "chinese": "n. 守夜，值夜，监视（复）vigils：（在宗教节日前的）祈祷", 
+        "english": "vigil"
+    }, 
+    {
+        "sound": "431\\58\\58_3.mp3", 
+        "sound_mark": "['vidʒilənt]", 
+        "chinese": "adj. 警醒的，警戒著的，警惕的", 
+        "english": "vigilant"
+    }, 
+    {
+        "sound": "431\\58\\58_4.mp3", 
+        "sound_mark": "['vilifai]", 
+        "chinese": "v. 诽谤，中伤", 
+        "english": "vilify"
+    }, 
+    {
+        "sound": "431\\58\\58_5.mp3", 
+        "sound_mark": "['vindikeit]", 
+        "chinese": "v. 辩护，证明 ... 正确，维护（权利等），报仇v. 使自由", 
+        "english": "vindicate"
+    }, 
+    {
+        "sound": "431\\58\\58_6.mp3", 
+        "sound_mark": "['virail]", 
+        "chinese": "adj. 男性的，有男子气概的，精力充沛的", 
+        "english": "virile"
+    }, 
+    {
+        "sound": "431\\58\\58_7.mp3", 
+        "sound_mark": "[.və:rtʃu'ɑ:səti]", 
+        "chinese": "n. 精湛技巧，高超，对艺术品的欣赏或爱好", 
+        "english": "virtuosity"
+    }, 
+    {
+        "sound": "431\\58\\58_8.mp3", 
+        "sound_mark": "['virələnt]", 
+        "chinese": "adj. 有毒的，有恶意的，充满敌意的", 
+        "english": "virulent"
+    }, 
+    {
+        "sound": "431\\58\\58_9.mp3", 
+        "sound_mark": "['viʃieit]", 
+        "chinese": "vt. 使败坏，损害，使失效", 
+        "english": "vitiate"
+    }, 
+    {
+        "sound": "431\\58\\58_10.mp3", 
+        "sound_mark": "[.vitri'ɔlik]", 
+        "chinese": "adj. 硫酸的，刻薄的，挖苦的", 
+        "english": "vitriolic"
+    }, 
+    {
+        "sound": "431\\58\\58_11.mp3", 
+        "sound_mark": "[vi'veiʃəs]", 
+        "chinese": "adj. 活泼的", 
+        "english": "vivacious"
+    }, 
+    {
+        "sound": "431\\58\\58_12.mp3", 
+        "sound_mark": "[vəug]", 
+        "chinese": "n. 时尚，流行", 
+        "english": "vogue"
+    }, 
+    {
+        "sound": "431\\58\\58_13.mp3", 
+        "sound_mark": "[vəu'liʃən]", 
+        "chinese": "n. 自决，自主，意志力", 
+        "english": "volition"
+    }, 
+    {
+        "sound": "431\\58\\58_14.mp3", 
+        "sound_mark": "['vɔljubl]", 
+        "chinese": "adj. 健谈的，流畅的，易旋转的", 
+        "english": "voluble"
+    }, 
+    {
+        "sound": "431\\59\\59_0.mp3", 
+        "sound_mark": "[və'lju:minəs]", 
+        "chinese": "adj. 卷数多的，大量的，著书多的", 
+        "english": "voluminous"
+    }, 
+    {
+        "sound": "431\\59\\59_1.mp3", 
+        "sound_mark": "[və'reiʃəs]", 
+        "chinese": "adj. 狼吞虎咽的，贪婪的", 
+        "english": "voracious"
+    }, 
+    {
+        "sound": "431\\59\\59_2.mp3", 
+        "sound_mark": "['vʌlnərəbl]", 
+        "chinese": "adj. 易受伤害的，有弱点的", 
+        "english": "vulnerable"
+    }, 
+    {
+        "sound": "431\\59\\59_3.mp3", 
+        "sound_mark": "[wɔn]", 
+        "chinese": "adj. 苍白的，病态的，暗淡的vi. 变苍白，呈病态abbr. 广域网（=wide area network)", 
+        "english": "wan"
+    }, 
+    {
+        "sound": "431\\59\\59_4.mp3", 
+        "sound_mark": "[wein]", 
+        "chinese": "n. 衰微，亏缺，变弱v. 变小，亏缺，呈下弦", 
+        "english": "wane"
+    }, 
+    {
+        "sound": "431\\59\\59_5.mp3", 
+        "sound_mark": "['wɛəri]", 
+        "chinese": "adj. 小心的，机警的", 
+        "english": "wary"
+    }, 
+    {
+        "sound": "431\\59\\59_6.mp3", 
+        "sound_mark": "['wi:dl]", 
+        "chinese": "v. (以甜言蜜语)诱惑，(用甜言蜜语)哄骗", 
+        "english": "wheedle"
+    }, 
+    {
+        "sound": "431\\59\\59_7.mp3", 
+        "sound_mark": "[wet]", 
+        "chinese": "n. 磨，磨利之物，开胃物vt. 磨（刀），刺激（欲望，兴趣）", 
+        "english": "whet"
+    }, 
+    {
+        "sound": "431\\59\\59_8.mp3", 
+        "sound_mark": "['wimzikəl]", 
+        "chinese": "adj. 心情浮动的，反覆无常的，古怪的", 
+        "english": "whimsical"
+    }, 
+    {
+        "sound": "431\\59\\59_9.mp3", 
+        "sound_mark": "[wins]", 
+        "chinese": "n. 畏缩，退避，（因痛苦，苦恼等)面部肌肉抽动v. 畏缩，退缩，退避", 
+        "english": "wince"
+    }, 
+    {
+        "sound": "431\\59\\59_10.mp3", 
+        "sound_mark": "['wistfəl]", 
+        "chinese": "adj. 渴望的，忧思的", 
+        "english": "wistful"
+    }, 
+    {
+        "sound": "431\\59\\59_11.mp3", 
+        "sound_mark": "[rest]", 
+        "chinese": "n. 扭，拧，[音] 调音键vt. 夺取，歪曲", 
+        "english": "wrest"
+    }, 
+    {
+        "sound": "431\\59\\59_12.mp3", 
+        "sound_mark": "[jen]", 
+        "chinese": "n. 日元（日本货币单位）；渴望vi. 渴望", 
+        "english": "yen"
+    }, 
+    {
+        "sound": "431\\59\\59_13.mp3", 
+        "sound_mark": "['zeləs]", 
+        "chinese": "adj. 热心的，狂热的，热衷的", 
+        "english": "zealous"
+    }, 
+    {
+        "sound": "431\\59\\59_14.mp3", 
+        "sound_mark": "['zi:niθ]", 
+        "chinese": "n. 顶点，天顶，全盛", 
+        "english": "zenith"
+    }
+]

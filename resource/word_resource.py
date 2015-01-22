@@ -20,7 +20,6 @@ class CategoryResource(Resource):
 
 class WordResource(Resource):
     def get(self):
-        import pdb;pdb.set_trace()
         args = WordQueryArgs().args
         word_list = word_db.get_by_category(args[u"category"])
         return marshal(word_list, word_fields)

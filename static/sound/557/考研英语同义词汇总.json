@@ -1,0 +1,1232 @@
+[
+    {
+        "sound": "557\\1\\1_0.mp3", 
+        "sound_mark": "[əd'vɑ:ntidʒ]", 
+        "chinese": "n. 优势，有利条件vt. 有利于", 
+        "english": "advantage"
+    }, 
+    {
+        "sound": "557\\1\\1_1.mp3", 
+        "sound_mark": "['merit]", 
+        "chinese": "n. 功绩，价值，优点v. 博得，值得或应得", 
+        "english": "merit"
+    }, 
+    {
+        "sound": "557\\1\\1_2.mp3", 
+        "sound_mark": "['və:tju:]", 
+        "chinese": "n. 美德，德行，优点，贞操", 
+        "english": "virtue"
+    }, 
+    {
+        "sound": "557\\1\\1_3.mp3", 
+        "sound_mark": "['benifit]", 
+        "chinese": "n. 利益，津贴，保险金，义卖，义演vt. 有益于，得益", 
+        "english": "benefit"
+    }, 
+    {
+        "sound": "557\\1\\1_4.mp3", 
+        "sound_mark": "['ʌpsaid]", 
+        "chinese": "n. 上部，上涨，优势，潜力prop.上面，上方", 
+        "english": "upside"
+    }, 
+    {
+        "sound": "557\\1\\1_5.mp3", 
+        "sound_mark": "[streŋθ]", 
+        "chinese": "n. 力量，力气，长处，强度", 
+        "english": "strength"
+    }, 
+    {
+        "sound": "557\\1\\1_6.mp3", 
+        "sound_mark": "[ə'sendənsi,-dəns]", 
+        "chinese": "n. 优势；权势；优越", 
+        "english": "ascendency"
+    }, 
+    {
+        "sound": "557\\1\\1_7.mp3", 
+        "sound_mark": "['dɔminəns]", 
+        "chinese": "n. 支配(控制，统治，权威，优势)", 
+        "english": "dominance"
+    }, 
+    {
+        "sound": "557\\1\\1_8.mp3", 
+        "sound_mark": "[pri'dɔminəns]", 
+        "chinese": "n. 优势，显著", 
+        "english": "predominance"
+    }, 
+    {
+        "sound": "557\\1\\1_9.mp3", 
+        "sound_mark": "[pri'pɔndərəns]", 
+        "chinese": "n. 优势，多数", 
+        "english": "preponderance"
+    }, 
+    {
+        "sound": "557\\1\\1_10.mp3", 
+        "sound_mark": "[sju.piəri'ɔriti]", 
+        "chinese": "n. 优越性，优势", 
+        "english": "superiority"
+    }, 
+    {
+        "sound": "557\\1\\1_11.mp3", 
+        "sound_mark": "[.disəd'væntidʒ]", 
+        "chinese": "n. 不利，不利条件，损害，损失", 
+        "english": "disadvantage"
+    }, 
+    {
+        "sound": "557\\1\\1_12.mp3", 
+        "sound_mark": "[di:'merit]", 
+        "chinese": "n. 缺点，短处，过失", 
+        "english": "demerit"
+    }, 
+    {
+        "sound": "557\\1\\1_13.mp3", 
+        "sound_mark": "['drɔ:.bæk]", 
+        "chinese": "n. 弊，缺点，不利条件，退税，退款", 
+        "english": "drawback"
+    }, 
+    {
+        "sound": "557\\1\\1_14.mp3", 
+        "sound_mark": "['daunsaid]", 
+        "chinese": "n. 下降趋势（价格方面），消极面，负面", 
+        "english": "downside"
+    }, 
+    {
+        "sound": "557\\2\\2_0.mp3", 
+        "sound_mark": "[wi:k]", 
+        "chinese": "adj. 虚弱的，无力的，弱的，淡薄的，差的", 
+        "english": "weak"
+    }, 
+    {
+        "sound": "557\\2\\2_1.mp3", 
+        "sound_mark": "[di'fekt]", 
+        "chinese": "n. 缺点vi. 背叛", 
+        "english": "defect"
+    }, 
+    {
+        "sound": "557\\2\\2_2.mp3", 
+        "sound_mark": "[fɔ:lt]", 
+        "chinese": "n. 缺点，过失，故障，毛病，过错，[地]断层vt. 找 ... 错误，指责vi. 找错误，[地]断裂", 
+        "english": "fault"
+    }, 
+    {
+        "sound": "557\\2\\2_3.mp3", 
+        "sound_mark": "[flɔ:]", 
+        "chinese": "n. 瑕疵，缺陷，裂缝v. 使破裂，有瑕疵\t\t\tn. 一阵强风", 
+        "english": "flaw"
+    }, 
+    {
+        "sound": "557\\2\\2_4.mp3", 
+        "sound_mark": "[.impə'fekʃən]", 
+        "chinese": "n. 不完全，不完备，缺点", 
+        "english": "imperfection"
+    }, 
+    {
+        "sound": "557\\2\\2_5.mp3", 
+        "sound_mark": "['blemiʃ]", 
+        "chinese": "n. 污点，缺点v. 弄脏，污损，损害", 
+        "english": "blemish"
+    }, 
+    {
+        "sound": "557\\2\\2_6.mp3", 
+        "sound_mark": "[ʃɔ:t.kʌmiŋ]", 
+        "chinese": "n. 短处，缺点", 
+        "english": "shortcoming"
+    }, 
+    {
+        "sound": "557\\2\\2_7.mp3", 
+        "sound_mark": "[sɔlv]", 
+        "chinese": "v. 解决，解答", 
+        "english": "solve"
+    }, 
+    {
+        "sound": "557\\2\\2_8.mp3", 
+        "sound_mark": "", 
+        "chinese": "讨论，处理，涉及，对付，与 ... 做生意", 
+        "english": "deal with"
+    }, 
+    {
+        "sound": "557\\2\\2_9.mp3", 
+        "sound_mark": "", 
+        "chinese": "vt. 对付，应付，处理", 
+        "english": "cope with"
+    }, 
+    {
+        "sound": "557\\2\\2_10.mp3", 
+        "sound_mark": "['hændl]", 
+        "chinese": "n. 柄，把手v. 买卖，处理，操作，驾驭", 
+        "english": "handle"
+    }, 
+    {
+        "sound": "557\\2\\2_11.mp3", 
+        "sound_mark": "[ri'zɔlv]", 
+        "chinese": "n. 决定之事，决心，坚决vt. 决定，解决，分离，表决vi. 分离，决定", 
+        "english": "resolve"
+    }, 
+    {
+        "sound": "557\\2\\2_12.mp3", 
+        "sound_mark": "[ə'dres]", 
+        "chinese": "n. 住址，致词，讲话，谈吐，(处理问题的)技巧vt. 发表演说，写地址，称呼，对付，(图书、文章等)讨论(某主题)", 
+        "english": "address"
+    }, 
+    {
+        "sound": "557\\2\\2_13.mp3", 
+        "sound_mark": "['tækl]", 
+        "chinese": "v. 处理，对付，阻截n. 用具，滑车，对付", 
+        "english": "tackle"
+    }, 
+    {
+        "sound": "557\\2\\2_14.mp3", 
+        "sound_mark": "['dæmidʒ]", 
+        "chinese": "n. 毁坏，损害，损失vt. 损害，毁坏", 
+        "english": "damage"
+    }, 
+    {
+        "sound": "557\\3\\3_0.mp3", 
+        "sound_mark": "[hə:t]", 
+        "chinese": "vt. 伤害，(使)疼痛，损害vi. 受疼痛，破坏n. 打击，创伤", 
+        "english": "hurt"
+    }, 
+    {
+        "sound": "557\\3\\3_1.mp3", 
+        "sound_mark": "['indʒə]", 
+        "chinese": "vt. 伤害，损害，损伤", 
+        "english": "injure"
+    }, 
+    {
+        "sound": "557\\3\\3_2.mp3", 
+        "sound_mark": "[hɑ:m]", 
+        "chinese": "n. 伤害，损害，危害vt. 损害，伤害", 
+        "english": "harm"
+    }, 
+    {
+        "sound": "557\\3\\3_3.mp3", 
+        "sound_mark": "[im'pɛə]", 
+        "chinese": "vt. 损害，削弱[计算机] 损伤", 
+        "english": "impair"
+    }, 
+    {
+        "sound": "557\\3\\3_4.mp3", 
+        "sound_mark": "[.ʌndə'main]", 
+        "chinese": "vt. 暗中损害，逐渐削弱，在(某物)下挖洞或挖通道，从根基处损害", 
+        "english": "undermine"
+    }, 
+    {
+        "sound": "557\\3\\3_5.mp3", 
+        "sound_mark": "['dʒepədaiz]", 
+        "chinese": "vt. 危害，使受危困，使陷危地", 
+        "english": "jeopardize"
+    }, 
+    {
+        "sound": "557\\3\\3_6.mp3", 
+        "sound_mark": "[di'veləp]", 
+        "chinese": "v. 发展，开发，发育\t\t\tvt. 冲洗(照片)", 
+        "english": "develop"
+    }, 
+    {
+        "sound": "557\\3\\3_7.mp3", 
+        "sound_mark": "['kʌltiveit]", 
+        "chinese": "vt. 培养，耕作，栽培，结交(朋友), 促进增长，教养", 
+        "english": "cultivate"
+    }, 
+    {
+        "sound": "557\\3\\3_8.mp3", 
+        "sound_mark": "['fɔstə]", 
+        "chinese": "vt. 养育，培养，促进，鼓励，抱有（希望等）adj. 收养的，养育的", 
+        "english": "foster"
+    }, 
+    {
+        "sound": "557\\3\\3_9.mp3", 
+        "sound_mark": "['nə:tʃə]", 
+        "chinese": "n. 养育，照顾，教育，滋养，营养品vt. 养育，给与营养物，教养，扶持", 
+        "english": "nurture"
+    }, 
+    {
+        "sound": "557\\3\\3_10.mp3", 
+        "sound_mark": "['pʌzl]", 
+        "chinese": "n. 谜，难题，迷惑vt. 使困惑，使为难vi. 迷惑，苦思", 
+        "english": "puzzle"
+    }, 
+    {
+        "sound": "557\\3\\3_11.mp3", 
+        "sound_mark": "[bi'wildə]", 
+        "chinese": "vt. 使迷惑，使 ... 不知所措", 
+        "english": "bewilder"
+    }, 
+    {
+        "sound": "557\\3\\3_12.mp3", 
+        "sound_mark": "[pə'pleks]", 
+        "chinese": "v. 使困惑，使糊涂，使复杂化", 
+        "english": "perplex"
+    }, 
+    {
+        "sound": "557\\3\\3_13.mp3", 
+        "sound_mark": "['bæfl]", 
+        "chinese": "vt. 使困惑，阻碍n. 遮流板，隔音板", 
+        "english": "baffle"
+    }, 
+    {
+        "sound": "557\\3\\3_14.mp3", 
+        "sound_mark": "[kən'fju:z]", 
+        "chinese": "vt. 混淆，使困惑，使混乱", 
+        "english": "confuse"
+    }, 
+    {
+        "sound": "557\\4\\4_0.mp3", 
+        "sound_mark": "[ki:]", 
+        "chinese": "n. 钥匙，键，关键，答案adj. 主要的，关键的vt. 键入，用钥匙锁上，为 ... 调音\t\t\tn. 低岛，暗礁n.  一公斤（大麻等）", 
+        "english": "key"
+    }, 
+    {
+        "sound": "557\\4\\4_1.mp3", 
+        "sound_mark": "['kru:ʃəl]", 
+        "chinese": "adj. 关键的，决定性的", 
+        "english": "crucial"
+    }, 
+    {
+        "sound": "557\\4\\4_2.mp3", 
+        "sound_mark": "['kritikəl]", 
+        "chinese": "adj. 批评的，决定性的，危险的，挑剔的adj. 临界的", 
+        "english": "critical"
+    }, 
+    {
+        "sound": "557\\4\\4_3.mp3", 
+        "sound_mark": "[im'pɔ:tənt]", 
+        "chinese": "adj. 重要的，重大的", 
+        "english": "important"
+    }, 
+    {
+        "sound": "557\\4\\4_4.mp3", 
+        "sound_mark": "['vaitl]", 
+        "chinese": "adj. 至关重要的，生死攸关的，有活力的，致命的", 
+        "english": "vital"
+    }, 
+    {
+        "sound": "557\\4\\4_5.mp3", 
+        "sound_mark": "[səb'stænʃəl]", 
+        "chinese": "adj. 实质的，可观的，大量的，坚固的n. 重要部份，本质", 
+        "english": "substantial"
+    }, 
+    {
+        "sound": "557\\4\\4_6.mp3", 
+        "sound_mark": "[.indis'pensəbl]", 
+        "chinese": "adj. 不可缺少的", 
+        "english": "indispensable"
+    }, 
+    {
+        "sound": "557\\4\\4_7.mp3", 
+        "sound_mark": "[im'perətiv]", 
+        "chinese": "n. 命令，诫命，需要，祈使语气adj. 命令式的，急需的，祈使的", 
+        "english": "imperative"
+    }, 
+    {
+        "sound": "557\\4\\4_8.mp3", 
+        "sound_mark": "[kən'sidə]", 
+        "chinese": "vt. 考虑，思考，认为", 
+        "english": "consider"
+    }, 
+    {
+        "sound": "557\\4\\4_9.mp3", 
+        "sound_mark": "['rekən]", 
+        "chinese": "v. 认为，计算，估计", 
+        "english": "reckon"
+    }, 
+    {
+        "sound": "557\\4\\4_10.mp3", 
+        "sound_mark": "[θiŋk]", 
+        "chinese": "v. 想，认为，考虑，记起n. 想", 
+        "english": "think"
+    }, 
+    {
+        "sound": "557\\4\\4_11.mp3", 
+        "sound_mark": "[bi'li:v]", 
+        "chinese": "v. 认为，相信", 
+        "english": "believe"
+    }, 
+    {
+        "sound": "557\\4\\4_12.mp3", 
+        "sound_mark": "[in'sist]", 
+        "chinese": "vt. 坚持，强调vi. 坚决主张", 
+        "english": "insist"
+    }, 
+    {
+        "sound": "557\\4\\4_13.mp3", 
+        "sound_mark": "[ə'sə:t]", 
+        "chinese": "vt. 主张，声明，断言", 
+        "english": "assert"
+    }, 
+    {
+        "sound": "557\\4\\4_14.mp3", 
+        "sound_mark": "[kən'klu:d]", 
+        "chinese": "vi. 总结，作出决定vt. 使结束，推断出，缔结", 
+        "english": "conclude"
+    }, 
+    {
+        "sound": "557\\5\\5_0.mp3", 
+        "sound_mark": "[di:m]", 
+        "chinese": "v. 认为，相信", 
+        "english": "deem"
+    }, 
+    {
+        "sound": "557\\5\\5_1.mp3", 
+        "sound_mark": "[həuld]", 
+        "chinese": "v. 握住，拿着，持有，举行，容纳，认为，掌握，控制n. 把握，控制，支撑点，延误n. 船舱", 
+        "english": "hold"
+    }, 
+    {
+        "sound": "557\\5\\5_2.mp3", 
+        "sound_mark": "['ɑ:gju:]", 
+        "chinese": "v. 争论，辩论", 
+        "english": "argue"
+    }, 
+    {
+        "sound": "557\\5\\5_3.mp3", 
+        "sound_mark": "[prə'tekt]", 
+        "chinese": "vt. 保护，投保", 
+        "english": "protect"
+    }, 
+    {
+        "sound": "557\\5\\5_4.mp3", 
+        "sound_mark": "['kɔnsə:v,kən'sə:v]", 
+        "chinese": "n. 蜜饯，果酱vt. 保存，与糖放在一起，保持", 
+        "english": "conserve"
+    }, 
+    {
+        "sound": "557\\5\\5_5.mp3", 
+        "sound_mark": "[pri'zə:v]", 
+        "chinese": "v. 保存，保留，维护n. 蜜饯，禁猎区", 
+        "english": "preserve"
+    }, 
+    {
+        "sound": "557\\5\\5_6.mp3", 
+        "sound_mark": "['seifgɑ:d]", 
+        "chinese": "n. 保卫者，保护措施vt. 保卫，保护", 
+        "english": "safeguard"
+    }, 
+    {
+        "sound": "557\\5\\5_7.mp3", 
+        "sound_mark": "[ə'ʃuə]", 
+        "chinese": "vt. 使确信，使放心，确保", 
+        "english": "assure"
+    }, 
+    {
+        "sound": "557\\5\\5_8.mp3", 
+        "sound_mark": "[in'ʃuə]", 
+        "chinese": "vt. 保证，确保，担保，使安全", 
+        "english": "ensure"
+    }, 
+    {
+        "sound": "557\\5\\5_9.mp3", 
+        "sound_mark": "[.gærən'ti:]", 
+        "chinese": "n. 保证，保证书，担保，担保人，抵押品vt. 保证，担保", 
+        "english": "guarantee"
+    }, 
+    {
+        "sound": "557\\5\\5_10.mp3", 
+        "sound_mark": "[pledʒ]", 
+        "chinese": "n. 保证，誓言，抵押，抵押品vt. 保证，发誓，以 ... 抵押，向 ... 祝酒", 
+        "english": "pledge"
+    }, 
+    {
+        "sound": "557\\5\\5_11.mp3", 
+        "sound_mark": "[bæd]", 
+        "chinese": "adj. 坏的，差的，不好的n. 坏人，坏事adv. 非常，不好地\t\t\tadj. 严重的，有害的，腐败的，低劣的，不健康的，不利的，不舒服的", 
+        "english": "bad"
+    }, 
+    {
+        "sound": "557\\5\\5_12.mp3", 
+        "sound_mark": "['beinfəl]", 
+        "chinese": "adj. 有害的，有毒的，致祸的", 
+        "english": "baneful"
+    }, 
+    {
+        "sound": "557\\5\\5_13.mp3", 
+        "sound_mark": "['i:vl]", 
+        "chinese": "adj. 邪恶的，坏的n. 邪恶，罪恶", 
+        "english": "evil"
+    }, 
+    {
+        "sound": "557\\5\\5_14.mp3", 
+        "sound_mark": "['hɑ:mfəl]", 
+        "chinese": "adj. 有害的", 
+        "english": "harmful"
+    }, 
+    {
+        "sound": "557\\6\\6_0.mp3", 
+        "sound_mark": "[.detri'mentl]", 
+        "chinese": "adj. 有害的n. 有害的人或事", 
+        "english": "detrimental"
+    }, 
+    {
+        "sound": "557\\6\\6_1.mp3", 
+        "sound_mark": "[.deli'tiəriəs]", 
+        "chinese": "adj. 有害的，有毒的", 
+        "english": "deleterious"
+    }, 
+    {
+        "sound": "557\\6\\6_2.mp3", 
+        "sound_mark": "[i'limineit]", 
+        "chinese": "v. 除去，剔除; 忽略", 
+        "english": "eliminate"
+    }, 
+    {
+        "sound": "557\\6\\6_3.mp3", 
+        "sound_mark": "[kliə]", 
+        "chinese": "adj. 清楚的，明确的，澄清的，头脑清醒的vt. 澄清，清除障碍，使明亮，明确vi. 变清晰，消失，放晴adv. 清楚地，一直n. 间隙，空地，开旷的地方", 
+        "english": "clear"
+    }, 
+    {
+        "sound": "557\\6\\6_4.mp3", 
+        "sound_mark": "[ri'mu:v]", 
+        "chinese": "v. 消除，除去，脱掉，搬迁\t\t\tn. 去除，间距", 
+        "english": "remove"
+    }, 
+    {
+        "sound": "557\\6\\6_5.mp3", 
+        "sound_mark": "", 
+        "chinese": "放晴；清理；打扫；整理", 
+        "english": "clear up"
+    }, 
+    {
+        "sound": "557\\6\\6_6.mp3", 
+        "sound_mark": "", 
+        "chinese": "vt. 拿走(减去，解除)", 
+        "english": "take away"
+    }, 
+    {
+        "sound": "557\\6\\6_7.mp3", 
+        "sound_mark": "[i'rædikeit]", 
+        "chinese": "v. 根除，扑减，根绝", 
+        "english": "eradicate"
+    }, 
+    {
+        "sound": "557\\6\\6_8.mp3", 
+        "sound_mark": "", 
+        "chinese": "导致", 
+        "english": "lead to"
+    }, 
+    {
+        "sound": "557\\6\\6_9.mp3", 
+        "sound_mark": "", 
+        "chinese": "带来，造成v. 带来，发生，引起", 
+        "english": "bring about"
+    }, 
+    {
+        "sound": "557\\6\\6_10.mp3", 
+        "sound_mark": "", 
+        "chinese": "vt. 导致", 
+        "english": "result in"
+    }, 
+    {
+        "sound": "557\\6\\6_11.mp3", 
+        "sound_mark": "[kɔ:z]", 
+        "chinese": "vt. 引起，使发生n. 原因", 
+        "english": "cause"
+    }, 
+    {
+        "sound": "557\\6\\6_12.mp3", 
+        "sound_mark": "", 
+        "chinese": "导致；引起，激发", 
+        "english": "spark off"
+    }, 
+    {
+        "sound": "557\\6\\6_13.mp3", 
+        "sound_mark": "[kən'dju:s tu:]", 
+        "chinese": "v. 引起，有助于", 
+        "english": "conduce to"
+    }, 
+    {
+        "sound": "557\\6\\6_14.mp3", 
+        "sound_mark": "[prə'kjuə]", 
+        "chinese": "vt. 获得，取得，促成vi. 拉皮条", 
+        "english": "procure"
+    }, 
+    {
+        "sound": "557\\7\\7_0.mp3", 
+        "sound_mark": "[in'dju:s]", 
+        "chinese": "vt. 引起，引诱，导致", 
+        "english": "induce"
+    }, 
+    {
+        "sound": "557\\7\\7_1.mp3", 
+        "sound_mark": "['dʒenə.reit]", 
+        "chinese": "vt. 产生，发生，引起", 
+        "english": "generate"
+    }, 
+    {
+        "sound": "557\\7\\7_2.mp3", 
+        "sound_mark": "['ðɛəfɔ:]", 
+        "chinese": "adv. 因此，所以", 
+        "english": "therefore"
+    }, 
+    {
+        "sound": "557\\7\\7_3.mp3", 
+        "sound_mark": "[ðʌs]", 
+        "chinese": "adv. 如此，这样，因此，从而", 
+        "english": "thus"
+    }, 
+    {
+        "sound": "557\\7\\7_4.mp3", 
+        "sound_mark": "[hens]", 
+        "chinese": "adv. 因此，今后，从此", 
+        "english": "hence"
+    }, 
+    {
+        "sound": "557\\7\\7_5.mp3", 
+        "sound_mark": "['kɔnsikwəntli]", 
+        "chinese": "adv. 所以，因此", 
+        "english": "consequently"
+    }, 
+    {
+        "sound": "557\\7\\7_6.mp3", 
+        "sound_mark": "", 
+        "chinese": "因此，结果", 
+        "english": "as a consequence"
+    }, 
+    {
+        "sound": "557\\7\\7_7.mp3", 
+        "sound_mark": "[ə'kɔ:diŋli]", 
+        "chinese": "adv. 因此，于是，相应地", 
+        "english": "accordingly"
+    }, 
+    {
+        "sound": "557\\7\\7_8.mp3", 
+        "sound_mark": "", 
+        "chinese": "结果，因此", 
+        "english": "as a result"
+    }, 
+    {
+        "sound": "557\\7\\7_9.mp3", 
+        "sound_mark": "", 
+        "chinese": "升迁；上升到", 
+        "english": "rise to"
+    }, 
+    {
+        "sound": "557\\7\\7_10.mp3", 
+        "sound_mark": "", 
+        "chinese": "前往；上到……上", 
+        "english": "go up to"
+    }, 
+    {
+        "sound": "557\\7\\7_11.mp3", 
+        "sound_mark": "", 
+        "chinese": "\n上溯：\n\n例句：\n\n\nTheir inquiries ascend to the antiquity.\n他们的研究上溯古代。上升：\n\n例句：\n\n\nThe smoke  ascended to the sky.\n烟一直升天。", 
+        "english": "ascend to"
+    }, 
+    {
+        "sound": "557\\7\\7_12.mp3", 
+        "sound_mark": "", 
+        "chinese": "着手干；开始，开始进食", 
+        "english": "fall to"
+    }, 
+    {
+        "sound": "557\\7\\7_13.mp3", 
+        "sound_mark": "", 
+        "chinese": "下降到，跌到", 
+        "english": "drop to"
+    }, 
+    {
+        "sound": "557\\7\\7_14.mp3", 
+        "sound_mark": "", 
+        "chinese": "使处于；使变弱为；迫使；归纳为", 
+        "english": "reduce to"
+    }, 
+    {
+        "sound": "557\\8\\8_0.mp3", 
+        "sound_mark": "", 
+        "chinese": "堕落到；向下延伸至；转而提到", 
+        "english": "descend to"
+    }, 
+    {
+        "sound": "557\\8\\8_1.mp3", 
+        "sound_mark": "", 
+        "chinese": "把……弄平；达到平衡；持平", 
+        "english": "level out"
+    }, 
+    {
+        "sound": "557\\8\\8_2.mp3", 
+        "sound_mark": "", 
+        "chinese": "趋平；呈平稳状态；把...弄平", 
+        "english": "level off"
+    }, 
+    {
+        "sound": "557\\8\\8_3.mp3", 
+        "sound_mark": "['steibilaiz]", 
+        "chinese": "v. 使安定，使坚固", 
+        "english": "stabilize"
+    }, 
+    {
+        "sound": "557\\8\\8_4.mp3", 
+        "sound_mark": "", 
+        "chinese": "v. 使平坦；使均等；变正常", 
+        "english": "even out"
+    }, 
+    {
+        "sound": "557\\8\\8_5.mp3", 
+        "sound_mark": "[drə'mætikli]", 
+        "chinese": "adv. 戏剧地，引人注目地", 
+        "english": "dramatically"
+    }, 
+    {
+        "sound": "557\\8\\8_6.mp3", 
+        "sound_mark": "", 
+        "chinese": "adv. 激烈地；彻底地", 
+        "english": "drastically"
+    }, 
+    {
+        "sound": "557\\8\\8_7.mp3", 
+        "sound_mark": "['ʃɑ:pli]", 
+        "chinese": "adv. 锐利地，严厉地，厉害地，轮廓清晰、线条分明地", 
+        "english": "sharply"
+    }, 
+    {
+        "sound": "557\\8\\8_8.mp3", 
+        "sound_mark": "", 
+        "chinese": "adv. 险峻地；陡峭地", 
+        "english": "steeply"
+    }, 
+    {
+        "sound": "557\\8\\8_9.mp3", 
+        "sound_mark": "[səb'stænʃəli]", 
+        "chinese": "adv. 非常，本质上，大体上", 
+        "english": "substantially"
+    }, 
+    {
+        "sound": "557\\8\\8_10.mp3", 
+        "sound_mark": "[kən'sidərəbli]", 
+        "chinese": "adv. 非常地，很，颇", 
+        "english": "considerably"
+    }, 
+    {
+        "sound": "557\\8\\8_11.mp3", 
+        "sound_mark": "['mɑ:kidli]", 
+        "chinese": "adv. 显著地，醒目地，明显地", 
+        "english": "markedly"
+    }, 
+    {
+        "sound": "557\\8\\8_12.mp3", 
+        "sound_mark": "[sə'praiziŋli]", 
+        "chinese": "adv. 惊人地(意外地)", 
+        "english": "surprisingly"
+    }, 
+    {
+        "sound": "557\\8\\8_13.mp3", 
+        "sound_mark": "['straikiŋli]", 
+        "chinese": "adv. 显著地，突出地，惊人地，引人注目地", 
+        "english": "strikingly"
+    }, 
+    {
+        "sound": "557\\8\\8_14.mp3", 
+        "sound_mark": "['rædikəli]", 
+        "chinese": "adv. 根本地，完全地，过激地", 
+        "english": "radically"
+    }, 
+    {
+        "sound": "557\\9\\9_0.mp3", 
+        "sound_mark": "[ri'mɑ:kəbli]", 
+        "chinese": "adv. 显著地，引人注目地，非常地", 
+        "english": "remarkably"
+    }, 
+    {
+        "sound": "557\\9\\9_1.mp3", 
+        "sound_mark": "['vɑ:stli]", 
+        "chinese": "adv. 广大地，巨大地", 
+        "english": "vastly"
+    }, 
+    {
+        "sound": "557\\9\\9_2.mp3", 
+        "sound_mark": "['nəutisəbli]", 
+        "chinese": "adv. 显著地，明显地", 
+        "english": "noticeably"
+    }, 
+    {
+        "sound": "557\\9\\9_3.mp3", 
+        "sound_mark": "['stedili]", 
+        "chinese": "adv. 稳定地，稳固地，坚定地", 
+        "english": "steadily"
+    }, 
+    {
+        "sound": "557\\9\\9_4.mp3", 
+        "sound_mark": "[smu:ðli]", 
+        "chinese": "adv. 平滑地，流畅地", 
+        "english": "smoothly"
+    }, 
+    {
+        "sound": "557\\9\\9_5.mp3", 
+        "sound_mark": "['slaitli]", 
+        "chinese": "adv. 些微地，苗条地", 
+        "english": "slightly"
+    }, 
+    {
+        "sound": "557\\9\\9_6.mp3", 
+        "sound_mark": "['sləuli]", 
+        "chinese": "adv. 缓慢地", 
+        "english": "slowly"
+    }, 
+    {
+        "sound": "557\\9\\9_7.mp3", 
+        "sound_mark": "['grædjuəli]", 
+        "chinese": "adv. 逐渐地", 
+        "english": "gradually"
+    }, 
+    {
+        "sound": "557\\9\\9_8.mp3", 
+        "sound_mark": "['mɔdəritli]", 
+        "chinese": "adv. 适度地，一般地", 
+        "english": "moderately"
+    }, 
+    {
+        "sound": "557\\9\\9_9.mp3", 
+        "sound_mark": "['maildli]", 
+        "chinese": "adv. 柔和地，和善地，谨慎地", 
+        "english": "mildly"
+    }, 
+    {
+        "sound": "557\\9\\9_10.mp3", 
+        "sound_mark": "[ə'ledʒ]", 
+        "chinese": "vt. 断言，宣称", 
+        "english": "allege"
+    }, 
+    {
+        "sound": "557\\9\\9_11.mp3", 
+        "sound_mark": "[di'klɛə]", 
+        "chinese": "v. 宣布，声明，申报", 
+        "english": "declare"
+    }, 
+    {
+        "sound": "557\\9\\9_12.mp3", 
+        "sound_mark": "[kleim]", 
+        "chinese": "n. 要求，要求权;主张，断言，声称;要求物vt. 要求，请求；主张，声称，断言", 
+        "english": "claim"
+    }, 
+    {
+        "sound": "557\\9\\9_13.mp3", 
+        "sound_mark": "['hæpən]", 
+        "chinese": "vi. 发生，碰巧，出现，偶遇", 
+        "english": "happen"
+    }, 
+    {
+        "sound": "557\\9\\9_14.mp3", 
+        "sound_mark": "[ə'kə:]", 
+        "chinese": "vi. 出现，存在，发生，想到", 
+        "english": "occur"
+    }, 
+    {
+        "sound": "557\\10\\10_0.mp3", 
+        "sound_mark": "", 
+        "chinese": "发生；举行", 
+        "english": "take place"
+    }, 
+    {
+        "sound": "557\\10\\10_1.mp3", 
+        "sound_mark": "['ri:zn]", 
+        "chinese": "n. 理由，原因，理性v. 推理，论证，劝说", 
+        "english": "reason"
+    }, 
+    {
+        "sound": "557\\10\\10_2.mp3", 
+        "sound_mark": "['fæktə]", 
+        "chinese": "n. 因素，因子vt. 把 ... 因素包括进去vi. 作为因素", 
+        "english": "factor"
+    }, 
+    {
+        "sound": "557\\10\\10_3.mp3", 
+        "sound_mark": "[di'veləpmənt]", 
+        "chinese": "n. 发展，开发，生长，研制，形成，进展，[摄]显影\t\t\tn. 新开发区", 
+        "english": "development"
+    }, 
+    {
+        "sound": "557\\10\\10_4.mp3", 
+        "sound_mark": "[əd'vɑ:ns]", 
+        "chinese": "n. 前进，进展，预付金，追求v. 前进，增长，预付adj. 预先的，提前的", 
+        "english": "advance"
+    }, 
+    {
+        "sound": "557\\10\\10_5.mp3", 
+        "sound_mark": "[prəu'gres]", 
+        "chinese": "n. 进步，发展，前进vi. 促进，进步，进行", 
+        "english": "progress"
+    }, 
+    {
+        "sound": "557\\10\\10_6.mp3", 
+        "sound_mark": "['ju:sfəl]", 
+        "chinese": "adj. 有用的，有益的，实用的", 
+        "english": "useful"
+    }, 
+    {
+        "sound": "557\\10\\10_7.mp3", 
+        "sound_mark": "['helpfəl]", 
+        "chinese": "adj. 有帮助的，有用的", 
+        "english": "helpful"
+    }, 
+    {
+        "sound": "557\\10\\10_8.mp3", 
+        "sound_mark": "[.beni'fiʃəl]", 
+        "chinese": "adj. 有益的，有利的", 
+        "english": "beneficial"
+    }, 
+    {
+        "sound": "557\\10\\10_9.mp3", 
+        "sound_mark": "['prɔfitəbl]", 
+        "chinese": "adj. 有益的，有用的", 
+        "english": "profitable"
+    }, 
+    {
+        "sound": "557\\10\\10_10.mp3", 
+        "sound_mark": "[ri'wɔ:diŋ]", 
+        "chinese": "adj. 有报酬的，有益的", 
+        "english": "rewarding"
+    }, 
+    {
+        "sound": "557\\10\\10_11.mp3", 
+        "sound_mark": "[.ædvən'teidʒəs]", 
+        "chinese": "adj. 有利的，有助的，有益的", 
+        "english": "advantageous"
+    }, 
+    {
+        "sound": "557\\10\\10_12.mp3", 
+        "sound_mark": "[ə'fekt]", 
+        "chinese": "vt. 影响，作用，感动", 
+        "english": "affect"
+    }, 
+    {
+        "sound": "557\\10\\10_13.mp3", 
+        "sound_mark": "['influəns]", 
+        "chinese": "vt. 影响，感化n. 影响力，势力; 影响，权势n. 有影响的人(或事物)", 
+        "english": "influence"
+    }, 
+    {
+        "sound": "557\\10\\10_14.mp3", 
+        "sound_mark": "['impækt,im'pækt]", 
+        "chinese": "n. 冲击(力), 冲突，影响(力)vt. 挤入，压紧; 撞击; 对 ... 发生影响", 
+        "english": "impact"
+    }, 
+    {
+        "sound": "557\\11\\11_0.mp3", 
+        "sound_mark": "[i'fekt]", 
+        "chinese": "n. 结果，影响，效果; 要旨vt. 招致，引起; 实现，达到n. (pl.) 财产，动产", 
+        "english": "effect"
+    }, 
+    {
+        "sound": "557\\11\\11_1.mp3", 
+        "sound_mark": "['ɔbviəs]", 
+        "chinese": "adj. 明显的，显然的", 
+        "english": "obvious"
+    }, 
+    {
+        "sound": "557\\11\\11_2.mp3", 
+        "sound_mark": "['evidənt]", 
+        "chinese": "adj. 明显的，明白的", 
+        "english": "evident"
+    }, 
+    {
+        "sound": "557\\11\\11_3.mp3", 
+        "sound_mark": "['self'evidənt]", 
+        "chinese": "adj. 不言而喻的；不证自明的", 
+        "english": "self-evident"
+    }, 
+    {
+        "sound": "557\\11\\11_4.mp3", 
+        "sound_mark": "[ə'pærənt]", 
+        "chinese": "adj. 明显的，表面上的", 
+        "english": "apparent"
+    }, 
+    {
+        "sound": "557\\11\\11_5.mp3", 
+        "sound_mark": "[træns'perənt]", 
+        "chinese": "adj. 透明的，明显的，清晰的", 
+        "english": "transparent"
+    }, 
+    {
+        "sound": "557\\11\\11_6.mp3", 
+        "sound_mark": "[kəm'praiz]", 
+        "chinese": "vt. 包含，构成", 
+        "english": "comprise"
+    }, 
+    {
+        "sound": "557\\11\\11_7.mp3", 
+        "sound_mark": "", 
+        "chinese": "拿起，开始，从事，吸取，接纳，占去，占据", 
+        "english": "take up"
+    }, 
+    {
+        "sound": "557\\11\\11_8.mp3", 
+        "sound_mark": "[ə'kauntfər]", 
+        "chinese": "vt. (在数量方面)占，说明(原因等), 对 ... 负责", 
+        "english": "account for"
+    }, 
+    {
+        "sound": "557\\11\\11_9.mp3", 
+        "sound_mark": "['kɔnstitju:t]", 
+        "chinese": "vt. 构成，建立，任命", 
+        "english": "constitute"
+    }, 
+    {
+        "sound": "557\\11\\11_10.mp3", 
+        "sound_mark": "", 
+        "chinese": "由…构成", 
+        "english": "consist of"
+    }, 
+    {
+        "sound": "557\\11\\11_11.mp3", 
+        "sound_mark": "", 
+        "chinese": "v. 编造，弥补，整理，和解，化妆，拼凑成，制定", 
+        "english": "make up"
+    }, 
+    {
+        "sound": "557\\11\\11_12.mp3", 
+        "sound_mark": "['ɔkjupai]", 
+        "chinese": "vt. 占领，占用，占据，使忙碌，使从事", 
+        "english": "occupy"
+    }, 
+    {
+        "sound": "557\\11\\11_13.mp3", 
+        "sound_mark": "[kəm'pəuz]", 
+        "chinese": "vt. 组成，写作，作曲，使镇静vi. 创作", 
+        "english": "compose"
+    }, 
+    {
+        "sound": "557\\11\\11_14.mp3", 
+        "sound_mark": "[prə'vaid]", 
+        "chinese": "vi. 供给，提供vt. 提供; 规定; 准备", 
+        "english": "provide"
+    }, 
+    {
+        "sound": "557\\12\\12_0.mp3", 
+        "sound_mark": "", 
+        "chinese": "与...相比较", 
+        "english": "compared with"
+    }, 
+    {
+        "sound": "557\\12\\12_1.mp3", 
+        "sound_mark": "", 
+        "chinese": "与 ... 相比", 
+        "english": "compared to"
+    }, 
+    {
+        "sound": "557\\12\\12_2.mp3", 
+        "sound_mark": "", 
+        "chinese": "与…相比", 
+        "english": "in comparison to"
+    }, 
+    {
+        "sound": "557\\12\\12_3.mp3", 
+        "sound_mark": "", 
+        "chinese": "n. 与...相比（同...比较起来）", 
+        "english": "by comparison to"
+    }, 
+    {
+        "sound": "557\\12\\12_4.mp3", 
+        "sound_mark": "['kɔntræst,kən'træst]", 
+        "chinese": "n. 差别，对比，对照物v. 对比，成对照[计算机] 反差", 
+        "english": "contrast"
+    }, 
+    {
+        "sound": "557\\12\\12_5.mp3", 
+        "sound_mark": "[kən'və:sli]", 
+        "chinese": "adv. 相反地", 
+        "english": "conversely"
+    }, 
+    {
+        "sound": "557\\12\\12_6.mp3", 
+        "sound_mark": "[ʃəu]", 
+        "chinese": "n. 显示，表现，表演，事情v. 表示，显现，展现，指示", 
+        "english": "show"
+    }, 
+    {
+        "sound": "557\\12\\12_7.mp3", 
+        "sound_mark": "[ri'vi:l]", 
+        "chinese": "vt. 显示，透露n. (外墙与门或窗之间的)窗侧，门侧n. (汽车的)窗框", 
+        "english": "reveal"
+    }, 
+    {
+        "sound": "557\\12\\12_8.mp3", 
+        "sound_mark": "['iləstreit]", 
+        "chinese": "v. 举例说明，（为书）作插图，图解", 
+        "english": "illustrate"
+    }, 
+    {
+        "sound": "557\\12\\12_9.mp3", 
+        "sound_mark": "['demənstreit]", 
+        "chinese": "vt. 示范，演示，证明vi. 示威", 
+        "english": "demonstrate"
+    }, 
+    {
+        "sound": "557\\12\\12_10.mp3", 
+        "sound_mark": "[di'pikt]", 
+        "chinese": "vt. 描述，描绘", 
+        "english": "depict"
+    }, 
+    {
+        "sound": "557\\12\\12_11.mp3", 
+        "sound_mark": "[ə'prɔksimitli]", 
+        "chinese": "adv. 近似地，大约", 
+        "english": "approximately"
+    }, 
+    {
+        "sound": "557\\12\\12_12.mp3", 
+        "sound_mark": "['ɔ:lməust]", 
+        "chinese": "adv. 几乎，差不多adj. 相近的", 
+        "english": "almost"
+    }, 
+    {
+        "sound": "557\\12\\12_13.mp3", 
+        "sound_mark": "[ə'baut]", 
+        "chinese": "prep. 关于，大约，在 ... 周围adv. 大约，在周围，附近\t\t\tadj. 活动着的，存在的", 
+        "english": "about"
+    }, 
+    {
+        "sound": "557\\12\\12_14.mp3", 
+        "sound_mark": "[ə'raund]", 
+        "chinese": "adv. 大约，到处，在周围prep. 在 ... 附近，到处\t\t\tadj. 大约的, 在范围内的", 
+        "english": "around"
+    }, 
+    {
+        "sound": "557\\13\\13_0.mp3", 
+        "sound_mark": "['niəli]", 
+        "chinese": "adv. 几乎，差不多，密切地", 
+        "english": "nearly"
+    }, 
+    {
+        "sound": "557\\13\\13_1.mp3", 
+        "sound_mark": "['rʌfli]", 
+        "chinese": "adv. 概略地，粗糙地，粗鲁地", 
+        "english": "roughly"
+    }, 
+    {
+        "sound": "557\\13\\13_2.mp3", 
+        "sound_mark": "[sʌm, səm, sm]", 
+        "chinese": "adj. 一些，若干adv. 大约，在某种程度上pron. 一些(人，物)", 
+        "english": "some"
+    }, 
+    {
+        "sound": "557\\13\\13_3.mp3", 
+        "sound_mark": "['flʌktjueit]", 
+        "chinese": "vi. 变动，上下，动摇vt. 使动摇", 
+        "english": "fluctuate"
+    }, 
+    {
+        "sound": "557\\13\\13_4.mp3", 
+        "sound_mark": "[weiv]", 
+        "chinese": "n. 波浪，波纹，波v. 挥动，波动，飘动", 
+        "english": "wave"
+    }, 
+    {
+        "sound": "557\\13\\13_5.mp3", 
+        "sound_mark": "['ʌn'steibl]", 
+        "chinese": "adj. 不稳定的，易变的", 
+        "english": "unstable"
+    }, 
+    {
+        "sound": "557\\13\\13_6.mp3", 
+        "sound_mark": "['præktikəli]", 
+        "chinese": "adj. 实际地，几乎adv. 几乎，简直，实际上", 
+        "english": "practically"
+    }, 
+    {
+        "sound": "557\\13\\13_7.mp3", 
+        "sound_mark": "", 
+        "chinese": "在实践中，在不断练习中，实际上", 
+        "english": "in practice"
+    }, 
+    {
+        "sound": "557\\13\\13_8.mp3", 
+        "sound_mark": "[i'senʃəli]", 
+        "chinese": "adv. 本质上，本来", 
+        "english": "essentially"
+    }, 
+    {
+        "sound": "557\\13\\13_9.mp3", 
+        "sound_mark": "", 
+        "chinese": "实际上；事实上", 
+        "english": "in reality"
+    }, 
+    {
+        "sound": "557\\13\\13_10.mp3", 
+        "sound_mark": "", 
+        "chinese": "adj. 实际上，正在实行，有效", 
+        "english": "in effect"
+    }, 
+    {
+        "sound": "557\\13\\13_11.mp3", 
+        "sound_mark": "", 
+        "chinese": "其实，事实上", 
+        "english": "in fact"
+    }, 
+    {
+        "sound": "557\\13\\13_12.mp3", 
+        "sound_mark": "", 
+        "chinese": "事实上", 
+        "english": "as a matter of fact"
+    }, 
+    {
+        "sound": "557\\13\\13_13.mp3", 
+        "sound_mark": "['neimli]", 
+        "chinese": "adv. 即，也就是", 
+        "english": "namely"
+    }, 
+    {
+        "sound": "557\\13\\13_14.mp3", 
+        "sound_mark": "", 
+        "chinese": "换言之；即；就是", 
+        "english": "that is to say"
+    }, 
+    {
+        "sound": "557\\14\\14_0.mp3", 
+        "sound_mark": "", 
+        "chinese": "换句话说，也就是说", 
+        "english": "in other words"
+    }, 
+    {
+        "sound": "557\\14\\14_1.mp3", 
+        "sound_mark": "['bju:ti]", 
+        "chinese": "n. 美丽，美人，美的东西", 
+        "english": "beauty"
+    }, 
+    {
+        "sound": "557\\14\\14_2.mp3", 
+        "sound_mark": "", 
+        "chinese": "n. 清秀，漂亮；合宜", 
+        "english": "comeliness"
+    }, 
+    {
+        "sound": "557\\14\\14_3.mp3", 
+        "sound_mark": "['fɛənis]", 
+        "chinese": "n. 公平，公正", 
+        "english": "fairness"
+    }, 
+    {
+        "sound": "557\\14\\14_4.mp3", 
+        "sound_mark": "[lʌv]", 
+        "chinese": "n. 爱，恋爱，爱情，情人vt. 爱慕，热爱，喜欢vi. 爱", 
+        "english": "love"
+    }, 
+    {
+        "sound": "557\\14\\14_5.mp3", 
+        "sound_mark": "['pʌlkritju:d]", 
+        "chinese": "n. 美丽", 
+        "english": "pulchritude"
+    }, 
+    {
+        "sound": "557\\14\\14_6.mp3", 
+        "sound_mark": "['priti]", 
+        "chinese": "adj. 漂亮的，秀丽的，好看的adv. 相当地vt. 使漂亮n. 美人，漂亮的东西", 
+        "english": "pretty"
+    }, 
+    {
+        "sound": "557\\14\\14_7.mp3", 
+        "sound_mark": "['fainəri]", 
+        "chinese": "n. 装饰，服饰，鲜艳服装", 
+        "english": "finery"
+    }, 
+    {
+        "sound": "557\\14\\14_8.mp3", 
+        "sound_mark": "[mæg'nifisnt]", 
+        "chinese": "adj. 壮丽的，宏伟的，极好的", 
+        "english": "magnificent"
+    }, 
+    {
+        "sound": "557\\14\\14_9.mp3", 
+        "sound_mark": "[brait]", 
+        "chinese": "adj. 明亮的，阳光的，生动的，聪明的，有前途的adv. 明亮n. 亮色", 
+        "english": "bright"
+    }
+]

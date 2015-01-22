@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html ng-app="ShanbayApp">
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/static/app/style/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/app/style/css/shanbay_web/index.css" rel="stylesheet">
+    <title>背单词</title>
+</head>
+
+<body>
+<div class="fill-head">
+</div>
+<div class="main">
+    <div class="container" ng-controller="ShanbayController">
+        <div class="row">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-8">
+                <div class="main-content">
+                    <ul>
+                        <div ng-repeat="elem in category_list">
+                            <a href="javascript:" ng-click="reciteWords('{{elem.category}}');">
+                                <li>{{elem.category}}</li>
+                            </a>
+                        </div>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- 按钮触发模态框 -->
+            <button id="startReciteBtn" style="display: none" id="launch" data-toggle="modal"
+                    data-target="#reciteModal">
+            </button>
+
+            <!-- 模态框（Modal） -->
+            <div class="modal fade" id="reciteModal" tabindex="-1" role="dialog"
+                 aria-labelledby="modelLabel" aria-hidden="true">
+
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close"
+                                    data-dismiss="modal" aria-hidden="true">
+                                &times;
+                            </button>
+                            <h4 class="modal-title" style="color: blue" id="modelLabel">
+                                {{word["category"]}}
+                            </h4>
+                        </div>
+
+                        <div class="modal-body">
+                            <div class="recite-board">
+                                <div class="recite" ng-bind="word['chinese']"></div>
+                                <hr>
+                                <div class="recite" ng-bind="word['sound_mark']">
+                                    <button ng-click="playSound();"></button>
+                                </div>
+                                <hr>
+                                <div class="recite" ng-bind="word['hint']"></div>
+                                <hr>
+                                <div>
+                                    <audio id="player" height="0" width="0">
+                                        <source src="" type="audio/mpeg"/>
+                                    </audio>
+                                </div>
+
+                                <div><input id="wordInput" ng-class="{error: isError, correct: !isError}" type="text"
+                                            class="form-control" ng-keypress="recite($event);"></div>
+                            </div>
+                        </div>
+
+                        <div class="modal-footer">
+                            <div class="rate">
+                                <div class="rate-text">
+                                    已完成:{{curIndex}}
+                                </div>
+                                <div class="rate-progess">
+                                    <div class="progress">
+                                        <div id="finishProgress" class="progress-bar" role="progressbar"
+                                             aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%;">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <button id="closeReciteBtn" type="button" class="btn btn-primary"
+                                    data-dismiss="modal">关闭
+                            </button>
+
+
+                        </div>
+                    </div>
+                    <!-- /.modal-content -->
+                </div>
+                <!-- /.modal -->
+
+
+                <div class="col-md-2">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="fill-foot">
+    </div>
+    <!--tool JS-->
+    <script type="text/javascript" src="/static/app/vender/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/app/vender/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/static/app/vender/angularJS/angular.js"></script>
+
+    <!--my JS-->
+    <script type="text/javascript" src="/static/app/scripts/controllers.js"></script>
+    <script type="text/javascript" src="/static/app/scripts/services.js"></script>
+</body>
+</html>

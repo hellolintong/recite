@@ -1,0 +1,36 @@
+.error{
+    border: solid #ff0000;
+}
+.correct{
+    border: thin #ffffff;
+}
+
+.recite-board{
+    width: 80%;
+    height: 50%;
+    margin: 0 auto;
+}
+.recite{
+    padding-left: 20%;
+    text-align: left;
+}
+.modal-title{
+    text-align: center;
+}
+.rate{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.rate-text{
+    float:left;
+    margin-left: 0;
+    margin-right: 20px;
+    width: 20%;
+
+}
+.rate-progress{
+    float: left;
+    margin-right: 0;
+    margin-left: 20px;
+    width: 60%;
+}

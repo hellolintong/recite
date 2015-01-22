@@ -7,6 +7,8 @@ word_fields = {
     u"english": fields.String,
     u"sound": fields.String,
     u"sound_mark": fields.String,
+    u"category": fields.String,
+
 }
 
 category_fields = {

@@ -14,6 +14,8 @@ app = Flask(__name__)
 app.config.update(
     SECRET_KEY=Config.SECRET_KEY,
 )
+app.jinja_env.variable_start_string = u"[["
+app.jinja_env.variable_end_string = u"]]"
 
 api = Api(app)
 set_url_map(api)
@@ -23,7 +25,7 @@ app.debug = True
 
 @app.route(u"/")
 def index():
-    return u"hello"
+    return render_template(u"index.html")
 
 
 if __name__ == u"__main__":

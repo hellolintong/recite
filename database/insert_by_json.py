@@ -22,3 +22,4 @@ def insert():
                 elem[u"sound"] = elem[u"sound"].replace(u"\\", os.sep)
                 elem[u"category"] = filename[:-5]
                 word_db.add(**elem)
+        os.remove(dir_name + os.sep + filename)

@@ -1,0 +1,2186 @@
+[
+    {
+        "sound": "456\\1\\1_0.mp3", 
+        "sound_mark": "[kwait]", 
+        "chinese": "adv. 完全，十分，相当，很", 
+        "english": "quite"
+    }, 
+    {
+        "sound": "456\\1\\1_1.mp3", 
+        "sound_mark": "['kwaiət]", 
+        "chinese": "n. 安静，闲适，平静adj. 安静的，静止的，宁静的adv. 安静地v. 使 ... 平静，使 ... 安心", 
+        "english": "quiet"
+    }, 
+    {
+        "sound": "456\\1\\1_2.mp3", 
+        "sound_mark": "[ə'fekt]", 
+        "chinese": "vt. 影响，作用，感动", 
+        "english": "affect"
+    }, 
+    {
+        "sound": "456\\1\\1_3.mp3", 
+        "sound_mark": "[i'fekt]", 
+        "chinese": "n. 结果，影响，效果; 要旨vt. 招致，引起; 实现，达到n. (pl.) 财产，动产", 
+        "english": "effect"
+    }, 
+    {
+        "sound": "456\\1\\1_4.mp3", 
+        "sound_mark": "[ə'dæpt]", 
+        "chinese": "vt. 使适应，改编vi. 适应，适合", 
+        "english": "adapt"
+    }, 
+    {
+        "sound": "456\\1\\1_5.mp3", 
+        "sound_mark": "[ə'dɔpt]", 
+        "chinese": "v. 采用，收养，接受", 
+        "english": "adopt"
+    }, 
+    {
+        "sound": "456\\1\\1_6.mp3", 
+        "sound_mark": "[ə'dept]", 
+        "chinese": "adj. 熟练的，老练的n. 名手，专家", 
+        "english": "adept"
+    }, 
+    {
+        "sound": "456\\1\\1_7.mp3", 
+        "sound_mark": "['eindʒəl]", 
+        "chinese": "n. 天使，天使般的人", 
+        "english": "angel"
+    }, 
+    {
+        "sound": "456\\1\\1_8.mp3", 
+        "sound_mark": "['æŋgl]", 
+        "chinese": "n. 角，角度v. 钓鱼，谋取，转变角度Anglen. 盎格鲁人", 
+        "english": "angle"
+    }, 
+    {
+        "sound": "456\\1\\1_9.mp3", 
+        "sound_mark": "['dɛəri]", 
+        "chinese": "n. 牛奶场，乳品店，乳制品adj. 牛奶的，乳制品的", 
+        "english": "dairy"
+    }, 
+    {
+        "sound": "456\\1\\1_10.mp3", 
+        "sound_mark": "['daiəri]", 
+        "chinese": "n. 日记，日记簿", 
+        "english": "diary"
+    }, 
+    {
+        "sound": "456\\1\\1_11.mp3", 
+        "sound_mark": "[kən'tend]", 
+        "chinese": "vi. 奋斗，斗争，辩论vt. 坚持认为，竞争", 
+        "english": "contend"
+    }, 
+    {
+        "sound": "456\\1\\1_12.mp3", 
+        "sound_mark": "['kɔntent,kən'tent]", 
+        "chinese": "n. 内容，目录，含量adj. 满足的，满意的vt. 使 ... 满足，使 ... 安心", 
+        "english": "content"
+    }, 
+    {
+        "sound": "456\\1\\1_13.mp3", 
+        "sound_mark": "['kɔntekst]", 
+        "chinese": "n. 上下文，环境，背景", 
+        "english": "context"
+    }, 
+    {
+        "sound": "456\\1\\1_14.mp3", 
+        "sound_mark": "['kɔntest,kən'test]", 
+        "chinese": "n. 竞赛，比赛vt. 竞赛，争取vi. 奋斗", 
+        "english": "contest"
+    }, 
+    {
+        "sound": "456\\2\\2_0.mp3", 
+        "sound_mark": "['prinsəpəl]", 
+        "chinese": "adj. 主要的，首要的n. 负责人，首长，校长，本金，资本", 
+        "english": "principal"
+    }, 
+    {
+        "sound": "456\\2\\2_1.mp3", 
+        "sound_mark": "['prinsəpl]", 
+        "chinese": "n. 原则，原理，主义，信念", 
+        "english": "principle"
+    }, 
+    {
+        "sound": "456\\2\\2_2.mp3", 
+        "sound_mark": "[im'plisit]", 
+        "chinese": "adj. 含蓄的，暗示的，固有的，无疑问的，无保留的，绝对的", 
+        "english": "implicit"
+    }, 
+    {
+        "sound": "456\\2\\2_3.mp3", 
+        "sound_mark": "[iks'plisit]", 
+        "chinese": "adj. 明确的，详述的，明晰的，外在的", 
+        "english": "explicit"
+    }, 
+    {
+        "sound": "456\\2\\2_4.mp3", 
+        "sound_mark": "[di'zə:t]", 
+        "chinese": "n. 甜食", 
+        "english": "dessert"
+    }, 
+    {
+        "sound": "456\\2\\2_5.mp3", 
+        "sound_mark": "['dezət,di'zə:t]", 
+        "chinese": "n. 沙漠，荒地，应得(的惩罚或奖励)adj. 沙漠的，荒凉的vt. 遗弃vi. 擅离职守", 
+        "english": "desert"
+    }, 
+    {
+        "sound": "456\\2\\2_6.mp3", 
+        "sound_mark": "[di'sə:t]", 
+        "chinese": "vi. 论述，讨论，写论文，作学术讲演", 
+        "english": "dissert"
+    }, 
+    {
+        "sound": "456\\2\\2_7.mp3", 
+        "sound_mark": "[pæt]", 
+        "chinese": "n. 轻拍，轻打，拍打声，小块v. 轻拍，抚摸，拍打\t\t\tadv. 适时，彻底adj. 油腔滑调的，恰好的，合适的", 
+        "english": "pat"
+    }, 
+    {
+        "sound": "456\\2\\2_8.mp3", 
+        "sound_mark": "[tæp]", 
+        "chinese": "n. 龙头，塞子，窃听n. 轻拍，轻敲，鞋掌v. 轻拍，轻击，补鞋掌，选择v. 装龙头，窃听，利用，开发", 
+        "english": "tap"
+    }, 
+    {
+        "sound": "456\\2\\2_9.mp3", 
+        "sound_mark": "[slæp]", 
+        "chinese": "n. 掴，侮辱，拍击声vt. 拍击，侮辱，惩罚，申斥adv. 正面地，直接地，突然地", 
+        "english": "slap"
+    }, 
+    {
+        "sound": "456\\2\\2_10.mp3", 
+        "sound_mark": "[ræp]", 
+        "chinese": "n. 轻敲，拍击，责骂，厉声说出，说唱音乐，谈话，最少量vi. 轻敲，敲门，表演说唱音乐，畅谈vt. 抓，抢，拍击", 
+        "english": "rap"
+    }, 
+    {
+        "sound": "456\\2\\2_11.mp3", 
+        "sound_mark": "['di:snt]", 
+        "chinese": "adj. 体面的，正派的，得体的，相当好的", 
+        "english": "decent"
+    }, 
+    {
+        "sound": "456\\2\\2_12.mp3", 
+        "sound_mark": "[di'sent]", 
+        "chinese": "n. 下落，家世，倾斜，侵袭", 
+        "english": "descent"
+    }, 
+    {
+        "sound": "456\\2\\2_13.mp3", 
+        "sound_mark": "[di'send]", 
+        "chinese": "v. 降，传，降临", 
+        "english": "descend"
+    }, 
+    {
+        "sound": "456\\2\\2_14.mp3", 
+        "sound_mark": "[swi:t]", 
+        "chinese": "adj. 甜的，可爱的n. 糖，甜食\t\t\tadv. 甜蜜地", 
+        "english": "sweet"
+    }, 
+    {
+        "sound": "456\\3\\3_0.mp3", 
+        "sound_mark": "[swet]", 
+        "chinese": "n. 汗，汗水v. (使)出汗\t\t\tn. (凝结在物体表面的)水珠，焦急，繁重工作vt. 使渗出，榨取，逼问，使焦虑vi. 渗出，焦躁，辛苦工作", 
+        "english": "sweat"
+    }, 
+    {
+        "sound": "456\\3\\3_1.mp3", 
+        "sound_mark": "['leitə]", 
+        "chinese": "adj. 更迟的，后面的adv. 稍后，后来，迟到地", 
+        "english": "later"
+    }, 
+    {
+        "sound": "456\\3\\3_2.mp3", 
+        "sound_mark": "['lætə]", 
+        "chinese": "adj. 后面的，后者的", 
+        "english": "latter"
+    }, 
+    {
+        "sound": "456\\3\\3_3.mp3", 
+        "sound_mark": "['leitist]", 
+        "chinese": "adj. 最近的，最新的，最后的，最迟的n. 最迟的时间，最新的潮流形容词late的最高级形式", 
+        "english": "latest"
+    }, 
+    {
+        "sound": "456\\3\\3_4.mp3", 
+        "sound_mark": "['leitli]", 
+        "chinese": "adv. 最近，不久前", 
+        "english": "lately"
+    }, 
+    {
+        "sound": "456\\3\\3_5.mp3", 
+        "sound_mark": "['kɔstju:m]", 
+        "chinese": "n. 服装，剧装vt. 提供服装，为 ... 设计服装adj. 服装打扮的", 
+        "english": "costume"
+    }, 
+    {
+        "sound": "456\\3\\3_6.mp3", 
+        "sound_mark": "['kʌstəm]", 
+        "chinese": "n. 习惯，风俗，惯例（复）customs: 海关，关税adj. 定做的，定制的", 
+        "english": "custom"
+    }, 
+    {
+        "sound": "456\\3\\3_7.mp3", 
+        "sound_mark": "[iks'tensiv]", 
+        "chinese": "adj. 广泛的，广阔的，广大的", 
+        "english": "extensive"
+    }, 
+    {
+        "sound": "456\\3\\3_8.mp3", 
+        "sound_mark": "[in'tensiv]", 
+        "chinese": "adj. 强烈的，密集的，精细的，强调的n. (语法)强调成份", 
+        "english": "intensive"
+    }, 
+    {
+        "sound": "456\\3\\3_9.mp3", 
+        "sound_mark": "['ɔ:rəl]", 
+        "chinese": "adj. 耳的，听觉的", 
+        "english": "aural"
+    }, 
+    {
+        "sound": "456\\3\\3_10.mp3", 
+        "sound_mark": "['ɔ:rəl]", 
+        "chinese": "adj. 口头的，口语的，口部的n. 口试", 
+        "english": "oral"
+    }, 
+    {
+        "sound": "456\\3\\3_11.mp3", 
+        "sound_mark": "[ə'brɔ:d]", 
+        "chinese": "adj. 在国外，海外(一般作表语)adv. 到国外，广为流传", 
+        "english": "abroad"
+    }, 
+    {
+        "sound": "456\\3\\3_12.mp3", 
+        "sound_mark": "[ə'bɔ:d]", 
+        "chinese": "adv. 在船上，在火车上，在飞机上prep. 上船，上飞机，上车", 
+        "english": "aboard"
+    }, 
+    {
+        "sound": "456\\3\\3_13.mp3", 
+        "sound_mark": "['ɔ:ltə]", 
+        "chinese": "n. (教堂内的)圣坛，祭坛", 
+        "english": "altar"
+    }, 
+    {
+        "sound": "456\\3\\3_14.mp3", 
+        "sound_mark": "['ɔ:ltə]", 
+        "chinese": "v. 改变，更改，阉割，切除", 
+        "english": "alter"
+    }, 
+    {
+        "sound": "456\\4\\4_0.mp3", 
+        "sound_mark": "[ə'sent]", 
+        "chinese": "n. 同意，赞成vi. 赞成", 
+        "english": "assent"
+    }, 
+    {
+        "sound": "456\\4\\4_1.mp3", 
+        "sound_mark": "[ə'sent]", 
+        "chinese": "n. 上升，上坡路，晋升，提升，追溯", 
+        "english": "ascent"
+    }, 
+    {
+        "sound": "456\\4\\4_2.mp3", 
+        "sound_mark": "['æksənt]", 
+        "chinese": "n. 重音，口音，强调vt. 重读，强调", 
+        "english": "accent"
+    }, 
+    {
+        "sound": "456\\4\\4_3.mp3", 
+        "sound_mark": "['tʃæmpjən]", 
+        "chinese": "n. 冠军，优胜者，拥护者，勇士vt. 保卫，拥护，为 ... 而斗争", 
+        "english": "champion"
+    }, 
+    {
+        "sound": "456\\4\\4_4.mp3", 
+        "sound_mark": "[ʃæm'pein]", 
+        "chinese": "n. 香槟酒，香槟色", 
+        "english": "champagne"
+    }, 
+    {
+        "sound": "456\\4\\4_5.mp3", 
+        "sound_mark": "[kæm'pein]", 
+        "chinese": "n. 运动，活动，战役，竞选运动v. 从事运动，参加竞选", 
+        "english": "campaign"
+    }, 
+    {
+        "sound": "456\\4\\4_6.mp3", 
+        "sound_mark": "['bærən]", 
+        "chinese": "n. 男爵(英国世袭的最低级的贵族爵位)", 
+        "english": "baron"
+    }, 
+    {
+        "sound": "456\\4\\4_7.mp3", 
+        "sound_mark": "['bærən]", 
+        "chinese": "adj. 不育的，贫瘠的", 
+        "english": "barren"
+    }, 
+    {
+        "sound": "456\\4\\4_8.mp3", 
+        "sound_mark": "[bɑ:n]", 
+        "chinese": "n. 谷仓，牲口棚，车库，大而空荡的农屋", 
+        "english": "barn"
+    }, 
+    {
+        "sound": "456\\4\\4_9.mp3", 
+        "sound_mark": "[bi:m]", 
+        "chinese": "n. 光线，(光线的)束，(横)梁，桁条vt. 用梁支撑，发射，播送vi. 微笑，发光\t\t\tn. [体]平衡木", 
+        "english": "beam"
+    }, 
+    {
+        "sound": "456\\4\\4_10.mp3", 
+        "sound_mark": "[bi:n]", 
+        "chinese": "n. 豆，豆科植物\t\t\tn. 毫无价值的东西vt. 击...的头部", 
+        "english": "bean"
+    }, 
+    {
+        "sound": "456\\4\\4_11.mp3", 
+        "sound_mark": "[pri(:)'si:d]", 
+        "chinese": "vt. 在 ... 之前，优于，较 ... 优先vi. 领先，在前面", 
+        "english": "precede"
+    }, 
+    {
+        "sound": "456\\4\\4_12.mp3", 
+        "sound_mark": "[prə'si:d]", 
+        "chinese": "vi. 继续进行，开始，着手", 
+        "english": "proceed"
+    }, 
+    {
+        "sound": "456\\4\\4_13.mp3", 
+        "sound_mark": "[prei]", 
+        "chinese": "v. 祈祷，祈求，恳求，请求", 
+        "english": "pray"
+    }, 
+    {
+        "sound": "456\\4\\4_14.mp3", 
+        "sound_mark": "[prei]", 
+        "chinese": "n. 被掠食者，牺牲者vi. 捕食，掠夺，使 ... 苦恼", 
+        "english": "prey"
+    }, 
+    {
+        "sound": "456\\5\\5_0.mp3", 
+        "sound_mark": "['tʃikin]", 
+        "chinese": "n. 鸡，鸡肉n. 胆小者，懦夫adj. 懦弱的，胆小的vi. 失去勇气\t\t\tn. 少女，小妞", 
+        "english": "chicken"
+    }, 
+    {
+        "sound": "456\\5\\5_1.mp3", 
+        "sound_mark": "['kitʃin]", 
+        "chinese": "n. 厨房，(全套)炊具，灶间", 
+        "english": "kitchen"
+    }, 
+    {
+        "sound": "456\\5\\5_2.mp3", 
+        "sound_mark": "['mʌŋki]", 
+        "chinese": "n. 猴子，猴一样的人v. 模仿，嘲弄，胡闹\t\t\tn. 吸毒成瘾", 
+        "english": "monkey"
+    }, 
+    {
+        "sound": "456\\5\\5_3.mp3", 
+        "sound_mark": "['dɔŋki]", 
+        "chinese": "n. 驴，愚蠢的人", 
+        "english": "donkey"
+    }, 
+    {
+        "sound": "456\\5\\5_4.mp3", 
+        "sound_mark": "[tʃɔ:]", 
+        "chinese": "n. 零工，琐事", 
+        "english": "chore"
+    }, 
+    {
+        "sound": "456\\5\\5_5.mp3", 
+        "sound_mark": "[kɔ:d]", 
+        "chinese": "n. 弦，和音，情绪", 
+        "english": "chord"
+    }, 
+    {
+        "sound": "456\\5\\5_6.mp3", 
+        "sound_mark": "[kɔ:d]", 
+        "chinese": "n. 绳，索，束缚\t\t\tn. 灯芯绒vt. 捆绑，成捆堆积", 
+        "english": "cord"
+    }, 
+    {
+        "sound": "456\\5\\5_7.mp3", 
+        "sound_mark": "[sait]", 
+        "chinese": "vt. 引用，引证，举(例)", 
+        "english": "cite"
+    }, 
+    {
+        "sound": "456\\5\\5_8.mp3", 
+        "sound_mark": "[sait]", 
+        "chinese": "n. 位置，现场vt. 使 ... 位于", 
+        "english": "site"
+    }, 
+    {
+        "sound": "456\\5\\5_9.mp3", 
+        "sound_mark": "[sait]", 
+        "chinese": "n. 情景，景物，视力v. 看见，观测，瞄准", 
+        "english": "sight"
+    }, 
+    {
+        "sound": "456\\5\\5_10.mp3", 
+        "sound_mark": "[klæʃ]", 
+        "chinese": "n. 冲突，撞击声，抵触vt. 冲突，抵触，使 ... 发出撞击声vi. 引起冲突", 
+        "english": "clash"
+    }, 
+    {
+        "sound": "456\\5\\5_11.mp3", 
+        "sound_mark": "[kræʃ]", 
+        "chinese": "v. 撞碎，猛使 ... 破碎，迫降，发出巨响n. 轰隆声，猛撞，崩溃，破产，垮台adj. 速成的n. 粗布", 
+        "english": "crash"
+    }, 
+    {
+        "sound": "456\\5\\5_12.mp3", 
+        "sound_mark": "[krʌʃ]", 
+        "chinese": "v. 压碎，碾碎，压榨n. 压碎，压榨，拥挤，迷恋", 
+        "english": "crush"
+    }, 
+    {
+        "sound": "456\\5\\5_13.mp3", 
+        "sound_mark": "['kɔmplimənt]", 
+        "chinese": "n. 称赞，恭维，(复数)致意vt. 称赞，恭维", 
+        "english": "compliment"
+    }, 
+    {
+        "sound": "456\\5\\5_14.mp3", 
+        "sound_mark": "['kɔmplimənt]", 
+        "chinese": "n. 补足物，补语，余角vt. 辅助", 
+        "english": "complement"
+    }, 
+    {
+        "sound": "456\\6\\6_0.mp3", 
+        "sound_mark": "[kən'fə:m]", 
+        "chinese": "v. 确定，批准，证实", 
+        "english": "confirm"
+    }, 
+    {
+        "sound": "456\\6\\6_1.mp3", 
+        "sound_mark": "[kən'fɔ:m]", 
+        "chinese": "vt. 使一致，遵守，使顺从vi. 一致，符合", 
+        "english": "conform"
+    }, 
+    {
+        "sound": "456\\6\\6_2.mp3", 
+        "sound_mark": "['kɔntækt]", 
+        "chinese": "n. 接触，联系; 联系人v. (与)联系，(与)接触adj. 接触的", 
+        "english": "contact"
+    }, 
+    {
+        "sound": "456\\6\\6_3.mp3", 
+        "sound_mark": "['kɔntrækt,kən'trækt]", 
+        "chinese": "n. 合同，契约，婚约，合约v. 订合同，缩短，缩小，感染（疾病），招致", 
+        "english": "contract"
+    }, 
+    {
+        "sound": "456\\6\\6_4.mp3", 
+        "sound_mark": "['kɔntræst,kən'træst]", 
+        "chinese": "n. 差别，对比，对照物v. 对比，成对照[计算机] 反差", 
+        "english": "contrast"
+    }, 
+    {
+        "sound": "456\\6\\6_5.mp3", 
+        "sound_mark": "['kaunsil]", 
+        "chinese": "n. 理事会，委员会，商议", 
+        "english": "council"
+    }, 
+    {
+        "sound": "456\\6\\6_6.mp3", 
+        "sound_mark": "['kaunsəl]", 
+        "chinese": "n. 商议，忠告，法律顾问v. 商议，劝告", 
+        "english": "counsel"
+    }, 
+    {
+        "sound": "456\\6\\6_7.mp3", 
+        "sound_mark": "['kɔnsəl]", 
+        "chinese": "n. 领事，（古罗马）执行官员，（1799年至1804年间法国的）三名主要执政官之一", 
+        "english": "consul"
+    }, 
+    {
+        "sound": "456\\6\\6_8.mp3", 
+        "sound_mark": "[krəu]", 
+        "chinese": "n. 啼叫，乌鸦，欢叫vi. 啼叫，报晓，欢叫vt. 洋洋夸口，自鸣得意", 
+        "english": "crow"
+    }, 
+    {
+        "sound": "456\\6\\6_9.mp3", 
+        "sound_mark": "[kraun]", 
+        "chinese": "n. 王冠，王权，顶点，花冠vt. 使 ... 成王，加冕，居 ... 之顶，为牙齿镶上假齿冠vi. 火迅速烧到树的顶端", 
+        "english": "crown"
+    }, 
+    {
+        "sound": "456\\6\\6_10.mp3", 
+        "sound_mark": "[klaun]", 
+        "chinese": "n. 小丑，粗鲁愚蠢的人vi. 扮小丑，胡闹", 
+        "english": "clown"
+    }, 
+    {
+        "sound": "456\\6\\6_11.mp3", 
+        "sound_mark": "[kau]", 
+        "chinese": "n. 母牛，母兽vt. 恐吓", 
+        "english": "cow"
+    }, 
+    {
+        "sound": "456\\6\\6_12.mp3", 
+        "sound_mark": "[dəus]", 
+        "chinese": "n. 剂量，一剂，一服vt. 给 ... 服药\t\t\tn. 花柳病", 
+        "english": "dose"
+    }, 
+    {
+        "sound": "456\\6\\6_13.mp3", 
+        "sound_mark": "[dəuz]", 
+        "chinese": "v. 打瞌睡，假寐n. 瞌睡", 
+        "english": "doze"
+    }, 
+    {
+        "sound": "456\\6\\6_14.mp3", 
+        "sound_mark": "[drɔ:n]", 
+        "chinese": "adj. 拔出的v. 画，绘图（draw的过去分词）", 
+        "english": "drawn"
+    }, 
+    {
+        "sound": "456\\7\\7_0.mp3", 
+        "sound_mark": "[drɔ:]", 
+        "chinese": "v. (drew, drawn) 拉，拖，挨近，提取，画，绘制n. 平局; 抽签; 拉，拽吸引人的事物", 
+        "english": "draw"
+    }, 
+    {
+        "sound": "456\\7\\7_1.mp3", 
+        "sound_mark": "[draun]", 
+        "chinese": "vt. 淹死，沉浸于，vi. 淹死", 
+        "english": "drown"
+    }, 
+    {
+        "sound": "456\\7\\7_2.mp3", 
+        "sound_mark": "['emigrənt]", 
+        "chinese": "n. 移民，侨民adj. 移民的，移居的", 
+        "english": "emigrant"
+    }, 
+    {
+        "sound": "456\\7\\7_3.mp3", 
+        "sound_mark": "['imigrənt]", 
+        "chinese": "n. 移民，侨民\t\t\tadj. 移民的", 
+        "english": "immigrant"
+    }, 
+    {
+        "sound": "456\\7\\7_4.mp3", 
+        "sound_mark": "[ik'ses, 'ekses]", 
+        "chinese": "n. 过量，超过，过剩adj. 过量的，额外的", 
+        "english": "excess"
+    }, 
+    {
+        "sound": "456\\7\\7_5.mp3", 
+        "sound_mark": "[ik'si:d]", 
+        "chinese": "vt. 超过，胜过，超出界限vi. 领先", 
+        "english": "exceed"
+    }, 
+    {
+        "sound": "456\\7\\7_6.mp3", 
+        "sound_mark": "[ik'sel]", 
+        "chinese": "vt. 超过，优于vi. 胜出n. [计] 电子表格（软件名称）", 
+        "english": "excel"
+    }, 
+    {
+        "sound": "456\\7\\7_7.mp3", 
+        "sound_mark": "[həu'tel]", 
+        "chinese": "n. 旅馆，宾馆，酒店，饭店", 
+        "english": "hotel"
+    }, 
+    {
+        "sound": "456\\7\\7_8.mp3", 
+        "sound_mark": "['hɔstəl]", 
+        "chinese": "n. 招待所", 
+        "english": "hostel"
+    }, 
+    {
+        "sound": "456\\7\\7_9.mp3", 
+        "sound_mark": "['lætitju:d]", 
+        "chinese": "n. 纬度，界限，自由选择权", 
+        "english": "latitude"
+    }, 
+    {
+        "sound": "456\\7\\7_10.mp3", 
+        "sound_mark": "['æltitju:d]", 
+        "chinese": "n. 高度，海拔，高地", 
+        "english": "altitude"
+    }, 
+    {
+        "sound": "456\\7\\7_11.mp3", 
+        "sound_mark": "['grætitju:d]", 
+        "chinese": "n. 感恩之心", 
+        "english": "gratitude"
+    }, 
+    {
+        "sound": "456\\7\\7_12.mp3", 
+        "sound_mark": "[i'mɔ:rəl]", 
+        "chinese": "adj. 不道德的", 
+        "english": "immoral"
+    }, 
+    {
+        "sound": "456\\7\\7_13.mp3", 
+        "sound_mark": "[i'mɔ:tl]", 
+        "chinese": "adj. 不朽的n. 不朽的人物", 
+        "english": "immortal"
+    }, 
+    {
+        "sound": "456\\7\\7_14.mp3", 
+        "sound_mark": "[ləun]", 
+        "chinese": "adj. 孤单的，孤立的，单身的，唯一的，单独的", 
+        "english": "lone"
+    }, 
+    {
+        "sound": "456\\8\\8_0.mp3", 
+        "sound_mark": "[ə'ləun]", 
+        "chinese": "adj. 单独的，孤单的，独自一人的adv. 独自地", 
+        "english": "alone"
+    }, 
+    {
+        "sound": "456\\8\\8_1.mp3", 
+        "sound_mark": "['ləunli]", 
+        "chinese": "adj. 独自的，寂寞的，荒凉的", 
+        "english": "lonely"
+    }, 
+    {
+        "sound": "456\\8\\8_2.mp3", 
+        "sound_mark": "['mɔ:tl]", 
+        "chinese": "adj. 人世间的，致命的，终有一死的，极度恐怖的n. 一个人", 
+        "english": "mortal"
+    }, 
+    {
+        "sound": "456\\8\\8_3.mp3", 
+        "sound_mark": "['metl]", 
+        "chinese": "n. 金属，合金，玻璃液vt. (以金属)覆盖、装配", 
+        "english": "metal"
+    }, 
+    {
+        "sound": "456\\8\\8_4.mp3", 
+        "sound_mark": "['mentl]", 
+        "chinese": "adj. 精神的，脑力的，精神错乱的n. 精神病患者\t\t\tadj. 发疯的adj. 下巴的", 
+        "english": "mental"
+    }, 
+    {
+        "sound": "456\\8\\8_5.mp3", 
+        "sound_mark": "['medl]", 
+        "chinese": "n. 奖章，勋章，纪念章vi. 获得奖章", 
+        "english": "medal"
+    }, 
+    {
+        "sound": "456\\8\\8_6.mp3", 
+        "sound_mark": "['mɔdl]", 
+        "chinese": "n. 模型，模范，模特儿adj. 模范的，作模型用的v. 做模型，塑造，模仿", 
+        "english": "model"
+    }, 
+    {
+        "sound": "456\\8\\8_7.mp3", 
+        "sound_mark": "['medl]", 
+        "chinese": "vi. 干预，干涉，插手", 
+        "english": "meddle"
+    }, 
+    {
+        "sound": "456\\8\\8_8.mp3", 
+        "sound_mark": "[skɛə]", 
+        "chinese": "v. 受惊吓，恐吓n. 惊吓，惊恐", 
+        "english": "scare"
+    }, 
+    {
+        "sound": "456\\8\\8_9.mp3", 
+        "sound_mark": "[skɛəs]", 
+        "chinese": "adj. 缺乏的，不足的，稀少的，罕见的adv. 勉强", 
+        "english": "scarce"
+    }, 
+    {
+        "sound": "456\\8\\8_10.mp3", 
+        "sound_mark": "[draut]", 
+        "chinese": "n. 干旱", 
+        "english": "drought"
+    }, 
+    {
+        "sound": "456\\8\\8_11.mp3", 
+        "sound_mark": "[drɑ:ft]", 
+        "chinese": "n. 气流，草稿，汇票v. 起草，徵兵", 
+        "english": "draught"
+    }, 
+    {
+        "sound": "456\\8\\8_12.mp3", 
+        "sound_mark": "[drɑ:fts, 'dræfts]", 
+        "chinese": "n. 国际跳棋", 
+        "english": "draughts"
+    }, 
+    {
+        "sound": "456\\8\\8_13.mp3", 
+        "sound_mark": "[ə'ʃuə]", 
+        "chinese": "vt. 使确信，使放心，确保", 
+        "english": "assure"
+    }, 
+    {
+        "sound": "456\\8\\8_14.mp3", 
+        "sound_mark": "[in'ʃuə]", 
+        "chinese": "vt. 保证，确保，担保，使安全", 
+        "english": "ensure"
+    }, 
+    {
+        "sound": "456\\9\\9_0.mp3", 
+        "sound_mark": "[in'ʃuə]", 
+        "chinese": "vt. 保险，确保vi. 买保险", 
+        "english": "insure"
+    }, 
+    {
+        "sound": "456\\9\\9_1.mp3", 
+        "sound_mark": "[ik'sept]", 
+        "chinese": "vt. 除，除外prep. & conj. 除了 ... 之外，若不是，除非", 
+        "english": "except"
+    }, 
+    {
+        "sound": "456\\9\\9_2.mp3", 
+        "sound_mark": "[iks'pekt]", 
+        "chinese": "v. 预期，盼望，期待", 
+        "english": "expect"
+    }, 
+    {
+        "sound": "456\\9\\9_3.mp3", 
+        "sound_mark": "[ək'sept]", 
+        "chinese": "vt. 接受，同意，承担(责任等)vi. 接受", 
+        "english": "accept"
+    }, 
+    {
+        "sound": "456\\9\\9_4.mp3", 
+        "sound_mark": "['eksə:pt,ek'sə:pt]", 
+        "chinese": "n. 摘录vt. 摘录，引用", 
+        "english": "excerpt"
+    }, 
+    {
+        "sound": "456\\9\\9_5.mp3", 
+        "sound_mark": "[ig'zempt]", 
+        "chinese": "n. 免税者，被免除义务者adj. 免除的vt. 免除", 
+        "english": "exempt"
+    }, 
+    {
+        "sound": "456\\9\\9_6.mp3", 
+        "sound_mark": "[flɔ:, flɔə]", 
+        "chinese": "n. 地板，楼层，底部，地面vt. 铺地板，击倒，(油门)踩到底", 
+        "english": "floor"
+    }, 
+    {
+        "sound": "456\\9\\9_7.mp3", 
+        "sound_mark": "[flauə]", 
+        "chinese": "n. 面粉v. 研成粉末", 
+        "english": "flour"
+    }, 
+    {
+        "sound": "456\\9\\9_8.mp3", 
+        "sound_mark": "['insidənt]", 
+        "chinese": "n. 事件，事变，插曲adj. 难免的，附带的\t\t\tadj. [物]入射的", 
+        "english": "incident"
+    }, 
+    {
+        "sound": "456\\9\\9_9.mp3", 
+        "sound_mark": "['æksidənt]", 
+        "chinese": "n. 事故，意外，偶然，造化", 
+        "english": "accident"
+    }, 
+    {
+        "sound": "456\\9\\9_10.mp3", 
+        "sound_mark": "[.inspə'reiʃən]", 
+        "chinese": "n. 灵感，吸入，鼓舞人心(的东西)", 
+        "english": "inspiration"
+    }, 
+    {
+        "sound": "456\\9\\9_11.mp3", 
+        "sound_mark": "[.æspə'reiʃən]", 
+        "chinese": "n. 渴望，热望，抱负，志向n. 吸气，抽吸， 吸引术", 
+        "english": "aspiration"
+    }, 
+    {
+        "sound": "456\\9\\9_12.mp3", 
+        "sound_mark": "[mɑ:tʃ]", 
+        "chinese": "n. 行军，行进，游行示威vt. 使前进，使行军vi. 行军，进军Marchn. 三月", 
+        "english": "march"
+    }, 
+    {
+        "sound": "456\\9\\9_13.mp3", 
+        "sound_mark": "[mætʃ]", 
+        "chinese": "n. 比赛，火柴，对手，般配的人，配偶v. 使 ... 相配，与 ... 竞争，相配", 
+        "english": "match"
+    }, 
+    {
+        "sound": "456\\9\\9_14.mp3", 
+        "sound_mark": "['peitənt, 'pætənt]", 
+        "chinese": "n. 专利，特许adj. 专利的，显著的vt. 批准 ... 专利，给予 ... 专利权", 
+        "english": "patent"
+    }, 
+    {
+        "sound": "456\\10\\10_0.mp3", 
+        "sound_mark": "['pəutənt]", 
+        "chinese": "adj. 强有力的，有效的", 
+        "english": "potent"
+    }, 
+    {
+        "sound": "456\\10\\10_1.mp3", 
+        "sound_mark": "[pə'tenʃəl]", 
+        "chinese": "adj. 可能的，潜在的n. 潜力，潜能n. 电位，电势", 
+        "english": "potential"
+    }, 
+    {
+        "sound": "456\\10\\10_2.mp3", 
+        "sound_mark": "[pə'li:s]", 
+        "chinese": "n. 警察，警方vt. 管辖，维持治安", 
+        "english": "police"
+    }, 
+    {
+        "sound": "456\\10\\10_3.mp3", 
+        "sound_mark": "['pɔlisi]", 
+        "chinese": "n. 政策，方针n. 保险单", 
+        "english": "policy"
+    }, 
+    {
+        "sound": "456\\10\\10_4.mp3", 
+        "sound_mark": "['pɔlitiks]", 
+        "chinese": "n. 政治，政治学，政见，政治策略，政治活动", 
+        "english": "politics"
+    }, 
+    {
+        "sound": "456\\10\\10_5.mp3", 
+        "sound_mark": "[prə'test]", 
+        "chinese": "n. 抗议，反对，声明v. 抗议，反对，申明", 
+        "english": "protest"
+    }, 
+    {
+        "sound": "456\\10\\10_6.mp3", 
+        "sound_mark": "[prə'tekt]", 
+        "chinese": "vt. 保护，投保", 
+        "english": "protect"
+    }, 
+    {
+        "sound": "456\\10\\10_7.mp3", 
+        "sound_mark": "[ri'kwaiə]", 
+        "chinese": "v. 需要，要求，命令，规定", 
+        "english": "require"
+    }, 
+    {
+        "sound": "456\\10\\10_8.mp3", 
+        "sound_mark": "[in'kwaiə]", 
+        "chinese": "vt. 询问，查究vi. 询问，查究", 
+        "english": "inquire"
+    }, 
+    {
+        "sound": "456\\10\\10_9.mp3", 
+        "sound_mark": "[in'kwaiər]", 
+        "chinese": "=inquirev. 询问，调查", 
+        "english": "enquire"
+    }, 
+    {
+        "sound": "456\\10\\10_10.mp3", 
+        "sound_mark": "[ə'kwaiə]", 
+        "chinese": "vt. 获得，取得，学到", 
+        "english": "acquire"
+    }, 
+    {
+        "sound": "456\\10\\10_11.mp3", 
+        "sound_mark": "[ri'vendʒ]", 
+        "chinese": "n. 报仇，报复，复仇愿望，获得满足的机会vt. 报仇，报复", 
+        "english": "revenge"
+    }, 
+    {
+        "sound": "456\\10\\10_12.mp3", 
+        "sound_mark": "[ə'vendʒ]", 
+        "chinese": "vt. 为 ... 报复，报仇", 
+        "english": "avenge"
+    }, 
+    {
+        "sound": "456\\10\\10_13.mp3", 
+        "sound_mark": "['stɔ:ri]", 
+        "chinese": "n. 故事，叙述，新闻报道n. 楼层(=storey)vt. 以历史事件为图案装饰", 
+        "english": "story"
+    }, 
+    {
+        "sound": "456\\10\\10_14.mp3", 
+        "sound_mark": "['stɔ:ri]", 
+        "chinese": "n. 楼层=story（美）", 
+        "english": "storey"
+    }, 
+    {
+        "sound": "456\\11\\11_0.mp3", 
+        "sound_mark": "[stɔ:, stɔr]", 
+        "chinese": "n. 商店，贮藏，仓库vt. 储存，贮藏，供给，保存adj. 储备的", 
+        "english": "store"
+    }, 
+    {
+        "sound": "456\\11\\11_1.mp3", 
+        "sound_mark": "[straik]", 
+        "chinese": "n. 罢工，打击，殴打v. 打，撞，罢工，划燃", 
+        "english": "strike"
+    }, 
+    {
+        "sound": "456\\11\\11_2.mp3", 
+        "sound_mark": "[stik]", 
+        "chinese": "n. 枝，杆，手杖vt. 插于，刺入，竖起vi. 钉住，粘贴，坚持", 
+        "english": "stick"
+    }, 
+    {
+        "sound": "456\\11\\11_3.mp3", 
+        "sound_mark": "[strikt]", 
+        "chinese": "adj. 严格的，精确的，完全的", 
+        "english": "strict"
+    }, 
+    {
+        "sound": "456\\11\\11_4.mp3", 
+        "sound_mark": "[iks'pænd]", 
+        "chinese": "v. 增加，详述，扩展，使 ... 膨胀，vi. （谈吐）放开", 
+        "english": "expand"
+    }, 
+    {
+        "sound": "456\\11\\11_5.mp3", 
+        "sound_mark": "[iks'pend]", 
+        "chinese": "vt. 花费，消耗", 
+        "english": "expend"
+    }, 
+    {
+        "sound": "456\\11\\11_6.mp3", 
+        "sound_mark": "[iks'tend]", 
+        "chinese": "v. 扩充，延伸，伸展，扩展", 
+        "english": "extend"
+    }, 
+    {
+        "sound": "456\\11\\11_7.mp3", 
+        "sound_mark": "['kɔmə:s]", 
+        "chinese": "n. 商业，贸易", 
+        "english": "commerce"
+    }, 
+    {
+        "sound": "456\\11\\11_8.mp3", 
+        "sound_mark": "[kə'mens]", 
+        "chinese": "v. 开始，着手，获得学位", 
+        "english": "commence"
+    }, 
+    {
+        "sound": "456\\11\\11_9.mp3", 
+        "sound_mark": "[θru:]", 
+        "chinese": "adv. 穿越，完全prep. 经过，穿过，凭借adj. 完成的，完结的; 贯穿的，直通的", 
+        "english": "through"
+    }, 
+    {
+        "sound": "456\\11\\11_10.mp3", 
+        "sound_mark": "['θʌrə]", 
+        "chinese": "adj. 彻底的，完全的，详尽的，精心的", 
+        "english": "thorough"
+    }, 
+    {
+        "sound": "456\\11\\11_11.mp3", 
+        "sound_mark": "[ðəu]", 
+        "chinese": "adv. 可是，然而，不过conj. 尽管，虽然", 
+        "english": "though"
+    }, 
+    {
+        "sound": "456\\11\\11_12.mp3", 
+        "sound_mark": "[θɔ:t]", 
+        "chinese": "n. 想法，思想，观念，意向动词think的过去式和过去分词", 
+        "english": "thought"
+    }, 
+    {
+        "sound": "456\\11\\11_13.mp3", 
+        "sound_mark": "[θiŋk]", 
+        "chinese": "v. 想，认为，考虑，记起n. 想", 
+        "english": "think"
+    }, 
+    {
+        "sound": "456\\11\\11_14.mp3", 
+        "sound_mark": "['pə:pəs]", 
+        "chinese": "n. 目的，意图，决心，议题vt. 打算，决意", 
+        "english": "purpose"
+    }, 
+    {
+        "sound": "456\\12\\12_0.mp3", 
+        "sound_mark": "[sə'pəuz]", 
+        "chinese": "vt. 推想，假设，以为，认为应该，获准(be suppose to), 让(虚拟语气)vi. 推测", 
+        "english": "suppose"
+    }, 
+    {
+        "sound": "456\\12\\12_1.mp3", 
+        "sound_mark": "[prə'pəuz]", 
+        "chinese": "v. 计划，打算，向 ... 提议; 求婚", 
+        "english": "propose"
+    }, 
+    {
+        "sound": "456\\12\\12_2.mp3", 
+        "sound_mark": "[ri'spekt]", 
+        "chinese": "n. 尊敬，敬重; 关系，方面vt. 尊敬，尊重; 关于，涉及", 
+        "english": "respect"
+    }, 
+    {
+        "sound": "456\\12\\12_3.mp3", 
+        "sound_mark": "['æspekt]", 
+        "chinese": "n. 方面，外貌，外观; 方位，方向", 
+        "english": "aspect"
+    }, 
+    {
+        "sound": "456\\12\\12_4.mp3", 
+        "sound_mark": "[in'spekt]", 
+        "chinese": "vt. 调查，检阅vi. 调查", 
+        "english": "inspect"
+    }, 
+    {
+        "sound": "456\\12\\12_5.mp3", 
+        "sound_mark": "[səs'pekt]", 
+        "chinese": "n. 嫌疑犯adj. 令人怀疑的，不可信的v. 怀疑，猜想", 
+        "english": "suspect"
+    }, 
+    {
+        "sound": "456\\12\\12_6.mp3", 
+        "sound_mark": "[glaid]", 
+        "chinese": "n. 滑动，滑过，流水v. 滑动，滑翔，溜走", 
+        "english": "glide"
+    }, 
+    {
+        "sound": "456\\12\\12_7.mp3", 
+        "sound_mark": "[slaid]", 
+        "chinese": "vi. 滑，滑动，滑入，悄悄地溜走vt. 使滑动n. 幻灯片，滑动，滑坡，雪崩", 
+        "english": "slide"
+    }, 
+    {
+        "sound": "456\\12\\12_8.mp3", 
+        "sound_mark": "[slip]", 
+        "chinese": "v. 滑倒，溜走，疏忽，滑脱n. 滑倒，溜走，疏忽，失误\t\t\tn. 枕头套，衬裙n. 纸片，插条", 
+        "english": "slip"
+    }, 
+    {
+        "sound": "456\\12\\12_9.mp3", 
+        "sound_mark": "[sti:l]", 
+        "chinese": "v. 偷，窃取n. 偷窃，便宜货，(欺诈的)政治交易", 
+        "english": "steal"
+    }, 
+    {
+        "sound": "456\\12\\12_10.mp3", 
+        "sound_mark": "[sti:l]", 
+        "chinese": "n. 钢铁，钢制品vt. 使 ... 硬如钢，使坚强，使下定决心adj. 钢的", 
+        "english": "steel"
+    }, 
+    {
+        "sound": "456\\12\\12_11.mp3", 
+        "sound_mark": "[straiv]", 
+        "chinese": "vi. 奋斗，努力，力求", 
+        "english": "strive"
+    }, 
+    {
+        "sound": "456\\12\\12_12.mp3", 
+        "sound_mark": "[straid]", 
+        "chinese": "n. 步伐，一大步，大步走，进步vt. 跨骑，跨vi. 岔开腿站立，迈大步走，跨过", 
+        "english": "stride"
+    }, 
+    {
+        "sound": "456\\12\\12_13.mp3", 
+        "sound_mark": "[ə'lu:ʒən]", 
+        "chinese": "n. 暗指，暗示", 
+        "english": "allusion"
+    }, 
+    {
+        "sound": "456\\12\\12_14.mp3", 
+        "sound_mark": "[i'lu:ʒən]", 
+        "chinese": "n. 幻觉，错觉，错误的信仰(或观念)", 
+        "english": "illusion"
+    }, 
+    {
+        "sound": "456\\13\\13_0.mp3", 
+        "sound_mark": "[di'lu:ʒən]", 
+        "chinese": "n. 错觉", 
+        "english": "delusion"
+    }, 
+    {
+        "sound": "456\\13\\13_1.mp3", 
+        "sound_mark": "[i'lju:ʒən]", 
+        "chinese": "n. 逃避；回避", 
+        "english": "elusion"
+    }, 
+    {
+        "sound": "456\\13\\13_2.mp3", 
+        "sound_mark": "['prɔspekt]", 
+        "chinese": "n. 景色，希望，展望v. 探勘，寻找", 
+        "english": "prospect"
+    }, 
+    {
+        "sound": "456\\13\\13_3.mp3", 
+        "sound_mark": "[pə'spektiv]", 
+        "chinese": "n. 远景，看法，透视adj. 透视的", 
+        "english": "perspective"
+    }, 
+    {
+        "sound": "456\\13\\13_4.mp3", 
+        "sound_mark": "['steiʃənəri]", 
+        "chinese": "n. 文具，信笺", 
+        "english": "stationery"
+    }, 
+    {
+        "sound": "456\\13\\13_5.mp3", 
+        "sound_mark": "['steiʃənəri]", 
+        "chinese": "adj. 不动的(稳定的)n. 固定物(驻军)", 
+        "english": "stationary"
+    }, 
+    {
+        "sound": "456\\13\\13_6.mp3", 
+        "sound_mark": "[lu:s]", 
+        "chinese": "n. 解放，放任，放纵adj. 宽松的，不牢固的，不精确的v. 释放，放枪，开船", 
+        "english": "loose"
+    }, 
+    {
+        "sound": "456\\13\\13_7.mp3", 
+        "sound_mark": "[lu:z]", 
+        "chinese": "vt. 遗失，损失，失败，摆脱vi. 丢失，失败[计算机] 失去", 
+        "english": "lose"
+    }, 
+    {
+        "sound": "456\\13\\13_8.mp3", 
+        "sound_mark": "[lɔs]", 
+        "chinese": "n. 丧失，遗失，损失", 
+        "english": "loss"
+    }, 
+    {
+        "sound": "456\\13\\13_9.mp3", 
+        "sound_mark": "[lɔst]", 
+        "chinese": "adj. 丢失的，迷路的", 
+        "english": "lost"
+    }, 
+    {
+        "sound": "456\\13\\13_10.mp3", 
+        "sound_mark": "[ə'mend]", 
+        "chinese": "v. 修正，改进", 
+        "english": "amend"
+    }, 
+    {
+        "sound": "456\\13\\13_11.mp3", 
+        "sound_mark": "[i'mend]", 
+        "chinese": "vt. 修订，校订", 
+        "english": "emend"
+    }, 
+    {
+        "sound": "456\\13\\13_12.mp3", 
+        "sound_mark": "[ə'mɔrəl]", 
+        "chinese": "adj. 与道德无关的，超道德的", 
+        "english": "amoral"
+    }, 
+    {
+        "sound": "456\\13\\13_13.mp3", 
+        "sound_mark": "[,ʌn'mɔrəl]", 
+        "chinese": "adj. 不道德的；无道德观念的", 
+        "english": "unmoral"
+    }, 
+    {
+        "sound": "456\\13\\13_14.mp3", 
+        "sound_mark": "", 
+        "chinese": "n. 美国国会大厦；（美国）州议会大厦", 
+        "english": "capitol"
+    }, 
+    {
+        "sound": "456\\14\\14_0.mp3", 
+        "sound_mark": "['kæpitl]", 
+        "chinese": "n. 首都，资本，大写字母adj. 大写的，资本的，首要的", 
+        "english": "capital"
+    }, 
+    {
+        "sound": "456\\14\\14_1.mp3", 
+        "sound_mark": "['kæʒjuəl]", 
+        "chinese": "adj. 偶然的，随便的，非正式，漫不经心的", 
+        "english": "casual"
+    }, 
+    {
+        "sound": "456\\14\\14_2.mp3", 
+        "sound_mark": "['kɔ:zəl]", 
+        "chinese": "adj. 原因的，关于因果的", 
+        "english": "causal"
+    }, 
+    {
+        "sound": "456\\14\\14_3.mp3", 
+        "sound_mark": "[iks'tent]", 
+        "chinese": "n. 广度，宽度，长度，大小，范围，范围，程度n. [律]扣押，临时所有权令", 
+        "english": "extent"
+    }, 
+    {
+        "sound": "456\\14\\14_4.mp3", 
+        "sound_mark": "[eks'tænt]", 
+        "chinese": "adj. 现存的", 
+        "english": "extant"
+    }, 
+    {
+        "sound": "456\\14\\14_5.mp3", 
+        "sound_mark": "[.inə'biliti]", 
+        "chinese": "n. 无能，无力", 
+        "english": "inability"
+    }, 
+    {
+        "sound": "456\\14\\14_6.mp3", 
+        "sound_mark": "[disə'biliti]", 
+        "chinese": "n. 无力，无能，残疾", 
+        "english": "disability"
+    }, 
+    {
+        "sound": "456\\14\\14_7.mp3", 
+        "sound_mark": "[.pə:sə'nel]", 
+        "chinese": "n. 职员，人事部门", 
+        "english": "personnel"
+    }, 
+    {
+        "sound": "456\\14\\14_8.mp3", 
+        "sound_mark": "['pə:sənl]", 
+        "chinese": "adj. 个人的，私人的\t\t\tn. (报刊)私人专栏", 
+        "english": "personal"
+    }, 
+    {
+        "sound": "456\\14\\14_9.mp3", 
+        "sound_mark": "['stætju:]", 
+        "chinese": "n. 塑像，雕像", 
+        "english": "statue"
+    }, 
+    {
+        "sound": "456\\14\\14_10.mp3", 
+        "sound_mark": "['stætju:t]", 
+        "chinese": "n. 法令，法规", 
+        "english": "statute"
+    }, 
+    {
+        "sound": "456\\14\\14_11.mp3", 
+        "sound_mark": "['stætʃə]", 
+        "chinese": "n. 身材，身高", 
+        "english": "stature"
+    }, 
+    {
+        "sound": "456\\14\\14_12.mp3", 
+        "sound_mark": "['steitəs]", 
+        "chinese": "n. 地位，身份，情形，状况", 
+        "english": "status"
+    }, 
+    {
+        "sound": "456\\14\\14_13.mp3", 
+        "sound_mark": "['widəu]", 
+        "chinese": "n. 寡妇，遗孀vt. 使丧偶", 
+        "english": "widow"
+    }, 
+    {
+        "sound": "456\\14\\14_14.mp3", 
+        "sound_mark": "['windəu]", 
+        "chinese": "n. 窗户，橱窗，视窗", 
+        "english": "window"
+    }, 
+    {
+        "sound": "456\\15\\15_0.mp3", 
+        "sound_mark": "", 
+        "chinese": "n. 袜子（sock的复数）", 
+        "english": "socks"
+    }, 
+    {
+        "sound": "456\\15\\15_1.mp3", 
+        "sound_mark": "", 
+        "chinese": "n. 丝袜；长袜，球袜", 
+        "english": "stockings"
+    }, 
+    {
+        "sound": "456\\15\\15_2.mp3", 
+        "sound_mark": "[tæks]", 
+        "chinese": "n. 税，重负vt. 课税，使 ... 负重荷，斥责", 
+        "english": "tax"
+    }, 
+    {
+        "sound": "456\\15\\15_3.mp3", 
+        "sound_mark": "['tæksi]", 
+        "chinese": "n. 出租车v. 用出租车运送，乘计程车，（飞机）滑行", 
+        "english": "taxi"
+    }, 
+    {
+        "sound": "456\\15\\15_4.mp3", 
+        "sound_mark": "['definit]", 
+        "chinese": "adj. 明确的，确切的，有把握的", 
+        "english": "definite"
+    }, 
+    {
+        "sound": "456\\15\\15_5.mp3", 
+        "sound_mark": "['infinit]", 
+        "chinese": "adj. 无限的，无穷的n. 无限", 
+        "english": "infinite"
+    }, 
+    {
+        "sound": "456\\15\\15_6.mp3", 
+        "sound_mark": "[grim]", 
+        "chinese": "adj. 严厉的，冷酷的，令人害怕的\t\t\tadj. 可怕的，阴森的，不愉快的", 
+        "english": "grim"
+    }, 
+    {
+        "sound": "456\\15\\15_7.mp3", 
+        "sound_mark": "[graim]", 
+        "chinese": "n. 污垢，污物vt. 使积满污垢", 
+        "english": "grime"
+    }, 
+    {
+        "sound": "456\\15\\15_8.mp3", 
+        "sound_mark": "['kreiən]", 
+        "chinese": "n. 蜡笔，蜡笔画vt. 以蜡笔作画", 
+        "english": "crayon"
+    }, 
+    {
+        "sound": "456\\15\\15_9.mp3", 
+        "sound_mark": "['kænjən]", 
+        "chinese": "n. 峡谷", 
+        "english": "canyon"
+    }, 
+    {
+        "sound": "456\\15\\15_10.mp3", 
+        "sound_mark": "['ri:snt]", 
+        "chinese": "adj. 近来的，新近的", 
+        "english": "recent"
+    }, 
+    {
+        "sound": "456\\15\\15_11.mp3", 
+        "sound_mark": "[ri'zent]", 
+        "chinese": "vt. 恨，生气", 
+        "english": "resent"
+    }, 
+    {
+        "sound": "456\\15\\15_12.mp3", 
+        "sound_mark": "[freiz]", 
+        "chinese": "n. 短语，习语，个人风格，乐句vt. 措词表达，将(乐曲)分成乐句(来演奏)", 
+        "english": "phrase"
+    }, 
+    {
+        "sound": "456\\15\\15_13.mp3", 
+        "sound_mark": "[feiz]", 
+        "chinese": "n. 相位，时期，局面，阶段vt. 逐步执行，实行，按计划进行", 
+        "english": "phase"
+    }, 
+    {
+        "sound": "456\\15\\15_14.mp3", 
+        "sound_mark": "['miʃən]", 
+        "chinese": "n. 使命，任务，代表团\t\t\tvt. 派遣，传教n. [计算机] 使命", 
+        "english": "mission"
+    }, 
+    {
+        "sound": "456\\16\\16_0.mp3", 
+        "sound_mark": "[i'miʃən]", 
+        "chinese": "n. 散发，发射，射出，发行", 
+        "english": "emission"
+    }, 
+    {
+        "sound": "456\\16\\16_1.mp3", 
+        "sound_mark": "['mænʃən]", 
+        "chinese": "n. 大厦，豪宅，楼宇", 
+        "english": "mansion"
+    }, 
+    {
+        "sound": "456\\16\\16_2.mp3", 
+        "sound_mark": "['viʒən]", 
+        "chinese": "n. 视力，视觉，想象力，幻觉，眼力vt. 幻想，设想", 
+        "english": "vision"
+    }, 
+    {
+        "sound": "456\\16\\16_3.mp3", 
+        "sound_mark": "['və:ʃən]", 
+        "chinese": "n. 版本，译本，说法，形式", 
+        "english": "version"
+    }, 
+    {
+        "sound": "456\\16\\16_4.mp3", 
+        "sound_mark": "[gɑ:sp]", 
+        "chinese": "n. 喘气v. 喘气，喘息，渴望", 
+        "english": "gasp"
+    }, 
+    {
+        "sound": "456\\16\\16_5.mp3", 
+        "sound_mark": "[grɑ:sp]", 
+        "chinese": "n. 把握，抓紧，领会vt. 抓住，紧握，领会", 
+        "english": "grasp"
+    }, 
+    {
+        "sound": "456\\16\\16_6.mp3", 
+        "sound_mark": "['delikit]", 
+        "chinese": "n. 精美的东西adj. 精美的，微妙的，美味的，纤细的，脆弱的，敏锐的", 
+        "english": "delicate"
+    }, 
+    {
+        "sound": "456\\16\\16_7.mp3", 
+        "sound_mark": "['dedikeit]", 
+        "chinese": "vt. 献出，提献辞，致力于", 
+        "english": "dedicate"
+    }, 
+    {
+        "sound": "456\\16\\16_8.mp3", 
+        "sound_mark": "['aidl]", 
+        "chinese": "adj. 无目的的，无聊的; 懒惰的，闲散的; 无根据的vt. 虚度; 使空闲vi. 不作事，闲逛; (机器)空转", 
+        "english": "idle"
+    }, 
+    {
+        "sound": "456\\16\\16_9.mp3", 
+        "sound_mark": "['aidl]", 
+        "chinese": "n. 偶像n. 菩萨", 
+        "english": "idol"
+    }, 
+    {
+        "sound": "456\\16\\16_10.mp3", 
+        "sound_mark": "[in'dju:s]", 
+        "chinese": "vt. 引起，引诱，导致", 
+        "english": "induce"
+    }, 
+    {
+        "sound": "456\\16\\16_11.mp3", 
+        "sound_mark": "[di'dju:s]", 
+        "chinese": "vt. 演绎，推断，溯源", 
+        "english": "deduce"
+    }, 
+    {
+        "sound": "456\\16\\16_12.mp3", 
+        "sound_mark": "[ri'dju:s]", 
+        "chinese": "v. 减少，缩小，简化，还原", 
+        "english": "reduce"
+    }, 
+    {
+        "sound": "456\\16\\16_13.mp3", 
+        "sound_mark": "[si'dju:s]", 
+        "chinese": "vt. 怂恿，瞒骗，引诱", 
+        "english": "seduce"
+    }, 
+    {
+        "sound": "456\\16\\16_14.mp3", 
+        "sound_mark": "[læps]", 
+        "chinese": "n. 过失，流逝，失效，抛弃信仰，间隔vi. 堕落，停止，失效，流逝vt. 使失效", 
+        "english": "lapse"
+    }, 
+    {
+        "sound": "456\\17\\17_0.mp3", 
+        "sound_mark": "[i'læps]", 
+        "chinese": "v. 逝去，过去", 
+        "english": "elapse"
+    }, 
+    {
+        "sound": "456\\17\\17_1.mp3", 
+        "sound_mark": "[i'klips]", 
+        "chinese": "n. 日或月食，丧失，没落vt. 形成日或月食，使 ... 黯然失色", 
+        "english": "eclipse"
+    }, 
+    {
+        "sound": "456\\17\\17_2.mp3", 
+        "sound_mark": "[ru:d]", 
+        "chinese": "adj. 粗鲁的，无礼的\t\t\tadj. 粗糙的，粗野的，未加工的", 
+        "english": "rude"
+    }, 
+    {
+        "sound": "456\\17\\17_3.mp3", 
+        "sound_mark": "[kru:d]", 
+        "chinese": "adj. 天然的，未加工的，简陋的，粗鲁的，粗糙的n. 原油，天然的物质", 
+        "english": "crude"
+    }, 
+    {
+        "sound": "456\\17\\17_4.mp3", 
+        "sound_mark": "[sɔ:s]", 
+        "chinese": "n. 发源地，来源，原始资料", 
+        "english": "source"
+    }, 
+    {
+        "sound": "456\\17\\17_5.mp3", 
+        "sound_mark": "[sɔ:s]", 
+        "chinese": "n. 调味汁，酱汁，无理的话(或举动)vt. 给 ... 调味，使 ... 增加趣味，对 ... 无礼", 
+        "english": "sauce"
+    }, 
+    {
+        "sound": "456\\17\\17_6.mp3", 
+        "sound_mark": "['sɔ:sə]", 
+        "chinese": "n. 茶托，碟子", 
+        "english": "saucer"
+    }, 
+    {
+        "sound": "456\\17\\17_7.mp3", 
+        "sound_mark": "[ri'sɔ:s]", 
+        "chinese": "n. 资源，谋略才智，机敏，寄托", 
+        "english": "resource"
+    }, 
+    {
+        "sound": "456\\17\\17_8.mp3", 
+        "sound_mark": "[ri'kɔ:s]", 
+        "chinese": "n. 依赖，求助，追索权", 
+        "english": "recourse"
+    }, 
+    {
+        "sound": "456\\17\\17_9.mp3", 
+        "sound_mark": "[sled]", 
+        "chinese": "n. 雪撬v. 用撬搬运，乘撬", 
+        "english": "sled"
+    }, 
+    {
+        "sound": "456\\17\\17_10.mp3", 
+        "sound_mark": "[sledʒ]", 
+        "chinese": "n. 雪橇，大锤v. 用雪橇搬运，坐雪橇=sleigh(英)", 
+        "english": "sledge"
+    }, 
+    {
+        "sound": "456\\17\\17_11.mp3", 
+        "sound_mark": "[straip]", 
+        "chinese": "n. 条纹，条纹布，军士军阶，种类n. 鞭打，抽打vt. 使 ... 带有条纹", 
+        "english": "stripe"
+    }, 
+    {
+        "sound": "456\\17\\17_12.mp3", 
+        "sound_mark": "[strip]", 
+        "chinese": "n. 长条，条状，脱衣舞v. 脱衣，剥夺，剥去", 
+        "english": "strip"
+    }, 
+    {
+        "sound": "456\\17\\17_13.mp3", 
+        "sound_mark": "[trip]", 
+        "chinese": "n. 旅行，摔倒，差错，轻快的步伐vt. 使跌倒，使犯错，使失败，起锚，竖帆vi. 轻快地走，绊倒，失误，结巴，旅行", 
+        "english": "trip"
+    }, 
+    {
+        "sound": "456\\17\\17_14.mp3", 
+        "sound_mark": "[vəu'keiʃən]", 
+        "chinese": "n. 职业，行业，职务", 
+        "english": "vocation"
+    }, 
+    {
+        "sound": "456\\18\\18_0.mp3", 
+        "sound_mark": "[vei'keiʃən]", 
+        "chinese": "n. 假期，休假，腾出vi. 度假", 
+        "english": "vacation"
+    }, 
+    {
+        "sound": "456\\18\\18_1.mp3", 
+        "sound_mark": "[,evəu'keiʃən]", 
+        "chinese": "n. 招魂；唤起；唤出", 
+        "english": "evocation"
+    }, 
+    {
+        "sound": "456\\18\\18_2.mp3", 
+        "sound_mark": "[.revə'keiʃən]", 
+        "chinese": "n. 废弃，取消", 
+        "english": "revocation"
+    }, 
+    {
+        "sound": "456\\18\\18_3.mp3", 
+        "sound_mark": "['ɑ:də]", 
+        "chinese": "n. 热情，狂热=ardour(英)", 
+        "english": "ardor"
+    }, 
+    {
+        "sound": "456\\18\\18_4.mp3", 
+        "sound_mark": "[ə'dɔ:]", 
+        "chinese": "vt. 崇拜，爱慕", 
+        "english": "adore"
+    }, 
+    {
+        "sound": "456\\18\\18_5.mp3", 
+        "sound_mark": "[ə'dɔ:n]", 
+        "chinese": "v. 装饰，佩戴", 
+        "english": "adorn"
+    }, 
+    {
+        "sound": "456\\18\\18_6.mp3", 
+        "sound_mark": "['ɛəriə]", 
+        "chinese": "n. 地区，面积，区域", 
+        "english": "area"
+    }, 
+    {
+        "sound": "456\\18\\18_7.mp3", 
+        "sound_mark": "['iərə]", 
+        "chinese": "n. 时代，纪元，年代", 
+        "english": "era"
+    }, 
+    {
+        "sound": "456\\18\\18_8.mp3", 
+        "sound_mark": "[ri'zembl]", 
+        "chinese": "vt. 相似，类似，像", 
+        "english": "resemble"
+    }, 
+    {
+        "sound": "456\\18\\18_9.mp3", 
+        "sound_mark": "[ə'sembl]", 
+        "chinese": "vt. 聚集，集合，装配vi. 集合，聚集", 
+        "english": "assemble"
+    }, 
+    {
+        "sound": "456\\18\\18_10.mp3", 
+        "sound_mark": "[ə'sembli]", 
+        "chinese": "n. 集合，集会，议会，装配，[计算机]汇编", 
+        "english": "assembly"
+    }, 
+    {
+        "sound": "456\\18\\18_11.mp3", 
+        "sound_mark": "[ə'sju:m]", 
+        "chinese": "vt. 假定，设想，承担; (想当然的)认为", 
+        "english": "assume"
+    }, 
+    {
+        "sound": "456\\18\\18_12.mp3", 
+        "sound_mark": "[ri'zju:m]", 
+        "chinese": "v. 再继续，重新开始n. 简历，履历; 摘要", 
+        "english": "resume"
+    }, 
+    {
+        "sound": "456\\18\\18_13.mp3", 
+        "sound_mark": "[ə'tein]", 
+        "chinese": "v. 达到，获得", 
+        "english": "attain"
+    }, 
+    {
+        "sound": "456\\18\\18_14.mp3", 
+        "sound_mark": "[əb'tein]", 
+        "chinese": "vt. 获得，得到vi. 通用，流行，存在", 
+        "english": "obtain"
+    }, 
+    {
+        "sound": "456\\19\\19_0.mp3", 
+        "sound_mark": "[əb'stein]", 
+        "chinese": "v. 自制，戒绝", 
+        "english": "abstain"
+    }, 
+    {
+        "sound": "456\\19\\19_1.mp3", 
+        "sound_mark": "[ə'wɔ:d]", 
+        "chinese": "n. 奖，奖品v. 授予，给予，判给", 
+        "english": "award"
+    }, 
+    {
+        "sound": "456\\19\\19_2.mp3", 
+        "sound_mark": "[ri'wɔ:d]", 
+        "chinese": "n. 报酬，报答，赏金vt. 给 ... 报酬，奖赏", 
+        "english": "reward"
+    }, 
+    {
+        "sound": "456\\19\\19_3.mp3", 
+        "sound_mark": "['bægidʒ]", 
+        "chinese": "n. 行李", 
+        "english": "baggage"
+    }, 
+    {
+        "sound": "456\\19\\19_4.mp3", 
+        "sound_mark": "[bædʒ]", 
+        "chinese": "n. 徽章，标记，正章，象征vt. 授给 ... 徽章", 
+        "english": "badge"
+    }, 
+    {
+        "sound": "456\\19\\19_5.mp3", 
+        "sound_mark": "['bændidʒ]", 
+        "chinese": "n. 绷带", 
+        "english": "bandage"
+    }, 
+    {
+        "sound": "456\\19\\19_6.mp3", 
+        "sound_mark": "[bleid]", 
+        "chinese": "n. 刀锋，刀口", 
+        "english": "blade"
+    }, 
+    {
+        "sound": "456\\19\\19_7.mp3", 
+        "sound_mark": "[bɔ:ld]", 
+        "chinese": "adj. 秃头的，单调的v. 使变秃头", 
+        "english": "bald"
+    }, 
+    {
+        "sound": "456\\19\\19_8.mp3", 
+        "sound_mark": "[bəuld]", 
+        "chinese": "adj. 大胆的，粗体的，醒目的，无礼的，陡峭的", 
+        "english": "bold"
+    }, 
+    {
+        "sound": "456\\19\\19_9.mp3", 
+        "sound_mark": "[blu:m]", 
+        "chinese": "n. 花，开花，花期，最佳时期v. 开花，繁盛\t\t\tn. 锻铁块，块钢n. 粉衣，粉霜", 
+        "english": "bloom"
+    }, 
+    {
+        "sound": "456\\19\\19_10.mp3", 
+        "sound_mark": "['blɔsəm]", 
+        "chinese": "n. 花，开花，全盛期vi. 开花，成长", 
+        "english": "blossom"
+    }, 
+    {
+        "sound": "456\\19\\19_11.mp3", 
+        "sound_mark": "['buzəm]", 
+        "chinese": "n. 胸部", 
+        "english": "bosom"
+    }, 
+    {
+        "sound": "456\\19\\19_12.mp3", 
+        "sound_mark": "[blʌʃ]", 
+        "chinese": "n. 脸红，外观vi. 泛红，羞愧", 
+        "english": "blush"
+    }, 
+    {
+        "sound": "456\\19\\19_13.mp3", 
+        "sound_mark": "[flʌʃ]", 
+        "chinese": "v. 奔流，发红，冲洗，迅速流过n. 脸红，奔流，旺盛n. (纸牌)同花顺\t\t\t[计算机] 冲洗adj. 丰足的,齐平的,满盈的adv. 正直地, 羞涩地", 
+        "english": "flush"
+    }, 
+    {
+        "sound": "456\\19\\19_14.mp3", 
+        "sound_mark": "[braid]", 
+        "chinese": "n. 新娘", 
+        "english": "bride"
+    }, 
+    {
+        "sound": "456\\20\\20_0.mp3", 
+        "sound_mark": "[braib]", 
+        "chinese": "n. 贿赂，贿赂物v. 贿赂", 
+        "english": "bribe"
+    }, 
+    {
+        "sound": "456\\20\\20_1.mp3", 
+        "sound_mark": "[graul]", 
+        "chinese": "n. 吠声，不平，咆哮声v. 怒吠，咆哮，吼", 
+        "english": "growl"
+    }, 
+    {
+        "sound": "456\\20\\20_2.mp3", 
+        "sound_mark": "[haul]", 
+        "chinese": "n. 吠声，号叫v. 狂吠，咆哮，呼啸", 
+        "english": "howl"
+    }, 
+    {
+        "sound": "456\\20\\20_3.mp3", 
+        "sound_mark": "[di'pres]", 
+        "chinese": "vt. 使沮丧，降低，压下，压抑，使萧条", 
+        "english": "depress"
+    }, 
+    {
+        "sound": "456\\20\\20_4.mp3", 
+        "sound_mark": "[sə'pres]", 
+        "chinese": "vt. 镇压，使 ... 止住，禁止", 
+        "english": "suppress"
+    }, 
+    {
+        "sound": "456\\20\\20_5.mp3", 
+        "sound_mark": "[ə'pres]", 
+        "chinese": "v. 使(心情等)沉重，使烦恼，压迫，压制某人", 
+        "english": "oppress"
+    }, 
+    {
+        "sound": "456\\20\\20_6.mp3", 
+        "sound_mark": "[daim]", 
+        "chinese": "n. 10美分(1角硬币), 少量零钱", 
+        "english": "dime"
+    }, 
+    {
+        "sound": "456\\20\\20_7.mp3", 
+        "sound_mark": "[dim]", 
+        "chinese": "adj. 暗淡的，模糊的，笨的v. 使暗淡，使失去光泽n. 车头近光灯，停车灯", 
+        "english": "dim"
+    }, 
+    {
+        "sound": "456\\20\\20_8.mp3", 
+        "sound_mark": "['dizi]", 
+        "chinese": "adj. 晕眩的，傻的，(速度)极快的，困惑的vt. 使困惑，使晕眩", 
+        "english": "dizzy"
+    }, 
+    {
+        "sound": "456\\20\\20_9.mp3", 
+        "sound_mark": "['dæzl]", 
+        "chinese": "v. 使眼花，使惊奇，目眩，耀眼n. 耀眼的光，令人惊叹的事物", 
+        "english": "dazzle"
+    }, 
+    {
+        "sound": "456\\20\\20_10.mp3", 
+        "sound_mark": "[braun]", 
+        "chinese": "adj. 褐色的，棕色的n. 褐色，棕色v. 变(棕色)，使 ... 变(棕色)\t\t\tBrownn. 布朗(姓氏)", 
+        "english": "brown"
+    }, 
+    {
+        "sound": "456\\20\\20_11.mp3", 
+        "sound_mark": "[brau]", 
+        "chinese": "n. 眉毛，额", 
+        "english": "brow"
+    }, 
+    {
+        "sound": "456\\20\\20_12.mp3", 
+        "sound_mark": "[bləu]", 
+        "chinese": "n. 吹，打击，殴打v. 吹，风吹，擤（鼻子）\t\t\t【口】浪费（机会）", 
+        "english": "blow"
+    }, 
+    {
+        "sound": "456\\20\\20_13.mp3", 
+        "sound_mark": "['bulit]", 
+        "chinese": "n. 子弹", 
+        "english": "bullet"
+    }, 
+    {
+        "sound": "456\\20\\20_14.mp3", 
+        "sound_mark": "['bulitin]", 
+        "chinese": "n. 公示，公报，新闻快报，期刊vt. 发表，用公告通知", 
+        "english": "bulletin"
+    }, 
+    {
+        "sound": "456\\21\\21_0.mp3", 
+        "sound_mark": "['kɑ:tən]", 
+        "chinese": "n. 硬纸盒，纸板箱vt. 把 ... 装入纸板箱vi. 用硬纸板片做纸板箱", 
+        "english": "carton"
+    }, 
+    {
+        "sound": "456\\21\\21_1.mp3", 
+        "sound_mark": "[kɑ:'tu:n]", 
+        "chinese": "n. 动画片，漫画vt. 为 ... 画漫画", 
+        "english": "cartoon"
+    }, 
+    {
+        "sound": "456\\21\\21_2.mp3", 
+        "sound_mark": "['ʃivəlri]", 
+        "chinese": "n. 骑士精神，骑士制度", 
+        "english": "chivalry"
+    }, 
+    {
+        "sound": "456\\21\\21_3.mp3", 
+        "sound_mark": "['kævəlri]", 
+        "chinese": "n. 骑兵", 
+        "english": "cavalry"
+    }, 
+    {
+        "sound": "456\\21\\21_4.mp3", 
+        "sound_mark": "['kɔlə]", 
+        "chinese": "n. 衣领，项圈，[机]轴环vt. 抓住，为 ... 戴上项圈，为 ... 上领子", 
+        "english": "collar"
+    }, 
+    {
+        "sound": "456\\21\\21_5.mp3", 
+        "sound_mark": "['selə]", 
+        "chinese": "n. 地窖，地下室vt. 把 ... 藏入地窑(或酒窑)", 
+        "english": "cellar"
+    }, 
+    {
+        "sound": "456\\21\\21_6.mp3", 
+        "sound_mark": "['kʌlə]", 
+        "chinese": "n. 颜色，颜料，彩色，肤色vt. 把 ... 涂颜色，渲染vi. 着色，脸红=colour（英）", 
+        "english": "color"
+    }, 
+    {
+        "sound": "456\\21\\21_7.mp3", 
+        "sound_mark": "['væniʃ]", 
+        "chinese": "vi. 消失，不见了，绝迹vt. 消失", 
+        "english": "vanish"
+    }, 
+    {
+        "sound": "456\\21\\21_8.mp3", 
+        "sound_mark": "[i'væniʃ]", 
+        "chinese": "vi. 消失；消灭", 
+        "english": "evanish"
+    }, 
+    {
+        "sound": "456\\21\\21_9.mp3", 
+        "sound_mark": "[in'tru:d]", 
+        "chinese": "v. 闯入，侵入，打扰", 
+        "english": "intrude"
+    }, 
+    {
+        "sound": "456\\21\\21_10.mp3", 
+        "sound_mark": "[ek'stru:d]", 
+        "chinese": "vt. 逐出；挤出，压出；使突出vi. 突出，喷出", 
+        "english": "extrude"
+    }, 
+    {
+        "sound": "456\\21\\21_11.mp3", 
+        "sound_mark": "[di'tru:d]", 
+        "chinese": "vt. 推出；扔掉；逐出", 
+        "english": "detrude"
+    }, 
+    {
+        "sound": "456\\21\\21_12.mp3", 
+        "sound_mark": "[kən'tɔ:t]", 
+        "chinese": "v. (使)扭曲", 
+        "english": "contort"
+    }, 
+    {
+        "sound": "456\\21\\21_13.mp3", 
+        "sound_mark": "[dis'tɔ:t]", 
+        "chinese": "vt. 变形，扭曲，歪曲vi. 歪曲", 
+        "english": "distort"
+    }, 
+    {
+        "sound": "456\\21\\21_14.mp3", 
+        "sound_mark": "[ri'tɔ:t]", 
+        "chinese": "v. 反驳，回嘴，反击n. 反驳，顶嘴\t\t\tn. 蒸馏器", 
+        "english": "retort"
+    }, 
+    {
+        "sound": "456\\22\\22_0.mp3", 
+        "sound_mark": "['eminənt]", 
+        "chinese": "adj. 著名的，卓越的", 
+        "english": "eminent"
+    }, 
+    {
+        "sound": "456\\22\\22_1.mp3", 
+        "sound_mark": "['iminənt]", 
+        "chinese": "adj. 逼近的，即将发生的", 
+        "english": "imminent"
+    }, 
+    {
+        "sound": "456\\22\\22_2.mp3", 
+        "sound_mark": "[di'klain]", 
+        "chinese": "n. 衰微，跌落; 晚年v. 降低，婉谢", 
+        "english": "decline"
+    }, 
+    {
+        "sound": "456\\22\\22_3.mp3", 
+        "sound_mark": "[ri'klain]", 
+        "chinese": "v. 靠在，斜倚，倚靠", 
+        "english": "recline"
+    }, 
+    {
+        "sound": "456\\22\\22_4.mp3", 
+        "sound_mark": "['inklain,in'klain]", 
+        "chinese": "n. 倾斜，斜坡，斜面v. 使 ... 倾向，爱好，易于", 
+        "english": "incline"
+    }, 
+    {
+        "sound": "456\\22\\22_5.mp3", 
+        "sound_mark": "[iks'kleim]", 
+        "chinese": "v. 大叫，呼喊，大声叫", 
+        "english": "exclaim"
+    }, 
+    {
+        "sound": "456\\22\\22_6.mp3", 
+        "sound_mark": "[prə'kleim]", 
+        "chinese": "vt. 正式宣布，公布，声明，赞扬，显示出", 
+        "english": "proclaim"
+    }, 
+    {
+        "sound": "456\\22\\22_7.mp3", 
+        "sound_mark": "[ə'kleim]", 
+        "chinese": "n. 喝采，欢呼，赞同v. 欢呼，喝采，称赞", 
+        "english": "acclaim"
+    }, 
+    {
+        "sound": "456\\22\\22_8.mp3", 
+        "sound_mark": "[di'kleim]", 
+        "chinese": "v. 高谈阔论，雄辩，大声说", 
+        "english": "declaim"
+    }, 
+    {
+        "sound": "456\\22\\22_9.mp3", 
+        "sound_mark": "['i:dikt]", 
+        "chinese": "n. 法令，布告", 
+        "english": "edict"
+    }, 
+    {
+        "sound": "456\\22\\22_10.mp3", 
+        "sound_mark": "[in'dait]", 
+        "chinese": "v. 起诉，控告，指控", 
+        "english": "indict"
+    }, 
+    {
+        "sound": "456\\22\\22_11.mp3", 
+        "sound_mark": "[pə'fju:z]", 
+        "chinese": "vt. 洒遍，撒满，撒布", 
+        "english": "perfuse"
+    }, 
+    {
+        "sound": "456\\22\\22_12.mp3", 
+        "sound_mark": "[prə'fju:s]", 
+        "chinese": "adj. 很多的，丰富的，浪费的", 
+        "english": "profuse"
+    }, 
+    {
+        "sound": "456\\22\\22_13.mp3", 
+        "sound_mark": "[ri'dʒekt]", 
+        "chinese": "vt. 拒绝，驳回，丢弃，排斥n. 被拒之人，不合格产品", 
+        "english": "reject"
+    }, 
+    {
+        "sound": "456\\22\\22_14.mp3", 
+        "sound_mark": "[i'dʒekt]", 
+        "chinese": "v. 喷射，放逐，驱逐", 
+        "english": "eject"
+    }, 
+    {
+        "sound": "456\\23\\23_0.mp3", 
+        "sound_mark": "[in'dʒekt]", 
+        "chinese": "v. 注射", 
+        "english": "inject"
+    }, 
+    {
+        "sound": "456\\23\\23_1.mp3", 
+        "sound_mark": "[di'dʒekt]", 
+        "chinese": "vt. 使…沮丧；使…灰心adj. 沮丧的；气馁的", 
+        "english": "deject"
+    }, 
+    {
+        "sound": "456\\23\\23_2.mp3", 
+        "sound_mark": "['litərəsi]", 
+        "chinese": "n. 识字，读写能力", 
+        "english": "literacy"
+    }, 
+    {
+        "sound": "456\\23\\23_3.mp3", 
+        "sound_mark": "['litərəri]", 
+        "chinese": "adj. 文学的", 
+        "english": "literary"
+    }, 
+    {
+        "sound": "456\\23\\23_4.mp3", 
+        "sound_mark": "['litərətʃə]", 
+        "chinese": "n. 文学，文献", 
+        "english": "literature"
+    }, 
+    {
+        "sound": "456\\23\\23_5.mp3", 
+        "sound_mark": "['litərəl]", 
+        "chinese": "adj. 逐字的，字面上的，文字的n. 错误字体", 
+        "english": "literal"
+    }, 
+    {
+        "sound": "456\\23\\23_6.mp3", 
+        "sound_mark": "['mi:diən]", 
+        "chinese": "adj. 中央的，中间的，正中的n. 中动脉，中位数，中值", 
+        "english": "median"
+    }, 
+    {
+        "sound": "456\\23\\23_7.mp3", 
+        "sound_mark": "['mi:diəm]", 
+        "chinese": "n. 媒体，方法，媒介adj. 适中的，中等的", 
+        "english": "medium"
+    }, 
+    {
+        "sound": "456\\23\\23_8.mp3", 
+        "sound_mark": "[iks'pel]", 
+        "chinese": "vt. 驱逐，逐出，开除", 
+        "english": "expel"
+    }, 
+    {
+        "sound": "456\\23\\23_9.mp3", 
+        "sound_mark": "[ri'pel]", 
+        "chinese": "vt. 排斥，抵触，使反感", 
+        "english": "repel"
+    }, 
+    {
+        "sound": "456\\23\\23_10.mp3", 
+        "sound_mark": "[im'pel]", 
+        "chinese": "v. 驱使，逼迫", 
+        "english": "impel"
+    }, 
+    {
+        "sound": "456\\23\\23_11.mp3", 
+        "sound_mark": "[di'spel]", 
+        "chinese": "v. 驱散，驱逐", 
+        "english": "dispel"
+    }, 
+    {
+        "sound": "456\\23\\23_12.mp3", 
+        "sound_mark": "[rip]", 
+        "chinese": "v. 撕裂，扯开n. 裂缝，裂口，撕裂\t\t\tn. 激流n. 浪荡子", 
+        "english": "rip"
+    }, 
+    {
+        "sound": "456\\23\\23_13.mp3", 
+        "sound_mark": "[raip]", 
+        "chinese": "adj. 熟的，成熟的", 
+        "english": "ripe"
+    }, 
+    {
+        "sound": "456\\23\\23_14.mp3", 
+        "sound_mark": "[wentʃ]", 
+        "chinese": "n. 少妇；乡下姑娘vi. 通奸", 
+        "english": "wench"
+    }, 
+    {
+        "sound": "456\\24\\24_0.mp3", 
+        "sound_mark": "[rentʃ]", 
+        "chinese": "n. 扳钳，猛扭，痛苦vt. 猛扭，扭伤vi. 猛扭，扭伤，曲解", 
+        "english": "wrench"
+    }, 
+    {
+        "sound": "456\\24\\24_1.mp3", 
+        "sound_mark": "[.kɔnfi'dænt]", 
+        "chinese": "n. 心腹朋友，知己", 
+        "english": "confidant"
+    }, 
+    {
+        "sound": "456\\24\\24_2.mp3", 
+        "sound_mark": "['kɔnfidənt]", 
+        "chinese": "adj. 自信的，有信心的，有把握的\t\t\tadj. 易相信别人的", 
+        "english": "confident"
+    }, 
+    {
+        "sound": "456\\24\\24_3.mp3", 
+        "sound_mark": "[dain]", 
+        "chinese": "v. 用正餐，进餐", 
+        "english": "dine"
+    }, 
+    {
+        "sound": "456\\24\\24_4.mp3", 
+        "sound_mark": "['dainə]", 
+        "chinese": "n. 用餐者，车形餐馆", 
+        "english": "diner"
+    }, 
+    {
+        "sound": "456\\24\\24_5.mp3", 
+        "sound_mark": "['dinə]", 
+        "chinese": "n. 主餐，晚餐，晚宴", 
+        "english": "dinner"
+    }, 
+    {
+        "sound": "456\\24\\24_6.mp3", 
+        "sound_mark": "[dreɡ]", 
+        "chinese": "n. 渣滓；沉淀物", 
+        "english": "dreg"
+    }, 
+    {
+        "sound": "456\\24\\24_7.mp3", 
+        "sound_mark": "[dræg]", 
+        "chinese": "v. 拖，拖曳，拖拉n. (用以拖的)工具，拖拽物，拖拽", 
+        "english": "drag"
+    }, 
+    {
+        "sound": "456\\24\\24_8.mp3", 
+        "sound_mark": "[feint]", 
+        "chinese": "n. 昏厥，昏倒adj. 微弱的，无力的，模糊的v. 昏倒", 
+        "english": "faint"
+    }, 
+    {
+        "sound": "456\\24\\24_9.mp3", 
+        "sound_mark": "[feint]", 
+        "chinese": "n. 伪装，佯装攻击v. 佯攻，佯击adj. （纸等）印有隐格线的", 
+        "english": "feint"
+    }, 
+    {
+        "sound": "456\\24\\24_10.mp3", 
+        "sound_mark": "[im'pru:dəns]", 
+        "chinese": "n. 轻率，鲁莽的行为", 
+        "english": "imprudence"
+    }, 
+    {
+        "sound": "456\\24\\24_11.mp3", 
+        "sound_mark": "['impjudəns,-dənsi]", 
+        "chinese": "n. 厚颜无耻；冒失", 
+        "english": "impudence"
+    }, 
+    {
+        "sound": "456\\24\\24_12.mp3", 
+        "sound_mark": "['spi:ʃi, -si:]", 
+        "chinese": "n. 硬币；正币", 
+        "english": "specie"
+    }, 
+    {
+        "sound": "456\\24\\24_13.mp3", 
+        "sound_mark": "['spi:ʃiz]", 
+        "chinese": "n. （单复同）物种，种类", 
+        "english": "species"
+    }, 
+    {
+        "sound": "456\\24\\24_14.mp3", 
+        "sound_mark": "['hæŋə]", 
+        "chinese": "n. 挂钩，衣架，悬挂物", 
+        "english": "hanger"
+    }, 
+    {
+        "sound": "456\\25\\25_0.mp3", 
+        "sound_mark": "['hæŋə]", 
+        "chinese": "n. 飞机库", 
+        "english": "hangar"
+    }, 
+    {
+        "sound": "456\\25\\25_1.mp3", 
+        "sound_mark": "['hʌŋgə]", 
+        "chinese": "n. 饥饿，渴望v. 饿，渴望，使 ... 饥饿", 
+        "english": "hunger"
+    }, 
+    {
+        "sound": "456\\25\\25_2.mp3", 
+        "sound_mark": "[swi:t]", 
+        "chinese": "n. 套房，随员，一组", 
+        "english": "suite"
+    }, 
+    {
+        "sound": "456\\25\\25_3.mp3", 
+        "sound_mark": "[sju:t]", 
+        "chinese": "n. 套装，诉讼，请求v. 适合，取悦，满足", 
+        "english": "suit"
+    }
+]
