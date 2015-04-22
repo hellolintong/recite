@@ -12,7 +12,7 @@ class Word(DB.Base):
     chinese = Column(String(40))
     english = Column(String(40))
     sound_mark = Column(String(40))
-    category = Column(String(40))
+    category_id = Column(Integer)
     sound = Column(String(40))
 
     def __init__(self, **kwargs):
@@ -20,7 +20,7 @@ class Word(DB.Base):
         self.english = kwargs[u"english"]
         self.sound = kwargs[u"sound"]
         self.sound_mark = kwargs[u"sound_mark"]
-        self.category = kwargs[u"category"]
+        self.category_id = kwargs[u"category_id"]
 
 
 def add(**kwargs):
@@ -29,11 +29,8 @@ def add(**kwargs):
 
 
 @DB.query
-def get_by_category(session, category):
-    return session.query(Word).filter(Word.category == category).all()
+def get_by_category(session, category_id):
+    return session.query(Word).filter(Word.category_id == category_id).all()
 
-@DB.query
-def get_all_category(session):
-    return session.query(Word.category).filter().all()
 
 DB.create_table(u"word")

@@ -8,8 +8,18 @@
  */
 function HttpService() {
     this.url = "";
+    this.index = 0;
+    this.indexUrl = "";
+    this.postIndexArgs = {};
+    this.getIndexArgs = {};
     this.getArgs = {};
     this.postArgs = {};
+    this.postIndex = function(successCallback, errorCallback){
+        this._post(this.indexUrl, this.postIndexArgs, successCallback, errorCallback);
+    };
+    this.getIndex = function(successCallback, errorCallback){
+       this._get(this.indexUrl, this.getIndexArgs, successCallback, errorCallback);
+    };
     this.get = function (successCallback, errorCallback) {
         this._get(this.url, this.getArgs, successCallback, errorCallback);
     };
@@ -46,7 +56,8 @@ HttpService.prototype._post = function (url, data, successCallback, errorCallbac
 ShanbayApp.factory("Categroy", ["$http", function ($http) {
     var category = new HttpService();
     category.url = "/api/category/";
-    category.getArgs = {};
+    category.indexUrl = "/api/set_index/";
+    category.getIndexArgs = {category_id: ""};
     category.$http = $http;
     return category;
 }]);

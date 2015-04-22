@@ -11,7 +11,7 @@ class DB(object):
     Session = None
     Base = object
     argument_init_flag = False
-    all_db_create_flag = {u"word": False}
+    all_db_create_flag = {u"word": False, u"category": False}
 
     @classmethod
     def init(cls, user, password, db, engine_name=u"mysql"):

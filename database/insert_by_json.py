@@ -3,6 +3,7 @@ import os
 import json
 import codecs
 import word_db
+import category_db
 import pdb
 
 
@@ -18,8 +19,11 @@ def insert():
             except Exception, e:
                 print e
                 return
+            category_elem = dict()
+            category_elem[u"name"] = filename[:-5]
+            category_id = category_db.add(**category_elem)
             for elem in json_data:
                 elem[u"sound"] = elem[u"sound"].replace(u"\\", os.sep)
-                elem[u"category"] = filename[:-5]
+                elem[u"category_id"] = category_id
                 word_db.add(**elem)
         os.remove(dir_name + os.sep + filename)
