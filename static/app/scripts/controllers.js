@@ -29,7 +29,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
 
     WordList.prototype.addIndex = function(){
         this.wordIndex += 1;
-        if(this.finishNum == 100){
+        if(this.finishNum == 4){
             this.wordIndex = this.initIndex;
             this.repeatFlag = true;
             this.finishNum = 0;
@@ -205,7 +205,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
         document.getElementById("wordInput").focus();
         player.play();
         //发送当前的索引位置
-        if(this.repeatFlag == false){
+        if($scope.curWordListObj.repeatFlag == false){
             postIndex();
         }
         return true;
