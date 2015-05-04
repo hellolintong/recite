@@ -123,6 +123,31 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
             this.finishNum = 0;
         }
     };
+    WordList.prototype.reset = function(){
+        this.finishNum = 0;
+        this.repeatFlag = false;
+        this.wordIndex = this.initIndex;
+        this.nextWord();
+    };
+    WordList.prototype.nextUnit = function(){
+        if(this.repeatFlag == false && this.reciteErrorFlag == true){
+            return;
+        }
+        this.initIndex += 100;
+        this.initIndex = this.initIndex % this.wordList.length;
+        this.reset();
+    };
+
+    WordList.prototype.lastUnit = function(){
+        if(this.repeatFlag == false && this.reciteErrorFlag == true){
+            return;
+        }
+        this.initIndex -= 100;
+        if(this.initIndex < 0){
+            this.initIndex = 0;
+        }
+        this.reset();
+    };
 
     /**********/
     $scope.isError = false;
@@ -205,7 +230,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
         document.getElementById("wordInput").focus();
         player.play();
         //发送当前的索引位置
-        if(this.repeatFlag == false){
+        if($scope.curWordListObj.repeatFlag == false){
             postIndex();
         }
         return true;
@@ -228,6 +253,13 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
         getWord(-1);
     };
 
+    $scope.nextUnit = function(){
+        $scope.curWordListObj.nextUnit();
+    };
+
+    $scope.lastUnit = function(){
+        $scope.contentDocument.lastUnit();
+    };
     $scope.recite = function (event) {
         if ($scope.isError) {
             $scope.isError = false;
