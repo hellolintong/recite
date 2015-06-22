@@ -32,7 +32,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
 
     WordList.prototype.addIndex = function(){
         this.wordIndex += 1;
-        if(this.finishNum == 100){
+        if(this.finishNum == 4){
             this.wordIndex = this.initIndex;
             this.repeatFlag = true;
             this.finishNum = 0;
