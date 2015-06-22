@@ -22,3 +22,7 @@ status_fields = {
 word_index_fields = {
     u"index": fields.Integer,
 }
+
+recite_category_fields = {
+    u"recite_category_id": fields.Integer,
+}

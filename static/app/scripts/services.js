@@ -9,17 +9,8 @@
 function HttpService() {
     this.url = "";
     this.index = 0;
-    this.indexUrl = "";
-    this.postIndexArgs = {};
-    this.getIndexArgs = {};
     this.getArgs = {};
     this.postArgs = {};
-    this.postIndex = function(successCallback, errorCallback){
-        this._post(this.indexUrl, this.postIndexArgs, successCallback, errorCallback);
-    };
-    this.getIndex = function(successCallback, errorCallback){
-       this._get(this.indexUrl, this.getIndexArgs, successCallback, errorCallback);
-    };
     this.get = function (successCallback, errorCallback) {
         this._get(this.url, this.getArgs, successCallback, errorCallback);
     };
@@ -53,7 +44,7 @@ HttpService.prototype._post = function (url, data, successCallback, errorCallbac
 /*
  * 目录
  */
-ShanbayApp.factory("Categroy", ["$http", function ($http) {
+ShanbayApp.factory("Category", ["$http", function ($http) {
     var category = new HttpService();
     category.url = "/api/category/";
     category.indexUrl = "/api/set_index/";
@@ -69,7 +60,29 @@ ShanbayApp.factory("Word", ["$http", function ($http) {
     var word = new HttpService();
     word.url = "/api/word/";
     word.getArgs = {category: ""};
-
     word.$http = $http;
     return word;
+}]);
+
+/*
+*索引
+*/
+ShanbayApp.factory("WordIndex", ["$http", function ($http) {
+    var index = new HttpService();
+    index.url = "/api/set_index/";
+    index.getArgs = {category_id: ""};
+    index.postArgs = {category_id: "", index: ""};
+    index.$http = $http;
+    return index;
+}]);
+
+/*
+* 当前背诵目录
+*/
+ShanbayApp.factory("ReciteCategory", ["$http", function ($http){
+    var reciteCategory = new HttpService();
+    reciteCategory.url = "/api/recite_category/";
+    reciteCategory.postArgs = {category_id: ""};
+    reciteCategory.$http = $http;
+    return reciteCategory;
 }]);

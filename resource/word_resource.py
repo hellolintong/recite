@@ -1,9 +1,8 @@
 # coding:utf-8
 from flask.ext.restful import Resource, marshal
 from resource import BaseArgs
-from fields import category_fields, word_fields, status_fields, word_index_fields
+from fields import category_fields, word_fields, status_fields, word_index_fields, recite_category_fields
 from database import word_db, category_db
-
 
 class WordQueryArgs(BaseArgs):
     def rules(self):
@@ -14,6 +13,11 @@ class CategorySetArgs(BaseArgs):
     def rules(self):
         self.parser.add_argument(u"category_id", type=unicode)
         self.parser.add_argument(u"index", type=int)
+
+
+class ReciteCategoryArgs(BaseArgs):
+    def rules(self):
+        self.parser.add_argument(u"category_id", type=unicode)
 
 
 class CategoryResource(Resource):
@@ -42,3 +46,22 @@ class CategoryIndexResource(Resource):
         args = WordQueryArgs().args
         index = category_db.get_word_index(args[u"category_id"])
         return marshal({u"index": index}, word_index_fields)
+
+
+class ReciteCategoryResource(Resource):
+    def post(self):
+        #import pdb;pdb.set_trace()
+        args = ReciteCategoryArgs().args
+        recite_category_id = args[u"category_id"]
+        with open(u"resource/recite_category_id.ini", u"w") as f:
+            f.write(recite_category_id)
+        return marshal({u"status": u"ok"}, status_fields)
+
+    def get(self):
+        #import pdb;pdb.set_trace()
+        with open(u"resource/recite_category_id.ini") as f:
+            recite_category_id = f.read()
+        recite_category_id = int(recite_category_id)
+        return marshal({u"recite_category_id": recite_category_id}, recite_category_fields)
+
+

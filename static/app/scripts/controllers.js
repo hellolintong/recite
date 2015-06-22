@@ -3,7 +3,7 @@
  */
 var ShanbayApp = angular.module("ShanbayApp", []);
 
-ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "Word", function ($scope, $document, Category, Word) {
+ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "Word", "WordIndex", "ReciteCategory", function ($scope, $document, Category, Word, WordIndex, ReciteCategory) {
     //单词目录对象，key为category_id，value为对应的单词列表
     $scope.CategoryObj = {
 
@@ -12,6 +12,9 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
     $scope.curWordListObj = {
 
     };
+
+    //背诵的目录
+    $scope.reciteCategoryId = 0;
 
     //单词列表对象
     function WordList(category_id, category_name){
@@ -139,9 +142,6 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
     };
 
     WordList.prototype.lastUnit = function(){
-        if(this.repeatFlag == false && this.reciteErrorFlag == true){
-            return;
-        }
         this.initIndex -= 100;
         if(this.initIndex < 0){
             this.initIndex = 0;
@@ -152,15 +152,36 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
     /**********/
     $scope.isError = false;
 
+   $scope.getReciteCategory = function(){
+        ReciteCategory.get(
+             function(data, status, headers, config){
+                    $scope.reciteCategoryId = data["recite_category_id"];
+                },
+             function(data, status, headers, config){
+             }
+        );
+    };
+
+
     $scope.getCategoryList = function () {
         Category.get(
             function (data, status, headers, config) {
+                $scope.getReciteCategory();
                 for(var i = 0; i < data.length; ++i){
                     $scope.CategoryObj[data[i].category_id] = new WordList(data[i].category_id, data[i].category_name);
                 }
             },
             function (data, status, headers, config) {
             }
+        )
+    };
+
+     $scope.postReciteCategory = function () {
+        ReciteCategory.postArgs["category_id"] = $scope.reciteCategoryId;
+        ReciteCategory.post(
+            function(data, status, headers, conifg){
+            },
+            function(data, status, headers, conifg){}
         )
     };
 
@@ -175,9 +196,9 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
                 function (data, status, headers, config) {
                     $scope.CategoryObj[category_id].wordList = data;
                     $scope.CategoryObj[category_id].category_name = category_name;
-                    Category.getIndexArgs["category_id"] = category_id;
+                    WordIndex.getArgs["category_id"] = category_id;
                     //获取上次背诵的位置
-                    Category.getIndex(
+                    WordIndex.get(
                         function(data, status, headers, config){
                             $scope.CategoryObj[category_id].wordIndex = data["index"] - 1;
                             $scope.CategoryObj[category_id].initIndex = data["index"] - 1;
@@ -201,7 +222,12 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
     };
 
     $scope.reciteWords = function (category_id) {
+        if(!category_id) {
+            return;
+        }
         $scope.getWordList(category_id);
+        $scope.reciteCategoryId = category_id;
+        $scope.postReciteCategory();
     };
 
     $scope.playSound = function () {
@@ -236,14 +262,19 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Categroy", "
         return true;
     }
     function postIndex(){
-        Category.postIndexArgs["category_id"] = $scope.curWordListObj.category_id;
-        Category.postIndexArgs["index"] = $scope.curWordListObj.wordIndex;
-        Category.postIndex(function(data, status, headers, config){
+        WordIndex.postArgs["category_id"] = $scope.curWordListObj.category_id;
+        WordIndex.postArgs["index"] = $scope.curWordListObj.wordIndex;
+        WordIndex.post(function(data, status, headers, config){
             },
             function (data, status, headers, config) {
             }
         );
+    }
+
+    $scope.reciteLastCategory = function(){
+        $scope.reciteWords($scope.reciteCategoryId);
     };
+
     $scope.nextWord = function () {
         $scope.curWordListObj.addErrorWord();
         getWord(1);
