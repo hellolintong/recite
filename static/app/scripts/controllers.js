@@ -22,8 +22,10 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         this.category_name = category_name;
         this.wordList = [];
         this.wordIndex = -1;
+        this.repeatNum = 0;
         this.errorWordIndex = 0;
         this.reciteErrorFlag = false;
+        this.interval = null;
         this.finishNum = 0;
         this.initIndex =0;
         this.repeatFlag = false;
@@ -32,7 +34,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
 
     WordList.prototype.addIndex = function(){
         this.wordIndex += 1;
-        if(this.finishNum == 4){
+        if(this.finishNum == 100){
             this.wordIndex = this.initIndex;
             this.repeatFlag = true;
             this.finishNum = 0;
@@ -114,12 +116,10 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         var word = this.getWord();
         word["hint"] = word["english"];
     };
-
     WordList.prototype.checkValue = function(word){
         var curWord = $scope.curWordListObj.getWord();
         return word == curWord["english"];
     };
-
     WordList.prototype.addFinishNum = function(){
         this.finishNum += 1;
         if(this.finishNum == this.wordList.length){
@@ -128,6 +128,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
     };
     WordList.prototype.reset = function(){
         this.finishNum = 0;
+        this.repeatNum = 0;
         this.repeatFlag = false;
         this.wordIndex = this.initIndex;
         this.nextWord();
@@ -149,6 +150,8 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         this.reset();
     };
 
+
+
     /**********/
     $scope.isError = false;
 
@@ -156,6 +159,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         ReciteCategory.get(
              function(data, status, headers, config){
                     $scope.reciteCategoryId = data["recite_category_id"];
+                    $scope.reciteWords($scope.reciteCategoryId);
                 },
              function(data, status, headers, config){
              }
@@ -166,7 +170,6 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
     $scope.getCategoryList = function () {
         Category.get(
             function (data, status, headers, config) {
-                $scope.getReciteCategory();
                 for(var i = 0; i < data.length; ++i){
                     $scope.CategoryObj[data[i].category_id] = new WordList(data[i].category_id, data[i].category_name);
                 }
@@ -238,6 +241,23 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         player.play();
     };
 
+    //自动播放
+    $scope.autoPlay = function(){
+        if($scope.curWordListObj.interval == null){
+            document.getElementById("autoPlay").style.backgroundColor = "#1FFFFF";
+            $scope.curWordListObj.interval = setInterval(function(){
+                //在自动播放过程中，如果用户输入数据，则先暂停自动播放
+                if(document.getElementById("wordInput").value == ""){
+                    document.getElementById("lastReciteBtn").click();
+                }
+            }, 5000);
+        }
+        else{
+            clearInterval($scope.curWordListObj.interval);
+            document.getElementById("autoPlay").style.backgroundColor = "#428BCA";
+            $scope.curWordListObj.interval = null;
+        }
+    };
 
     //获取单词，distance标志表示获取前一个还是后一个
     function getWord(distance) {
@@ -255,10 +275,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         document.getElementById("wordInput").value = "";
         document.getElementById("wordInput").focus();
         player.play();
-        //发送当前的索引位置
-        if($scope.curWordListObj.repeatFlag == false){
-            postIndex();
-        }
+
         return true;
     }
     function postIndex(){
@@ -272,15 +289,17 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
     }
 
     $scope.reciteLastCategory = function(){
-        $scope.reciteWords($scope.reciteCategoryId);
+        $scope.getReciteCategory();
     };
 
     $scope.nextWord = function () {
         $scope.curWordListObj.addErrorWord();
+        $scope.repeatNum = 0;
         getWord(1);
     };
 
     $scope.lastWord = function () {
+        $scope.repeatNum = 0;
         getWord(-1);
     };
 
@@ -299,9 +318,19 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         $scope.curWordListObj.resetHint();
 
         if (event.keyCode == 13) {
-
-            if ($scope.curWordListObj.checkValue(event.target.value)) {
-
+            if ($scope.curWordListObj.checkValue(event.target.value)){
+                if($scope.curWordListObj.interval != null){
+                    document.getElementById("wordInput").value = "";
+                    return;
+                }
+                //
+                if($scope.curWordListObj.repeatNum < 3){
+                    ++$scope.curWordListObj.repeatNum;
+                    getWord(-1);
+                    getWord(1);
+                    return;
+                }
+                $scope.curWordListObj.repeatNum = 0;
                 if($scope.curWordListObj.reciteErrorFlag){
                     getWord(1);
                     if($scope.curWordListObj.wordList.length == 0){
@@ -313,6 +342,10 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
                     getWord(1);
                     $scope.curWordListObj.addFinishNum();
                 }
+                //发送当前的索引位置
+                if($scope.curWordListObj.repeatFlag == false){
+                    postIndex();
+                }
             }
             else {
                 if(!$scope.curWordListObj.reciteErrorFlag){
@@ -321,13 +354,15 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
                 $scope.curWordListObj.setHint();
                 $scope.playSound();
                 $scope.isError = true;
-
             }
             event.target.value = "";
             event.target.focus();
-
         }
-
+    };
+    $scope.closeModel = function(){
+        if($scope.curWordListObj.interval != null){
+              $scope.autoPlay();
+        }
     };
     $scope.reciteError = function(){
         if($scope.curWordListObj.errorWordList.length == 0){
@@ -364,6 +399,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         }
     };
     $document.ready(function () {
+
         $scope.getCategoryList();
 
         $.fn.bootstrapSwitch.defaults.size = "mini";

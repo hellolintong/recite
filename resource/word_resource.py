@@ -53,13 +53,13 @@ class ReciteCategoryResource(Resource):
         #import pdb;pdb.set_trace()
         args = ReciteCategoryArgs().args
         recite_category_id = args[u"category_id"]
-        with open(u"resource/recite_category_id.ini", u"w") as f:
+        with open(u"/root/Desktop/shanbay_web/resource/recite_category_id.ini", u"w") as f:
             f.write(recite_category_id)
         return marshal({u"status": u"ok"}, status_fields)
 
     def get(self):
         #import pdb;pdb.set_trace()
-        with open(u"resource/recite_category_id.ini") as f:
+        with open(u"/root/Desktop/shanbay_web/resource/recite_category_id.ini") as f:
             recite_category_id = f.read()
         recite_category_id = int(recite_category_id)
         return marshal({u"recite_category_id": recite_category_id}, recite_category_fields)

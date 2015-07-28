@@ -20,7 +20,7 @@ app.jinja_env.variable_end_string = u"]]"
 api = Api(app)
 set_url_map(api)
 
-app.debug = True
+app.debug = False
 
 
 @app.route(u"/")
@@ -30,4 +30,4 @@ def index():
 
 if __name__ == u"__main__":
 #    insert()
-    app.run(host=u"0.0.0.0")
+    app.run(host=u"0.0.0.0", port=5998)
