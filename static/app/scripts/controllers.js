@@ -1,47 +1,37 @@
-/**
- * Created by lintong on 2015/1/12.
+/** * Created by lintong on 2015/1/12.
  */
 var ShanbayApp = angular.module("ShanbayApp", []);
 
 ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "Word", "WordIndex", "ReciteCategory", function ($scope, $document, Category, Word, WordIndex, ReciteCategory) {
     //单词目录对象，key为category_id，value为对应的单词列表
     $scope.CategoryObj = {
-
     };
     //当前正在背诵的单词列表
     $scope.curWordListObj = {
-
+    };
+    //scope私有函数
+    $scope.private = {
     };
 
     //背诵的目录
     $scope.reciteCategoryId = 0;
 
-    //单词列表对象
+    /*************单词列表对象*********************/
     function WordList(category_id, category_name){
         this.category_id = category_id;
         this.category_name = category_name;
         this.wordList = [];
         this.wordIndex = -1;
+        this.originalWordIndex = -1;
         this.repeatNum = 0;
-        this.errorWordIndex = 0;
-        this.reciteErrorFlag = false;
-        this.interval = null;
+        this.intervalFunc = null;
         this.finishNum = 0;
-        this.initIndex =0;
+        this.initIndex =0;//初始的索引
         this.repeatFlag = false;
-        this.errorWordList = [];
     }
 
     WordList.prototype.addIndex = function(){
-        this.wordIndex += 1;
-        if(this.finishNum == 100){
-            this.wordIndex = this.initIndex;
-            this.repeatFlag = true;
-            this.finishNum = 0;
-        }
-        if (this.wordIndex == this.wordList.length) {
-            this.wordIndex = 0;
-        }
+        this.wordIndex = (this.wordIndex + 1) % this.wordList.length;
     };
 
     WordList.prototype.delIndex = function(){
@@ -50,6 +40,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
             this.wordIndex = this.wordList.length - 1;
         }
     };
+
     WordList.prototype.shieldWord = function(word){
         if (word.length < 4) {
             return "";
@@ -77,6 +68,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
     WordList.prototype.setShield = function(){
         var word = this.getWord();
         word["hint"] = this.shieldWord(word["english"]);
+        //当单词背诵错误的适合，hint会显示单词，所以要先将hint备份一下
         word["originalHint"] = word["hint"];
     };
 
@@ -84,38 +76,20 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
       return this.wordList[this.wordIndex];
     };
 
-    WordList.prototype.addErrorWord = function(){
-        var word = this.getWord();
-        for(var i = 0; i < this.errorWordList.length; ++i){
-            if(this.errorWordList[i] == word){
-                return;
-            }
-        }
-        this.errorWordList.push(word);
-    };
-    WordList.prototype.delErrorWord = function(){
-        var word = this.getWord();
-        for(var i = 0; i < this.wordList.length; ++i){
-            if(this.wordList[i] == word){
-                this.wordList.splice(i, 1);
-                if(this.wordIndex >= this.wordList.length && this.wordIndex != 0){
-                    this.wordIndex = this.wordList.length - 1;
-                }
-                return;
-            }
-        }
-    };
-
+    //重置hint
     WordList.prototype.resetHint = function(){
         var word = this.getWord();
         if (word["hint"] == word["english"]) {
             word["hint"] = word["originalHint"];
         }
     };
+
+    //将hint设置为单词，这样能提示用户
     WordList.prototype.setHint = function(){
         var word = this.getWord();
         word["hint"] = word["english"];
     };
+
     WordList.prototype.checkValue = function(word){
         var curWord = $scope.curWordListObj.getWord();
         return word == curWord["english"];
@@ -125,21 +99,26 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         if(this.finishNum == this.wordList.length){
             this.finishNum = 0;
         }
+        //每单元只有100个单词
+        if(this.finishNum == 100){
+            this.wordIndex = this.initIndex;
+            this.repeatFlag = true;
+            this.finishNum = 0;
+        }
     };
     WordList.prototype.reset = function(){
         this.finishNum = 0;
         this.repeatNum = 0;
         this.repeatFlag = false;
         this.wordIndex = this.initIndex;
-        this.nextWord();
     };
     WordList.prototype.nextUnit = function(){
-        if(this.repeatFlag == false && this.reciteErrorFlag == true){
-            return;
+        if(this.repeatFlag == false){
+            return false;
         }
-        this.initIndex += 100;
-        this.initIndex = this.initIndex % this.wordList.length;
+        this.initIndex = (this.initIndex + 100)% this.wordList.length;
         this.reset();
+        return true;
     };
 
     WordList.prototype.lastUnit = function(){
@@ -150,23 +129,104 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         this.reset();
     };
 
+    WordList.prototype.addRepeat = function(){
+        this.repeatNum = (this.repeatNum + 1) % 3;
+    };
+
+    WordList.prototype.needRepeat = function(){
+        return this.repeatNum != 2;
+    }
 
 
-    /**********/
-    $scope.isError = false;
-
-   $scope.getReciteCategory = function(){
+/***********scope相关方法*************/
+    //获取正在背诵的单词
+    $scope.private.getReciteCategory = function(){
         ReciteCategory.get(
              function(data, status, headers, config){
-                    $scope.reciteCategoryId = data["recite_category_id"];
-                    $scope.reciteWords($scope.reciteCategoryId);
-                },
+                 $scope.reciteCategoryId = data["recite_category_id"];
+                 $scope.reciteWords($scope.reciteCategoryId);
+             },
              function(data, status, headers, config){
              }
         );
     };
 
+    //发送用户当前正在背诵的词库信息
+    $scope.private.postReciteCategory = function () {
+        ReciteCategory.postArgs["category_id"] = $scope.reciteCategoryId;
+        ReciteCategory.post(
+            function(data, status, headers, config){
+            },
+            function(data, status, headers, config){}
+        )
+    };
 
+   //根据词库id获取单词列表
+    $scope.private.getWordList = function (category_id) {
+        document.getElementById("startReciteBtn").click();
+        //单词列表为空，则去后台获取数据
+        if($scope.CategoryObj[category_id].wordList.length == 0){
+            var category_name = $scope.CategoryObj[category_id].category_name;
+            $scope.curWordListObj = $scope.CategoryObj[category_id];
+            $scope.CategoryObj[category_id].category_name = "后台正在获取数据，请耐心等待...";
+            Word.getArgs["category_id"] = category_id;
+            Word.get(
+                function (data, status, headers, config) {
+                    $scope.CategoryObj[category_id].wordList = data;
+                    $scope.CategoryObj[category_id].category_name = category_name;
+                    //获取上次背诵的位置
+                    WordIndex.getArgs["category_id"] = category_id;
+                    WordIndex.get(
+                        function(data, status, headers, config){
+                            $scope.CategoryObj[category_id].wordIndex = data["index"] - 1;
+                            $scope.CategoryObj[category_id].initIndex = data["index"] - 1;
+                            $scope.private.play(1);
+                        },
+                        function(data, status, headers, config){
+                        }
+                    );
+                },
+                function (data, status, headers, config) {
+                }
+            );
+        }
+        else{
+            $scope.curWordListObj = $scope.CategoryObj[category_id];
+            $scope.private.play(1);
+        }
+
+    };
+
+    //发送当前索引
+    $scope.private.postIndex = function(){
+        WordIndex.postArgs["category_id"] = $scope.curWordListObj.category_id;
+        WordIndex.postArgs["index"] = $scope.curWordListObj.wordIndex;
+        WordIndex.post(function(data, status, headers, config){
+            },
+            function (data, status, headers, config) {
+            }
+        );
+    }
+
+    //获取单词，distance标志表示获取前一个还是后一个
+    $scope.private.play = function(distance) {
+        if(distance > 0){
+            $scope.curWordListObj.addIndex();
+        }
+        else{
+            $scope.curWordListObj.delIndex();
+        }
+        $scope.curWordListObj.setShield();
+        var player = document.getElementById("player");
+        var word = $scope.curWordListObj.getWord();
+        player.src = "/static/sound/" + word["sound"];
+        document.getElementById("wordInput").value = "";
+        document.getElementById("wordInput").focus();
+        player.play();
+        return true;
+    }
+
+    //从服务器获取所有词库信息
     $scope.getCategoryList = function () {
         Category.get(
             function (data, status, headers, config) {
@@ -179,60 +239,17 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         )
     };
 
-     $scope.postReciteCategory = function () {
-        ReciteCategory.postArgs["category_id"] = $scope.reciteCategoryId;
-        ReciteCategory.post(
-            function(data, status, headers, conifg){
-            },
-            function(data, status, headers, conifg){}
-        )
-    };
-
-    $scope.getWordList = function (category_id) {
-        document.getElementById("startReciteBtn").click();
-
-        if($scope.CategoryObj[category_id].wordList.length == 0){
-            var category_name = $scope.CategoryObj[category_id].category_name;
-            $scope.CategoryObj[category_id].category_name = "后台正在获取数据，请耐心等待...";
-            Word.getArgs["category_id"] = category_id;
-            Word.get(
-                function (data, status, headers, config) {
-                    $scope.CategoryObj[category_id].wordList = data;
-                    $scope.CategoryObj[category_id].category_name = category_name;
-                    WordIndex.getArgs["category_id"] = category_id;
-                    //获取上次背诵的位置
-                    WordIndex.get(
-                        function(data, status, headers, config){
-                            $scope.CategoryObj[category_id].wordIndex = data["index"] - 1;
-                            $scope.CategoryObj[category_id].initIndex = data["index"] - 1;
-                            getWord(1);
-                        },
-                        function(data, status, headers, config){
-
-                        }
-                    );
-                },
-                function (data, status, headers, config) {
-                }
-            );
-        }
-        else{
-            document.getElementById("wordInput").value = "";
-            document.getElementById("wordInput").focus();
-        }
-        $scope.curWordListObj = $scope.CategoryObj[category_id];
-
-    };
-
+    //根据词库的id背诵单词
     $scope.reciteWords = function (category_id) {
         if(!category_id) {
             return;
         }
-        $scope.getWordList(category_id);
+        $scope.private.getWordList(category_id);
         $scope.reciteCategoryId = category_id;
-        $scope.postReciteCategory();
+        $scope.private.postReciteCategory();
     };
 
+    //播放声音
     $scope.playSound = function () {
         var player = document.getElementById("player");
         var oldSrc = player.src;
@@ -241,11 +258,12 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         player.play();
     };
 
-    //自动播放
+    //自动播放功能
     $scope.autoPlay = function(){
-        if($scope.curWordListObj.interval == null){
+        if($scope.curWordListObj.intervalFunc == null){
             document.getElementById("autoPlay").style.backgroundColor = "#1FFFFF";
-            $scope.curWordListObj.interval = setInterval(function(){
+            $scope.curWordListObj.originalWordIndex = $scope.curWordListObj.wordIndex;
+            $scope.curWordListObj.intervalFunc = setInterval(function(){
                 //在自动播放过程中，如果用户输入数据，则先暂停自动播放
                 if(document.getElementById("wordInput").value == ""){
                     document.getElementById("lastReciteBtn").click();
@@ -253,155 +271,89 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
             }, 5000);
         }
         else{
-            clearInterval($scope.curWordListObj.interval);
+            clearInterval($scope.curWordListObj.intervalFunc);
             document.getElementById("autoPlay").style.backgroundColor = "#428BCA";
-            $scope.curWordListObj.interval = null;
+            $scope.curWordListObj.intervalFunc = null;
+            $scope.curWordListObj.wordIndex = $scope.curWordListObj.originalWordIndex;
         }
     };
 
-    //获取单词，distance标志表示获取前一个还是后一个
-    function getWord(distance) {
-        if(distance > 0){
-            $scope.curWordListObj.addIndex();
-        }
-        else{
-            $scope.curWordListObj.delIndex();
-        }
-
-        $scope.curWordListObj.setShield();
-        var player = document.getElementById("player");
-        var word = $scope.curWordListObj.getWord();
-        player.src = "/static/sound/" + word["sound"];
-        document.getElementById("wordInput").value = "";
-        document.getElementById("wordInput").focus();
-        player.play();
-
-        return true;
-    }
-    function postIndex(){
-        WordIndex.postArgs["category_id"] = $scope.curWordListObj.category_id;
-        WordIndex.postArgs["index"] = $scope.curWordListObj.wordIndex;
-        WordIndex.post(function(data, status, headers, config){
-            },
-            function (data, status, headers, config) {
-            }
-        );
-    }
-
+    //背诵上次背诵的词库
     $scope.reciteLastCategory = function(){
-        $scope.getReciteCategory();
+        $scope.private.getReciteCategory();
     };
 
+    //下一个单词
     $scope.nextWord = function () {
-        $scope.curWordListObj.addErrorWord();
         $scope.repeatNum = 0;
-        getWord(1);
+        $scope.private.play(1);
     };
 
+    //上一个单词
     $scope.lastWord = function () {
         $scope.repeatNum = 0;
-        getWord(-1);
+        $scope.private.play(-1);
     };
 
+    //下一个单元
     $scope.nextUnit = function(){
-        $scope.curWordListObj.nextUnit();
-    };
-
-    $scope.lastUnit = function(){
-        $scope.contentDocument.lastUnit();
-    };
-    $scope.recite = function (event) {
-        if ($scope.isError) {
-            $scope.isError = false;
+        if($scope.curWordListObj.nextUnit()){
+            $scope.private.play(-1);
         }
+    };
 
+    //上一个单元
+    $scope.lastUnit = function(){
+        $scope.curWordListObj.lastUnit();
+        $scope.private.play(-1);
+    };
+
+    //背诵
+    $scope.recite = function (event) {
         $scope.curWordListObj.resetHint();
-
+        //用户按下回车键
         if (event.keyCode == 13) {
             if ($scope.curWordListObj.checkValue(event.target.value)){
-                if($scope.curWordListObj.interval != null){
+                //在自动播放过程中输入
+                if($scope.curWordListObj.intervalFunc != null){
                     document.getElementById("wordInput").value = "";
                     return;
                 }
-                //
-                if($scope.curWordListObj.repeatNum < 3){
-                    ++$scope.curWordListObj.repeatNum;
-                    getWord(-1);
-                    getWord(1);
+
+                //需要连续输入3次才能跳到下一个单词
+                $scope.curWordListObj.addRepeat();
+                if($scope.curWordListObj.needRepeat()){
+                    $scope.private.play(-1);
+                    $scope.private.play(1);
                     return;
                 }
-                $scope.curWordListObj.repeatNum = 0;
-                if($scope.curWordListObj.reciteErrorFlag){
-                    getWord(1);
-                    if($scope.curWordListObj.wordList.length == 0){
-                        $scope.reciteError();
-                    }
-                }
-                //更新进度
-                else{
-                    getWord(1);
-                    $scope.curWordListObj.addFinishNum();
-                }
+
+                $scope.private.play(1);
+                $scope.curWordListObj.addFinishNum();
+
                 //发送当前的索引位置
                 if($scope.curWordListObj.repeatFlag == false){
-                    postIndex();
+                    $scope.private.postIndex();
                 }
             }
             else {
-                if(!$scope.curWordListObj.reciteErrorFlag){
-                    $scope.curWordListObj.addErrorWord();
-                }
                 $scope.curWordListObj.setHint();
                 $scope.playSound();
-                $scope.isError = true;
             }
             event.target.value = "";
             event.target.focus();
         }
     };
+
+    //关闭模态对话框
     $scope.closeModel = function(){
-        if($scope.curWordListObj.interval != null){
+        if($scope.curWordListObj.intervalFunc != null){
               $scope.autoPlay();
         }
     };
-    $scope.reciteError = function(){
-        if($scope.curWordListObj.errorWordList.length == 0){
-            return;
-        }
-        var tempWord = $scope.curWordListObj.wordList;
-        var tempIndex = $scope.curWordListObj.wordIndex;
-        $scope.curWordListObj.wordList = $scope.curWordListObj.errorWordList;
-        $scope.curWordListObj.errorWordList = tempWord;
-        $scope.curWordListObj.wordIndex = $scope.curWordListObj.errorWordIndex;
-        $scope.curWordListObj.errorWordIndex = tempIndex;
-        $scope.curWordListObj.reciteErrorFlag = !$scope.curWordListObj.reciteErrorFlag;
-        if($scope.curWordListObj.reciteErrorFlag){
-            $('#deleteErrorWord').css("visibility", "visible");
-            $('#reciteErrorWords').text("背诵单词");
-        }
-        else{
-            $('#deleteErrorWord').css("visibility", "hidden");
-            $('#reciteErrorWords').text("错词背诵");
-        }
 
-        //先回退一格，这样能播放声音
-        $scope.curWordListObj.wordIndex -= 1;
-        getWord(1);
-
-    };
-    $scope.deleteError = function(){
-        $scope.curWordListObj.delErrorWord();
-        if($scope.curWordListObj.wordList.length == 0){
-            $scope.reciteError();
-        }else{
-            $scope.curWordListObj.wordIndex -= 1;
-            getWord(1);
-        }
-    };
     $document.ready(function () {
-
         $scope.getCategoryList();
-
         $.fn.bootstrapSwitch.defaults.size = "mini";
 
         $('input[name="showChineseBox"]').on('switchChange.bootstrapSwitch', function (event, state) {
@@ -434,10 +386,5 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         $("[name='showChineseBox']").bootstrapSwitch();
         $("[name='showSoundMarkBox']").bootstrapSwitch();
         $("[name='showHintBox']").bootstrapSwitch();
-
     });
-
 }]);
-
-
-

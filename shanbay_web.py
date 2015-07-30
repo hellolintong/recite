@@ -8,8 +8,6 @@ from flask.ext.restful import Api
 from config.config import Config
 from config.url_map import set_url_map
 
-from database.insert_by_json import insert
-
 app = Flask(__name__)
 app.config.update(
     SECRET_KEY=Config.SECRET_KEY,
@@ -29,5 +27,4 @@ def index():
 
 
 if __name__ == u"__main__":
-#    insert()
     app.run(host=u"0.0.0.0", port=5998)
