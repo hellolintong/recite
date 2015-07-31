@@ -93,7 +93,7 @@ ShanbayApp.factory("ReciteCategory", ["$http", function ($http){
 ShanbayApp.factory("ErrorWord", ["$http", function ($http){
     var errorWord = new HttpService();
     errorWord.url = "/api/error_word/";
-    errorWord.postArgs = {word_id: 0};
+    errorWord.postArgs = {word_id: 0, op: "add"};
     errorWord.$http = $http;
     return errorWord;
 }]);

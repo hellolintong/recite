@@ -164,7 +164,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
    //根据词库id获取单词列表
     $scope.private.getWordList = function (category_id) {
         document.getElementById("startReciteBtn").click();
-        //单词列表为空，后者是错误单词背诵则去后台获取数据
+        //单词列表为空，或者是错误单词背诵则去后台获取数据
         if($scope.CategoryObj[category_id].wordList.length == 0 || $scope.CategoryObj[category_id].category_id == "22"){
             var category_name = $scope.CategoryObj[category_id].category_name;
             $scope.curWordListObj = $scope.CategoryObj[category_id];
@@ -172,19 +172,25 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
             Word.getArgs["category_id"] = category_id;
             Word.get(
                 function (data, status, headers, config) {
-                    $scope.CategoryObj[category_id].wordList = data;
-                    $scope.CategoryObj[category_id].category_name = category_name;
-                    //获取上次背诵的位置
-                    WordIndex.getArgs["category_id"] = category_id;
-                    WordIndex.get(
-                        function(data, status, headers, config){
-                            $scope.CategoryObj[category_id].wordIndex = data["index"] - 1;
-                            $scope.CategoryObj[category_id].initIndex = data["index"] - 1;
-                            $scope.private.play(1);
-                        },
-                        function(data, status, headers, config){
-                        }
-                    );
+                    if(data.length == 0){
+                        $scope.CategoryObj[category_id].wordList = [];
+                        $scope.CategoryObj[category_id].category_name = category_name;
+                    }
+                    else{
+                        $scope.CategoryObj[category_id].wordList = data;
+                        $scope.CategoryObj[category_id].category_name = category_name;
+                        //获取上次背诵的位置
+                        WordIndex.getArgs["category_id"] = category_id;
+                        WordIndex.get(
+                            function(data, status, headers, config){
+                                $scope.CategoryObj[category_id].wordIndex = data["index"] - 1;
+                                $scope.CategoryObj[category_id].initIndex = data["index"] - 1;
+                                $scope.private.play(1);
+                            },
+                            function(data, status, headers, config){
+                            }
+                        );
+                    }
                 },
                 function (data, status, headers, config) {
                 }
@@ -330,6 +336,19 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
                     return;
                 }
 
+                //如果是错误单词，则让后台删除
+                if($scope.curWordListObj.category_id == "22"){
+                    var word = $scope.curWordListObj.getWord();
+                    ErrorWord.postArgs["word_id"] = word["id"];
+                    ErrorWord.postArgs["op"] = "delete";
+                    ErrorWord.post(
+                        function(data, status, headers, config){
+                        },
+                        function (data, status, headers, config){
+                        }
+                    );
+                 }
+
                 $scope.private.play(1);
                 $scope.curWordListObj.addFinishNum();
 
@@ -342,10 +361,11 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
                 //发送错词到后台
                 var word = $scope.curWordListObj.getWord();
                 ErrorWord.postArgs["word_id"] = word["id"];
+                ErrorWord.postArgs["op"] = "add";
                 ErrorWord.post(
                     function(data, status, headers, config){
                     },
-                    function (data, status, headers, config) {
+                    function (data, status, headers, config){
                     }
                 );
                 $scope.curWordListObj.setHint();

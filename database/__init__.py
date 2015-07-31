@@ -60,3 +60,14 @@ class DB(object):
         elem_id = elem.id
         cls.clear_session(session)
         return elem_id
+
+    @classmethod
+    def delete(cls, elem):
+        session = DB.get_session()
+        try:
+            session.delete(elem)
+        except Exception:
+            traceback.print_exc(file=sys.stdout)
+            session.close()
+            return
+        cls.clear_session(session)

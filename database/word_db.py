@@ -27,6 +27,10 @@ def add(**kwargs):
     word = Word(**kwargs)
     return DB.add(word)
 
+def del_by_id(word_id):
+    word = get_by_id(word_id)
+    DB.delete(word)
+
 
 @DB.query
 def get_by_category(session, category_id):

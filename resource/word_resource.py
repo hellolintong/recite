@@ -23,6 +23,7 @@ class ReciteCategoryArgs(BaseArgs):
 class ErrorCategoryArgs(BaseArgs):
     def rules(self):
         self.parser.add_argument(u"word_id", type=int)
+        self.parser.add_argument(u"op", type=unicode)
 
 
 class CategoryResource(Resource):
@@ -71,13 +72,13 @@ class ReciteCategoryResource(Resource):
 
 
 class ErrorCategoryResource(Resource):
-    def post(self):
-        args = ErrorCategoryArgs().args
+    @staticmethod
+    def add_error_word(word_id):
         category = category_db.get_category_by_name(u"错误单词库")
         #先根据单词的id获取单词，然后判断该单词的英文是否已经在数据库中
-        word = word_db.get_by_id(args[u"word_id"])
+        word = word_db.get_by_id(word_id)
         if not word or word_db.check_by_english_and_category(word.english, category.id):
-            return marshal({u"status": u"error"}, status_fields)
+            return False
         add_args = {
             u"chinese": word.chinese,
             u"english": word.english,
@@ -86,6 +87,21 @@ class ErrorCategoryResource(Resource):
             u"category_id": category.id
         }
         word_db.add(**add_args)
-        return marshal({u"status": u"ok"}, status_fields)
+        return True
+
+
+    def post(self):
+        args = ErrorCategoryArgs().args
+        op = args[u"op"]
+        if op == u"add":
+            result = ErrorCategoryResource.add_error_word(args[u"word_id"])
+            if result:
+                return marshal({u"status": u"ok"}, status_fields)
+            else:
+                return marshal({u"status": u"error"}, status_fields)
+        else:
+            word_db.del_by_id(args[u"word_id"])
+            return marshal({u"status": u"ok"}, status_fields)
+
 
 
