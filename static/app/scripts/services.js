@@ -86,3 +86,14 @@ ShanbayApp.factory("ReciteCategory", ["$http", function ($http){
     reciteCategory.$http = $http;
     return reciteCategory;
 }]);
+
+/*
+* 发送错误单词
+*/
+ShanbayApp.factory("ErrorWord", ["$http", function ($http){
+    var errorWord = new HttpService();
+    errorWord.url = "/api/error_word/";
+    errorWord.postArgs = {word_id: 0};
+    errorWord.$http = $http;
+    return errorWord;
+}]);

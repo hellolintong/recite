@@ -38,6 +38,11 @@ def get_word_index(session, category_id):
     return category.start_index
 
 
+@DB.query
+def get_category_by_name(session, name):
+    return session.query(Category).filter(Category.name == name).all()[0]
+
+
 def set_category_index(category_id, index):
     session = DB.get_session()
     category = session.query(Category).filter(Category.id == category_id).all()

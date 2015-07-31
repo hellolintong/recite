@@ -2,7 +2,7 @@
  */
 var ShanbayApp = angular.module("ShanbayApp", []);
 
-ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "Word", "WordIndex", "ReciteCategory", function ($scope, $document, Category, Word, WordIndex, ReciteCategory) {
+ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "Word", "WordIndex", "ReciteCategory", "ErrorWord", function ($scope, $document, Category, Word, WordIndex, ReciteCategory, ErrorWord) {
     //单词目录对象，key为category_id，value为对应的单词列表
     $scope.CategoryObj = {
     };
@@ -164,8 +164,8 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
    //根据词库id获取单词列表
     $scope.private.getWordList = function (category_id) {
         document.getElementById("startReciteBtn").click();
-        //单词列表为空，则去后台获取数据
-        if($scope.CategoryObj[category_id].wordList.length == 0){
+        //单词列表为空，后者是错误单词背诵则去后台获取数据
+        if($scope.CategoryObj[category_id].wordList.length == 0 || $scope.CategoryObj[category_id].category_id == "22"){
             var category_name = $scope.CategoryObj[category_id].category_name;
             $scope.curWordListObj = $scope.CategoryObj[category_id];
             $scope.CategoryObj[category_id].category_name = "后台正在获取数据，请耐心等待...";
@@ -245,7 +245,9 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
             return;
         }
         $scope.private.getWordList(category_id);
-        $scope.reciteCategoryId = category_id;
+        if($scope.curWordListObj.category_id != "22"){
+            $scope.reciteCategoryId = category_id;
+        }
         $scope.private.postReciteCategory();
     };
 
@@ -337,6 +339,15 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
                 }
             }
             else {
+                //发送错词到后台
+                var word = $scope.curWordListObj.getWord();
+                ErrorWord.postArgs["word_id"] = word["id"];
+                ErrorWord.post(
+                    function(data, status, headers, config){
+                    },
+                    function (data, status, headers, config) {
+                    }
+                );
                 $scope.curWordListObj.setHint();
                 $scope.playSound();
             }

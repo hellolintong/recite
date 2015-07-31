@@ -1,5 +1,5 @@
 #coding:utf-8
-from sqlalchemy import Column, Integer, String
+from sqlalchemy import Column, Integer, String, and_
 from database import DB
 from config.config import Config
 
@@ -32,5 +32,16 @@ def add(**kwargs):
 def get_by_category(session, category_id):
     return session.query(Word).filter(Word.category_id == category_id).all()
 
+
+@DB.query
+def get_by_id(session, word_id):
+    word_list = session.query(Word).filter(Word.id == word_id).all()
+    return word_list[0] if word_list else None
+
+
+@DB.query
+def check_by_english_and_category(session, english, category_id):
+    word_list = session.query(Word).filter(and_(Word.english == english, Word.category_id == category_id)).all()
+    return True if word_list else False
 
 DB.create_table(u"word")
