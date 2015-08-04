@@ -227,10 +227,19 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         var word = $scope.curWordListObj.getWord();
         player.src = "/static/sound/" + word["sound"];
         document.getElementById("wordInput").value = "";
-        document.getElementById("wordInput").focus();
+        $scope.private.focus();
         player.play();
         return true;
     }
+
+    //将光标设置到input末尾
+    $scope.private.focus = function(){
+        var input = document.getElementById("wordInput");
+        var val = input.value; //store the value of the element
+        input.value = val.slice(0, input.value.length - 1); //set that value back.
+        input.focus();
+    }
+
 
     //从服务器获取所有词库信息
     $scope.getCategoryList = function () {
@@ -257,6 +266,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         $scope.private.postReciteCategory();
     };
 
+
     //播放声音
     $scope.playSound = function () {
         var player = document.getElementById("player");
@@ -264,6 +274,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
         player.src = "";
         player.src = oldSrc;
         player.play();
+        $scope.private.focus();
     };
 
     //自动播放功能
@@ -319,6 +330,11 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
     //背诵
     $scope.recite = function (event) {
         $scope.curWordListObj.resetHint();
+
+        //用户按下tab键
+        if(event.keyCode == 49){
+            $scope.playSound();
+        }
         //用户按下回车键
         if (event.keyCode == 13) {
             if ($scope.curWordListObj.checkValue(event.target.value)){
@@ -372,7 +388,7 @@ ShanbayApp.controller("ShanbayController", ["$scope", "$document", "Category", "
                 $scope.playSound();
             }
             event.target.value = "";
-            event.target.focus();
+            $scope.private.focus();
         }
     };
 

@@ -58,16 +58,7 @@
 
                         <div class="modal-body">
                             <div class="recite-board">
-                                <div>
-                                    <span id="chinese" class="recite"
-                                          ng-bind="curWordListObj.wordList[curWordListObj.wordIndex]['chinese']"></span>
-                                    <span class="show-switch">
-                                        <input type="checkbox" name="showChineseBox" checked>
-                                    </span>
-                                </div>
-
-                                <hr>
-                                <div>
+                               <div>
                                     <span id="soundMark" class="recite"
                                           ng-bind="curWordListObj.wordList[curWordListObj.wordIndex]['sound_mark']">
                                     </span>
@@ -88,14 +79,25 @@
 
                                 <hr>
 
-                                <div>
+                               <div>
                                     <audio id="player" height="0" width="0">
                                         <source src="" type="audio/mpeg"/>
                                     </audio>
+                               </div>
+
+                               <div>
+                                    <span id="chinese" class="recite"
+                                          ng-bind="curWordListObj.wordList[curWordListObj.wordIndex]['chinese']"></span>
+                                    <span class="show-switch">
+                                        <input type="checkbox" name="showChineseBox" checked>
+                                    </span>
                                 </div>
+
+                                <hr>
+
                                 <div>
                                     <input id="wordInput" ng-class="{error: isError, correct: !isError}" type="text"
-                                           class="form-control" ng-keypress="recite($event);">
+                                           class="form-control" ng-keyup = "recite($event);" >
                                 </div>
                                 <hr>
                                 <div class="function-btn-group">
